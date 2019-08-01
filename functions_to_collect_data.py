@@ -13,7 +13,7 @@ import requests
 ################Define functions########################
 #get api keys provided a path
 def get_keys(path):
-    with open(path) as f:
+    with open(path,'r') as f:
         return json.load(f)
         
 #function to read the data from the json file
