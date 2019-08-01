@@ -1,0 +1,978 @@
+,title,budget,revenue,genres,production_countries,production_companies,adult,popularity,original_language,release_date,runtime,vote_average,vote_count
+0,How to Rob a Bank,0,0,"Action, Comedy, Crime",United States of America,Williamsburg Media Cult,False,4.679,en,2007-01-25,81,6.2,57
+1,City By The Sea,40000000,22433915,"Crime, Drama, Mystery",United States of America,"Warner Bros. Pictures, Epsilon Motion Pictures, Franchise Pictures, Brad Grey Pictures, Sea Breeze Productions Inc.",False,7.145,en,2002-09-06,108,5.8,159
+2,Shattered Glass,6000000,2944752,"Drama, History","Canada, United States of America","Cruise/Wagner Productions, Baumgarten Merims Productions, Forest Park Pictures",False,8.211,en,2003-11-14,94,6.8,195
+3,Straightheads,0,0,Thriller,United Kingdom,"Free Range Films, UK Film Council, Screen West Midlands, Verve Pictures, DJ Films, Film4 Productions, Ingenious Media",False,5.403,en,2007-04-27,88,5.0,61
+4,Here on Earth,15000000,0,Romance,United States of America,"Friendly Productions, Fox 2000 Pictures",False,6.604,en,2000-03-23,96,5.5,84
+5,Red Dust,0,0,Drama,"United Kingdom, South Africa","BBC, Videovision Entertainment, Industrial Development Corporation of South Africa, BBC Films, Distant Horizon",False,2.567,en,2004-01-01,110,6.5,14
+6,FB: Fighting Beat,0,0,Action,Thailand,,False,1.403,th,2007-01-01,78,4.7,6
+7,Josh Blue: 7 More Days In The Tank,0,0,Comedy,,,False,1.4,en,2006-11-09,59,0.0,0
+8,American Nightmare,0,0,"Crime, Horror, Thriller",United States of America,Highland Myst Entertainment,False,2.89,en,2002-01-29,91,5.4,31
+9,Borderland,0,0,"Crime, Horror, Thriller","Mexico, United States of America","Emmett/Furla Films, Tau Productions, Worldwide Media Group, Tonic Films, Freedom Films",False,6.062,en,2007-11-09,105,5.2,91
+10,Burnt Offerings,0,0,"Horror, Thriller","Italy, United States of America","United Artists, Produzioni Europee Associati (PEA), Dan Curtis Productions",False,7.204,en,1976-10-18,116,6.6,95
+11,The Changeling,0,12000000,Horror,Canada,"Chessman Park Productions, Carolco Pictures",False,6.059,en,1980-03-27,107,7.0,227
+12,The Dead Girl,0,0,"Mystery, Drama, Crime, Thriller",United States of America,"Pitbull Pictures, Lakeshore Entertainment, Bruin Grip Services",False,8.029,en,2006-11-07,85,6.3,109
+13,The Doom Generation,0,0,"Action, Comedy, Crime, Drama","France, United States of America","Blurco, The Teen Angst Movie Company, Desperate Pictures, Why Not Productions",False,6.135,en,1995-10-27,80,6.1,102
+14,The Driller Killer,0,0,"Drama, Horror",United States of America,Navaron Productions,False,4.193,en,1979-06-15,96,5.1,68
+15,Eight Men Out,0,0,"Drama, History",United States of America,Orion Pictures,False,7.281,en,1988-09-02,119,7.3,100
+16,The Funhouse,0,0,Horror,United States of America,Mace Neufeld Productions,False,8.998,en,1981-03-13,96,5.8,129
+17,The Ghosts Of Edendale,0,0,"Horror, Western",United States of America,Mixville 02,False,0.622,en,2003-02-19,90,5.0,1
+18,The Gravedancers,0,0,"Horror, Thriller",United States of America,Code Entertainment,False,5.346,en,2005-11-03,95,5.6,77
+19,H.H. Holmes: America's First Serial Killer,0,0,"Crime, Documentary, History",United States of America,Waterfront Productions,False,3.102,en,2004-01-01,64,6.2,24
+20,The Mangler,0,0,"Drama, Horror, Science Fiction",United States of America,"New Line Cinema, Allied Film Production",False,8.417,en,1995-03-03,106,4.8,94
+21,Max,11000000,0,"War, Drama","Canada, Hungary, United Kingdom","Pathé Pictures International, Film Council, Alliance Atlantis Communications, AAMPI Inc., Bioskop Film, Canadian Film or Video Production Tax Credit Fund (CPTC), H2O Motion Pictures, Aconit Pictures, JAP Films, Natural Nylon II",False,4.087,en,2002-09-10,106,6.3,52
+22,Murder Party,190000,0,"Comedy, Horror",United States of America,The Lab Of Madness,False,5.062,en,2007-10-12,79,5.8,115
+23,My Man Godfrey,656000,0,"Comedy, Romance",United States of America,Universal Pictures,False,6.015,en,1936-09-17,95,7.8,132
+24,Puddle Cruiser,0,0,"Comedy, Romance",United States of America,,False,3.198,en,1996-01-01,102,5.9,16
+25,Return to House on Haunted Hill,0,0,"Horror, Thriller",United States of America,"Dark Castle Entertainment, Warner Premiere",False,6.843,en,2007-10-03,81,5.0,94
+26,The Slaughterhouse Massacre,0,0,Horror,United States of America,4 What Its Worth Inc,False,2.177,en,2005-06-28,97,3.2,6
+27,Sleepaway Camp,350000,11000000,Horror,United States of America,"American Eagle, United Film Distribution Company (UFDC)",False,9.498,en,1983-11-18,85,6.3,236
+28,Sleepover Nightmare,0,0,Horror,Canada,,False,0.743,en,2005-06-21,81,3.5,1
+29,Thr3e,0,0,"Drama, Horror, Thriller","Poland, United States of America",MovieRoom Productions,False,5.089,en,2006-12-01,101,5.1,37
+30,Tourist Trap,800000,0,"Horror, Mystery, Thriller",United States of America,Charles Band Productions,False,7.422,en,1979-01-25,90,6.2,106
+31,True Colors,20000000,418807,Drama,United States of America,Paramount,False,3.278,en,1991-03-15,111,6.5,26
+32,Twisted,50000000,25195000,"Action, Adventure, Crime, Drama, Thriller","Germany, United States of America","Harlequin Pictures, Paramount, Intertainment AG, Kopelson Entertainment, Blackout Productions Inc.",False,9.121,en,2004-02-27,97,5.3,232
+33,The United States of Leland,0,343816,"Crime, Drama",United States of America,MDP Filmproduktion,False,8.927,en,2003-01-18,108,6.7,150
+34,This Is It,60000000,0,"Music, Documentary, Drama",United States of America,Columbia Pictures,False,11.027,en,2009-10-28,111,6.8,454
+35,Lower Learning,0,0,Comedy,United States of America,,False,3.555,en,2008-10-10,97,3.8,16
+36,Harold,0,0,Comedy,United States of America,,False,3.089,en,2008-07-13,90,5.0,27
+37,The Longshots,0,0,"Drama, Family, Comedy",United States of America,Cube Vision,False,3.041,en,2008-08-22,94,6.2,22
+38,The Spy Who Came in from the Cold,0,0,"Drama, Thriller",United Kingdom,"Paramount, Salem Films Limited",False,6.403,en,1965-12-16,112,7.2,106
+39,Dead of Night,0,0,"Comedy, Horror, Mystery, Thriller",United Kingdom,Ealing Studios,False,4.831,en,1945-09-04,103,7.3,80
+40,Lösvikt,0,0,,Sweden,Pan Vision,False,1.167,en,2008-10-22,83,0.0,0
+41,Bill Bailey: Part Troll,0,0,Comedy,United Kingdom,Talent Television,False,3.175,en,2004-11-22,94,8.1,13
+42,Bill Bailey: Tinselworm,0,0,Comedy,,,False,1.771,en,2008-11-10,91,8.0,7
+43,"Dylan Moran: Like, Totally...",0,0,Comedy,United Kingdom,,False,3.574,en,2006-11-27,66,7.5,18
+44,Eddie Izzard: Circle,0,0,Comedy,United Kingdom,,False,2.787,en,2002-11-18,82,7.3,21
+45,Eddie Izzard: Definite Article,0,0,Comedy,United Kingdom,,False,3.222,en,1996-10-21,109,7.8,24
+46,Eddie Izzard: Dress to Kill,0,0,Comedy,,,False,4.109,en,1999-06-14,114,8.2,32
+47,Eddie Izzard: Glorious,0,0,Comedy,United Kingdom,,False,0.6,en,1997-11-17,99,6.8,32
+48,Eddie Izzard: Unrepeatable,0,0,Comedy,United Kingdom,Ella Communications,False,3.391,en,1994-10-03,75,7.5,17
+49,Eddie Izzard: Sexie,0,0,Comedy,,,False,3.159,en,2003-11-26,97,6.1,15
+50,Airheads,0,0,"Comedy, Crime, Music",United States of America,"Robert Simonds Productions, Island World, 20th Century Fox",False,11.655,en,1994-08-05,92,5.8,345
+51,My Best Friend's Girl,20000000,36620508,"Romance, Comedy",United States of America,"New Wave Entertainment, Lionsgate, Management 360, Terra Firma Films, Superfinger Entertainment",False,8.708,en,2008-09-19,101,5.6,387
+52,Labyrinth,25000000,12729917,"Adventure, Family, Fantasy","United Kingdom, United States of America","TriStar Pictures, Henson Associates (HA), Lucasfilm, The Jim Henson Company, Delphi V Productions",False,11.491,en,1986-06-27,102,7.2,1118
+53,City of Ember,55000000,17869048,"Adventure, Family, Fantasy",United States of America,"Playtone, Walden Media",False,12.353,en,2008-10-07,90,6.2,989
+54,The U.S. vs. John Lennon,0,0,Documentary,United States of America,Authorized Pictures,False,2.93,en,2006-09-15,99,6.5,28
+55,The Painted Veil,19400000,26522838,"Romance, Drama","Canada, China, United States of America","Yari Film Group, Emotion Pictures, The Mark Gordon Company, Class 5 Films, Warner China Film HG Corporation, Stratus Film Co., WIP, Bob Yari Productions, The Colleton Company, Dragon Studios",False,8.569,en,2006-12-09,125,7.3,585
+56,Ping Pong Playa,0,0,"Comedy, Drama",United States of America,,False,2.986,en,2007-01-01,96,6.0,30
+57,Holding Trevor,0,0,Drama,United States of America,KGB Films,False,4.207,en,2007-06-16,88,5.1,22
+58,Female Ninjas Magic Chronicles: Legend of Yagyu Part 1,0,0,Action,Japan,King Record Co.,False,0.975,ja,1998-01-01,106,6.0,1
+59,The Librarian: Quest for the Spear,0,0,"Thriller, Adventure, Action, Comedy, Drama, Fantasy, Romance",United States of America,"Electric Entertainment, ApolloProScreen Filmproduktion, Turner Network Television",False,8.788,en,2004-12-05,106,6.1,296
+60,The Librarian: Return to King Solomon's Mines,0,0,"Fantasy, Action, Adventure",United States of America,,False,6.721,en,2006-09-09,92,6.0,217
+61,The Morgue,0,0,"Horror, Thriller, Mystery",United States of America,,False,3.823,en,2008-01-01,84,4.4,17
+62,Nightmare City 2035,0,0,Science Fiction,"Bulgaria, United States of America","Camera, L&P Productions",False,3.568,en,2007-01-01,,3.9,11
+63,Prey,0,0,"Adventure, Horror, Thriller","South Africa, United States of America","Anant Singh Production, Videovision Entertainment, Distant Horizon, Ingenious Media",False,7.901,en,2007-01-30,92,5.1,141
+64,Pulse 2: Afterlife,0,0,"Drama, Horror, Science Fiction",United States of America,Dimension Extreme,False,5.123,en,2008-09-30,89,4.2,38
+65,Recon 2022 The Mezzo Incident,0,0,Science Fiction,Canada,Blood & Bullets Productions,False,2.05,en,2007-04-04,,3.1,6
+66,Thoda Pyaar Thoda Magic,0,0,"Drama, Comedy",India,Yash Raj Films,False,2.969,hi,2008-06-27,145,5.1,21
+67,Restraint,0,0,"Drama, Thriller",Australia,"Film Finance, Filmgraphics Entertainment",False,4.985,en,2008-08-19,94,6.1,61
+68,Rigged,0,0,"Drama, Action, Thriller, Crime",United States of America,,False,2.186,en,2008-09-10,100,4.7,11
+69,Reincarnation,0,0,Horror,Japan,"TBS, Nikkatsu Corporation, Mainichi Broadcasting System (MBS), Entertainment Farm (EF), Geneon Universal Entertainment Japan, Oz Company, Toho Company, Ltd.",False,4.655,ja,2005-10-26,96,5.8,60
+70,Skinwalkers,0,0,"Fantasy, Action, Horror","Germany, United States of America, Canada",,False,8.284,en,2006-03-20,110,4.5,127
+71,Strange Wilderness,0,6575282,Comedy,United States of America,"Happy Madison Productions, Pelican Productions LLC, Paramount",False,7.063,en,2008-02-01,87,5.0,116
+72,Wind Chill,6000000,285000,"Drama, Horror, Thriller","Canada, United Kingdom, United States of America","TriStar Pictures, Blueprint Pictures, Section Eight",False,7.025,en,2007-04-27,91,5.6,182
+73,E=mc²,0,0,"Action, Comedy",Poland,"HBO Polska, Best Film, Filmcontract Ltd.",False,3.641,pl,2002-08-23,120,6.2,21
+74,Riding Alone for Thousands of Miles,7500000,3752325,Drama,"China, Hong Kong, Japan","Zhang Yimou Studio, Beijing New Picture Film Co., China Film Co-Production Corporation, Edko Films, Elite Group Entertainment, Gilla Company, Toho Company, Ltd.",False,3.86,zh,2005-12-22,107,7.4,34
+75,Mortuary,0,0,"Horror, Mystery, Thriller",United States of America,Echo Bridge Entertainment,False,3.677,en,2005-08-08,94,4.6,47
+76,Do You Like Hitchcock?,0,0,"TV Movie, Mystery, Horror, Thriller","Italy, Spain","Film Commission Torino Piemonte, Opera Film (II), Genesis Motion Pictures, RaiTrade, Institut del Cinema Català (ICC), Televisió de Catalunya",False,3.617,en,2005-03-19,93,5.1,23
+77,Wholetrain,0,0,"Drama, Crime","Germany, Poland","Goldkind Filmproduktion, Das Kleine Fernsehspiel",False,3.073,de,2006-10-05,82,6.5,12
+78,Humboldt County,0,0,"Comedy, Drama",,,False,2.853,en,2008-01-01,97,4.7,13
+79,Film Noir,0,0,"Mystery, Animation, Crime","United States of America, Serbia",EasyE Films,False,2.564,en,2007-03-02,97,6.0,11
+80,Ploy,2000000,0,Drama,Thailand,"Fortissimo Films, Five Star Entertainment",False,2.354,th,2007-05-21,105,6.1,17
+81,Eden Log,0,0,"Action, Adventure, Drama, Horror, Science Fiction, Thriller",France,"Impéria, Bac Films",False,4.473,fr,2007-12-26,98,4.9,87
+82,Super High Me,600000,0,"Comedy, Documentary",United States of America,,False,6.056,en,2007-10-13,89,5.7,113
+83,Brainscan,0,4352094,"Fantasy, Horror, Science Fiction","Canada, United Kingdom, United States of America","Triumph Films, Admire Productions Ltd., Coral Productions",False,6.838,en,1994-04-22,96,6.0,99
+84,The Sweet Hand of the White Rose,0,0,"Drama, Fantasy",,,False,0.662,en,2010-05-30,16,6.5,2
+85,Cool World,30000000,14110589,"Animation, Comedy, Fantasy",United States of America,Paramount,False,8.509,en,1992-07-10,102,5.1,286
+86,Maniac Cop,1100000,0,"Thriller, Action, Horror",United States of America,Shapiro-Glickenhaus Entertainment,False,7.013,en,1988-05-13,85,6.1,154
+87,7 Faces of Dr. Lao,0,0,"Drama, Family, Fantasy, Mystery, Western",United States of America,George Pal Productions,False,3.501,en,1964-03-18,100,7.2,41
+88,American Movie,0,0,Documentary,United States of America,"Civilian Pictures, Bluemark Productions, C-Hundred Film Corporation",False,6.006,en,1999-11-05,107,7.9,117
+89,Wild Style,0,0,Drama,United States of America,Wild Style,False,2.139,en,1983-03-18,82,6.1,19
+90,Chris Rock: Kill the Messenger,0,0,"Comedy, TV Movie",United States of America,"CR Enterprises, Funny Business Productions",False,4.322,en,2008-09-27,79,7.8,38
+91,Sniper 2,5000000,0,Action,United States of America,Sandstorm Films,False,7.181,en,2002-12-28,97,5.3,48
+92,Sniper 3,0,0,"Drama, Action, Thriller",United States of America,"Sandstorm Films, Destination Films",False,7.135,en,2004-10-18,97,5.0,46
+93,Igor,25000000,30700000,"Animation, Comedy, Family, Fantasy","United States of America, France","Exodus Film Group, Exodus Productions",False,8.575,en,2008-09-19,87,5.6,263
+94,Revenge,0,15645616,"Romance, Thriller","Mexico, United States of America","New World Pictures, Columbia Pictures",False,8.158,en,1990-02-16,123,6.5,170
+95,Weirdsville,0,0,"Drama, Action, Comedy","Canada, United States of America",,False,3.02,en,2007-10-12,90,6.1,30
+96,Vice,0,0,"Action, Thriller",United States of America,"Arcview Entertainment, Stage 18 Pictures",False,2.476,en,2008-01-01,99,4.1,11
+97,The Uninvited,0,41624046,"Drama, Horror, Mystery, Thriller",United States of America,"MacDonald/Parkes Productions, Vertigo Entertainment, Cold Spring Pictures, The Montecito Picture Company, Medien 5 Filmproduktion, DreamWorks Pictures",False,11.32,en,2009-01-30,87,6.4,775
+98,Pulse 3,0,0,"Horror, Thriller",United States of America,Dimension Extreme,False,5.346,en,2008-12-23,91,4.2,31
+99,Winter Passing,3500000,113783,"Comedy, Drama",United States of America,"Yari Film Group, Stratus Film Co.",False,5.273,en,2006-02-07,98,6.6,41
+100,Delusions of Grandeur,0,0,"Comedy, History","France, Spain, Italy, Germany","Gaumont, Mars Film, Coral Films, Orion Filmproduktion",False,10.019,fr,1971-04-01,108,7.6,305
+101,Wonderful Days,0,0,"Animation, Science Fiction",South Korea,Tin House Productions,False,4.715,ko,2003-07-17,86,6.3,71
+102,Desperate Living,65000,0,"Comedy, Crime, Fantasy, Horror",United States of America,Charm City Productions,False,4.997,en,1977-05-27,90,6.8,54
+103,Hip-Hop: Beyond Beats & Rhymes,0,0,"Music, Documentary",,,False,1.152,en,2006-01-01,61,8.0,2
+104,Hip Hop Immortals We Got Your Kids,0,0,Documentary,,,False,0.6,en,2004-01-01,,0.0,0
+105,Hip Hop Legends,0,0,Documentary,,,False,0.655,en,2007-01-01,,0.0,0
+106,Infamy,150000,0,Documentary,United States of America,"1171 Production Group, Paladin Entertainment, QD3 Entertainment",False,0.743,en,2005-09-18,91,7.0,2
+107,Female Trouble,25000,0,"Comedy, Crime",United States of America,"Dreamland, Saliva Films",False,5.309,en,1974-10-04,98,7.2,64
+108,Startup.com,0,0,Documentary,United States of America,,False,3.688,en,2001-01-01,107,6.8,14
+109,Polyester,300000,0,Comedy,United States of America,New Line Cinema,False,3.376,en,1981-05-29,86,6.7,49
+110,Beyond the Mat,2053648,500000,Documentary,United States of America,"Lionsgate, Universal Pictures, Imagine Entertainment",False,3.816,en,1999-10-22,102,7.7,32
+111,Chan Is Missing,0,0,"Action, Comedy, Crime",,,False,1.236,en,1982-01-01,80,7.0,8
+112,Dark Days,0,0,Documentary,United States of America,Wide Angle Pictures,False,5.119,en,2000-08-30,82,7.6,50
+113,The Heart of the Game,0,0,Documentary,,,False,1.527,en,2005-01-01,97,5.7,3
+114,Hoop Dreams,700000,7830611,Documentary,United States of America,"Fine Line Features, Kartemquin Films",False,6.066,en,1994-09-12,174,7.9,152
+115,A Lawyer Walks Into a Bar...,0,0,Documentary,,,False,0.842,en,2007-01-01,92,0.0,0
+116,Loose Change,5000,0,Documentary,United States of America,Polar Film   Medien GmbH,False,3.242,en,2006-06-01,100,6.8,25
+117,Murderball,300000,1750211,Documentary,United States of America,,False,3.149,en,2005-07-22,88,7.3,42
+118,My Kid Could Paint That,0,0,Documentary,,,False,3.418,en,2007-10-05,82,7.0,22
+119,Never Cry Wolf,0,0,"Action, Adventure, Drama",United States of America,Walt Disney Productions,False,4.063,en,1983-10-07,105,7.2,56
+120,Ninja Scroll,10000000,0,"Fantasy, Adventure, Animation",Japan,Madhouse,False,9.443,ja,1993-06-05,94,7.5,203
+121,The Red Violin,18000000,9495408,"Drama, Thriller, Mystery, Music, Romance","Canada, Italy, United Kingdom","Rhombus Media, Channel Four Films",False,8.936,en,1998-09-10,131,7.6,163
+122,In the Shadow of the Moon,2000000,0,Documentary,"United Kingdom, United States of America","Discovery Films, Passion Pictures, Film4 Productions, DOX Productions",False,2.851,en,2007-01-19,109,7.8,54
+123,The Thin Blue Line,0,1209846,"Crime, Documentary, Mystery",United States of America,"IFC Films, American Playhouse, Third Floor Productions, Channel 4 Television",False,6.284,en,1988-08-28,103,7.8,199
+124,Why We Fight,0,0,"Documentary, Drama, History","Canada, Denmark, France, United Kingdom, United States of America",Charlotte Street Films,False,4.535,en,2005-01-01,98,7.7,53
+125,The Year of the Yao,0,38585,Documentary,United States of America,NBA Entertainment,False,0.6,en,2004-09-16,88,5.5,2
+126,Fire Down Below,60000000,16000000,"Action, Adventure, Crime, Thriller, Drama",United States of America,"Seagal/Nasso Productions, Warner Bros. Pictures",False,6.98,en,1997-09-05,105,5.1,146
+127,Better Luck Tomorrow,0,0,"Crime, Drama",United States of America,,False,3.921,en,2002-01-12,101,6.6,38
+128,Searching for Bobby Fischer,0,7266383,Drama,United States of America,Mirage Enterprises,False,5.415,en,1993-08-13,110,7.4,158
+129,Miracle,28000000,64445708,"Drama, History",United States of America,Walt Disney Pictures,False,9.412,en,2004-02-06,135,7.1,280
+130,Poolhall Junkies,0,0,"Comedy, Drama, Thriller",United States of America,Gold Circle Films,False,3.163,en,2002-06-07,99,6.7,39
+131,Through the Fire,0,0,Documentary,United States of America,ESPN,False,1.802,en,2005-01-01,,7.0,3
+132,You Can Count on Me,0,0,"Drama, Romance",United States of America,"Crush Entertainment, Hart-Sharp Entertainment, Cappa Productions",False,8.418,en,2000-11-17,111,7.0,145
+133,Of Penguins and Men,0,0,Documentary,,,False,0.826,en,2004-01-01,54,7.0,1
+134,Root of All Evil?,0,0,Documentary,"United States of America, Israel, France, United Kingdom",,False,2.555,en,2006-01-09,93,7.5,31
+135,Somers Town,0,0,"Comedy, Drama",United Kingdom,Big Arty Productions,False,4.889,en,2008-08-22,71,7.0,38
+136,Cadillac Records,12000000,8880045,"Drama, History, Music",United States of America,Parkwood Entertainment,False,6.006,en,2008-12-05,109,7.1,179
+137,Storm Boy,0,0,Drama,Australia,South Australian Film Corporation,False,2.517,en,1976-11-18,88,6.9,15
+138,Marley & Me,60000000,242717113,"Comedy, Family",United States of America,"Sunswept Entertainment, Dune Entertainment III",False,9.73,en,2008-12-25,115,7.2,2788
+139,Garfield on the Town,0,0,"Animation, Family",,,False,2.103,en,1983-10-28,30,6.1,7
+140,I Am Trying to Break Your Heart: A Film About Wilco,0,0,"Music, Documentary",United States of America,,False,2.001,en,2002-06-21,92,8.1,7
+141,Infernal Affairs III,0,0,"Crime, Drama, Action",Hong Kong,Media Asia Films,False,9.188,zh,2003-12-12,118,6.8,117
+142,Pirates II: Stagnetti's Revenge,10000000,0,"Adventure, Comedy",United States of America,Digital Playground,True,17.177,en,2008-09-27,138,8.0,27
+143,Feast of Love,0,3504875,"Drama, Romance",United States of America,"Revelations Entertainment, Lakeshore Entertainment, Metro-Goldwyn-Mayer, GreeneStreet Films",False,5.505,en,2007-09-28,101,6.1,104
+144,The Wild Thornberrys Movie,35000000,0,"Animation, Adventure, Family",United States of America,"Paramount, Nickelodeon Movies",False,6.779,en,2002-12-20,85,5.9,108
+145,Great Expectations,0,0,"Drama, Romance",United Kingdom,Cineguild,False,5.945,en,1946-12-26,118,7.2,122
+146,Virgin Territory,38000000,5410749,"Adventure, Action, Comedy, Romance","Luxembourg, Italy, France, United Kingdom","Zephyr Films, Carthago Films S.a.r.l., Dino De Laurentiis Company, Dino de Laurentiis Cinematografica, Red Lion Sarl, Ingenious Media",False,6.629,en,2007-12-17,93,4.3,148
+147,The Express,40000000,9793496,Drama,"Germany, United States of America","Davis Entertainment, Relativity Media, IDEA Filmproduktions, Universal Pictures",False,7.085,en,2008-10-10,130,7.1,115
+148,Nights in Rodanthe,0,84375061,"Drama, Romance","Australia, United States of America","Village Roadshow Pictures, DiNovi Pictures, Warner Bros. Pictures",False,8.294,en,2008-09-26,97,6.1,322
+149,The Paper Chase,0,0,"Comedy, Drama, Romance",United States of America,"Thompson-Paul Productions, 20th Century Fox",False,3.973,en,1973-10-16,113,6.9,43
+150,Fia og klovnene,0,0,Drama,Norway,"Dinamo Story AS, SF Norge, Norsk FilmStudio AS",False,1.302,en,2003-10-24,103,4.5,3
+151,Trojan War,15000000,0,Comedy,United States of America,"Daybreak Pictures, Warner Bros. Pictures",False,4.698,en,1997-09-26,85,5.3,41
+152,The Secret of Roan Inish,0,0,"Drama, Family, Fantasy","Ireland, United States of America","Jones Entertainment Group, Skerry Productions",False,2.3,en,1995-02-03,97,6.5,28
+153,ABBA: The Movie,0,0,"Documentary, Music, Drama, Comedy","Australia, Sweden","Polar Music International, Reg Grundy Productions Pty. Ltd.",False,3.03,en,1977-12-15,95,6.5,28
+154,Primer,7000,424760,"Science Fiction, Drama, Thriller",United States of America,,False,8.8,en,2004-10-08,77,6.9,1102
+155,Gamers,0,0,Comedy,,,False,1.302,en,2006-01-01,84,4.2,3
+156,Almost Heroes,30000000,6100000,"Adventure, Comedy, Western",United States of America,"DiNovi Pictures, Turner Pictures (I)",False,7.404,en,1998-05-29,90,5.6,78
+157,Whole New Thing,0,0,"Comedy, Drama",Canada,"Acuity Pictures Production, Picture This! Entertainment, Palpable Productions",False,1.515,en,2005-01-01,92,6.0,8
+158,Blackballed: The Bobby Dukes Story,0,0,Comedy,United States of America,"Werkaround, The 7th Floor, First Motionless Pictures",False,2.067,en,2004-01-01,91,5.6,7
+159,Blame It on Rio,0,18644570,"Comedy, Romance",United States of America,Sherwood,False,5.331,en,1984-02-17,100,5.9,77
+160,An Evening with Kevin Smith,0,0,"Comedy, Documentary",United States of America,,False,3.039,en,2002-12-17,224,7.4,43
+161,Sleepwalking,0,204660,Drama,"Canada, United States of America","Icon Entertainment International, Denver and Delilah Productions, FilmEngine, Infinity Features Entertainment",False,6.389,en,2008-03-14,101,6.3,36
+162,The Wiggles: You Make Me Feel Like Dancing,0,0,Family,Australia,The Wiggles Pty Ltd,False,1.176,en,2008-07-28,60,5.3,2
+163,Crossover,5800000,7000000,"Action, Adventure, Drama",United States of America,"360 Pictures, Dribble Productions, Platinum Equity",False,2.845,en,2006-09-01,95,3.7,19
+164,The Wiggles: Wiggle Bay,0,0,"Drama, Family",Australia,The Wiggles Pty Ltd,False,1.96,en,2002-09-29,41,5.3,2
+165,Repo! The Genetic Opera,8500000,188126,"Horror, Music, Science Fiction",United States of America,"Twisted Pictures, Lions Gate Films",False,8.299,en,2008-07-18,98,6.5,165
+166,Red Shadow,0,0,"Adventure, Action, Comedy",Japan,,False,2.187,ja,2001-08-11,108,5.0,12
+167,The King of Ping Pong,0,0,Drama,Sweden,BOB Film Sweden,False,3.042,sv,2008-01-18,107,6.7,9
+168,Mad Hot Ballroom,0,0,"Documentary, Family",United States of America,"Nickelodeon Movies, Paramount Vantage, Paramount",False,10.954,en,2005-05-13,105,7.3,12
+169,Doubt,20000000,50907234,"Drama, Mystery",United States of America,"Scott Rudin Productions, Goodspeed Productions",False,10.534,en,2008-11-27,104,7.2,890
+170,Captain Ron,24000000,22518097,"Action, Adventure, Comedy, Family",United States of America,"Touchstone Pictures, Touchwood Pacific Partners 1",False,9.3,en,1992-09-18,100,5.5,151
+171,Out for Justice,14000000,39673161,Action,United States of America,"Arnold Kopelson Productions, Seagal/Nasso Productions, Warner Bros. Pictures",False,8.391,en,1991-04-12,91,6.1,187
+172,Killing Me Softly,0,0,"Drama, Thriller, Mystery, Romance","United Kingdom, United States of America","Noelle Entertainment Limited, The Montecito Picture Company",False,8.687,en,2002-05-10,100,5.6,139
+173,Adventures in Babysitting,0,34368475,Comedy,United States of America,"Silver Screen Partners III, Touchstone Pictures",False,10.405,en,1987-07-01,102,6.8,272
+174,Jungle Emperor Leo,0,0,"Adventure, Animation, Comedy, Family",Japan,"Shochiku Co., Ltd., Tezuka Productions",False,1.941,ja,1997-01-01,100,6.7,12
+175,Out Cold,24000000,14782676,Comedy,United States of America,"The Donners' Company, Spyglass Entertainment, Touchstone Pictures, Epsilon Motion Pictures",False,5.854,en,2001-11-21,89,5.8,85
+176,Real Genius,0,13000000,"Comedy, Romance",United States of America,"TriStar Pictures, Delphi III Productions",False,9.045,en,1985-08-07,106,6.8,189
+177,Leviathan,25000000,15704614,"Adventure, Horror, Action, Thriller, Science Fiction","Italy, United States of America","Gordon Company, Filmauro, Metro-Goldwyn-Mayer",False,7.491,en,1989-03-17,98,5.8,192
+178,Death Wish II,2000000,45000000,"Action, Crime, Thriller",United States of America,"Cannon Group, Golan-Globus Productions, Filmways Pictures, City Film",False,6.99,en,1982-02-20,88,6.2,152
+179,Romanzo criminale,818418,4851244,Drama,Italy,"Cattleya, Aquarius Films, Babe Film, Warner Bros. Pictures",False,7.173,en,2005-09-30,152,7.3,293
+180,The Little Polar Bear 2: The Mysterious Island,0,0,"Family, Animation",Germany,,False,2.591,de,2005-09-29,80,8.0,1
+181,The Sex Monster,0,0,Comedy,,,False,2.843,en,1999-05-15,97,5.0,19
+182,Soldier Blue,0,0,"Action, Drama, Romance, Western",United States of America,"AVCO Embassy Pictures, Katzka-Loeb",False,4.275,en,1970-08-12,112,7.2,73
+183,The Great St. Trinian's Train Robbery,0,0,"Action, Comedy",United Kingdom,,False,1.969,en,1966-01-01,93,5.9,7
+184,Danny Deckchair,0,0,"Comedy, Romance",Australia,,False,2.326,en,2003-05-16,100,5.9,33
+185,Double Whammy,0,0,"Comedy, Crime, Drama",United States of America,"Lemon Sky Productions, Apostle, Gold Circle Films",False,3.771,en,2001-01-20,93,5.5,29
+186,The Warlords,40000000,0,"Action, Drama, History","China, Hong Kong","China Film Group Corporation, Applause Pictures, Media Asia Films, Beijing Jinyinma Movie & TV Culture Co., Stellar Mega Films, Beijing Poly-bona Film Publishing Company, Chengtian Entertainment, Morgan & Chan Films, Talent Aid International",False,6.464,zh,2007-12-12,126,6.6,129
+187,Double Pack,0,0,Comedy,Germany,Prokino Filmproduktion,False,0.731,de,2000-08-17,88,4.3,3
+188,Sarkar Raj,820000,8130000,"Action, Adventure, Crime, Drama",India,"K Sera Sera Limited, Z Picture Company, Balaji Motion Pictures",False,2.256,hi,2008-06-06,125,6.4,19
+189,Kabhi Alvida Naa Kehna,7400000,17000000,"Drama, Romance",India,Dharma Productions,False,8.526,hi,2006-08-11,193,5.8,81
+190,Code Name: The Cleaner,20000000,10337477,"Action, Comedy, Crime",United States of America,New Line Cinema,False,6.487,en,2007-01-05,84,4.6,116
+191,Whisper,12000000,5285197,"Crime, Drama, Horror, Thriller","Canada, United States of America","Universal Pictures, Gold Circle Films, H2F Entertainment, Yukon Film Incentive Program, Canadian Film or Video Production Tax Credit Fund (CPTC)",False,6.988,en,2007-11-27,94,6.3,107
+192,Gang Related,0,0,Action,United States of America,"Orion Pictures, Kouf/Bigelow Productions",False,6.845,en,1997-10-08,102,6.6,58
+193,Killing Cabos,0,0,"Comedy, Action, Crime",Mexico,,False,4.157,es,2004-07-16,94,7.6,47
+194,The Heir Apparent: Largo Winch,25412760,0,"Adventure, Drama, Action, Thriller","Belgium, France","Pan-Européenne, Wild Bunch, TF1 Films Production",False,9.833,fr,2008-12-17,108,6.1,287
+195,Chocolate,0,0,"Action, Comedy, Crime",Thailand,"Bam-Ram-Ewe, Sahamongkol Film International",False,6.228,th,2008-02-06,93,7.1,150
+196,His Name Was Jason: 30 Years of Friday the 13th,0,0,"Documentary, Horror",United States of America,Paramount,False,4.625,en,2009-02-03,90,6.9,37
+197,One Night with the King,20000000,13391174,Drama,United States of America,Gener8Xion Entertainment,False,3.133,en,2006-10-13,123,6.3,21
+198,Rails & Ties,0,22136,Drama,,,False,3.521,en,2007-09-01,101,6.2,20
+199,Number Seventeen,0,0,"Crime, Mystery, Thriller",United Kingdom,British International Pictures,False,4.854,en,1932-07-18,63,5.7,39
+200,The Flying Scotsman,0,0,Drama,"United Kingdom, Germany",ContentFilm International,False,3.766,en,2006-08-16,96,6.8,24
+201,West,800000,0,Drama,,,False,1.865,en,2007-07-05,90,4.7,3
+202,Red Mist,0,0,"Thriller, Horror",United Kingdom,"Generator Entertainment, Geronimo Films, Framestore CFC, Northern Ireland Screen",False,5.072,en,2008-08-22,98,5.1,35
+203,Linewatch,5000000,0,"Action, Adventure, Crime, Drama, Thriller",United States of America,Stage 6 Films,False,2.932,en,2008-01-01,90,5.2,22
+204,Wah-Wah,0,0,Drama,"Swaziland, United Kingdom, South Africa, France","Reeleyes Film, Wah Film Productions Ltd., Scion Films, Loma Nasha",False,3.061,en,2005-08-17,120,6.2,13
+205,Bianca,0,0,"Drama, Comedy",Italy,"Reteitalia, Faso Film",False,7.06,it,1984-02-23,96,7.7,161
+206,Barbie as Rapunzel,0,0,"Animation, Family",Canada,Rainmaker Studios,False,7.541,en,2002-10-01,84,6.7,557
+207,Barbie of Swan Lake,0,0,"Animation, Family",United States of America,"Mainframe Entertainment, Mattel",False,9.514,en,2003-09-28,81,6.7,592
+208,Blonde Ambition,10000000,0,"Comedy, Romance",United States of America,,False,5.782,en,2007-12-21,93,4.4,68
+209,Thriller: A Cruel Picture,0,0,"Horror, Thriller",Sweden,"BAV Film, United Producers",False,6.534,sv,1973-05-01,104,6.5,82
+210,I Could Never Be Your Woman,24000000,9576495,"Comedy, Drama, Romance",United States of America,"I Could Never Ltd., Scott Rudin Productions, Bauer Martinez Studios",False,8.824,en,2007-05-11,97,5.8,187
+211,Poor Boy's Game,0,0,Drama,,,False,2.588,en,2007-02-11,104,5.7,9
+212,The Baby's Room,0,0,"Horror, Mystery, Thriller, TV Movie",Spain,"Estudios Picasso, Filmax, Castelao Producciones, Telecinco Cinema",False,3.925,es,2006-07-31,77,6.5,57
+213,Dirty Deeds,0,0,"Comedy, Drama",United States of America,"Green Diamond Entertainment, Ten Deeds, Bill Civitella/Todd Zeile Production, Thats Hollywood",False,4.688,en,2005-08-26,87,5.6,55
+214,Park,0,0,Comedy,United States of America,,False,3.193,en,2006-02-09,86,5.5,6
+215,Projekt Gold,0,0,Documentary,Germany,Kinowelt Filmproduktion,False,0.777,de,2007-07-30,106,6.0,4
+216,The Guyver,0,0,"Action, Fantasy, Science Fiction, Comedy",United States of America,,False,3.698,en,1991-01-01,88,5.0,50
+217,Clockstoppers,26000000,38793283,"Adventure, Family, Science Fiction, Thriller",United States of America,"Paramount, Nickelodeon Movies, Valhalla Motion Pictures",False,6.935,en,2002-03-17,94,5.0,135
+218,The Whoopee Boys,0,0,"Comedy, Romance",United States of America,Paramount,False,2.574,en,1986-08-22,88,8.0,1
+219,Deep Water,0,0,"Documentary, Adventure, Drama, Action",United Kingdom,,False,3.366,en,2006-12-15,92,7.3,30
+220,The Breaks,0,0,Comedy,,,False,1.989,en,1999-02-26,86,5.4,4
+221,Constantine's Sword,0,0,Documentary,,,False,1.49,en,2008-04-18,,5.3,5
+222,Le séminaire Caméra Café,0,0,Comedy,France,TFM Distribution,False,1.994,fr,2009-02-11,94,5.0,22
+223,Fire and Ice,1200000,760883,"Animation, Fantasy, Science Fiction",United States of America,"Polyc International BV, Producers Sales Organization (PSO), 20th Century Fox",False,7.485,en,1983-03-25,81,6.2,71
+224,Eden Is West,0,0,Drama,"Greece, France, Italy",CinéCinéma,False,3.328,fr,2009-02-11,110,6.2,28
+225,Can't Hardly Wait,10000000,25605015,"Comedy, Drama, Romance",United States of America,Columbia Pictures,False,10.757,en,1998-06-12,100,6.2,217
+226,Against the Dark,9000000,0,"Horror, Action, Thriller, Science Fiction","United States of America, Romania","Steamroller Productions, Castel Film",False,5.198,en,2009-01-01,94,4.1,67
+227,Big Money Hustlas,250000,0,"Comedy, Crime",United States of America,Non-Homogenized Productions Ltd.,False,1.329,en,2000-07-18,97,8.0,2
+228,American Girl,0,0,"Comedy, Drama",United States of America,,False,2.16,en,2002-02-10,88,5.5,11
+229,Hating Alison Ashley,0,0,"Comedy, Drama",Australia,HAA Films Pty Ltd,False,1.24,en,2005-03-17,100,5.5,2
+230,Brink!,0,0,Drama,United States of America,Disney Channel,False,2.188,en,1998-08-28,90,6.3,48
+231,Einstein and Eddington,0,0,"History, Drama, TV Movie",United Kingdom,"Company Television Productions, HBO Films, Pioneer Pictures",False,4.152,en,2008-11-29,90,7.1,57
+232,Fat Albert,26000000,48563556,"Comedy, Family, Fantasy",United States of America,"Culver Studios, Davis Entertainment",False,6.435,en,2004-12-12,93,4.4,118
+233,7-10 Split,4000000,0,"Drama, Comedy",United States of America,Wingman Productions,False,1.943,en,2007-02-21,90,3.8,3
+234,Beaufort,0,0,"History, Drama",Israel,Metro Communications,False,2.712,he,2007-02-02,131,7.3,16
+235,Bon Cop Bad Cop,8000000,12671300,"Action, Comedy, Crime",Canada,"Park Ex Pictures, Sortie 22",False,6.018,fr,2006-07-06,116,6.5,92
+236,Brainstorm,15000000,10219460,"Science Fiction, Thriller",United States of America,Metro-Goldwyn-Mayer,False,5.036,en,1983-09-30,106,6.3,101
+237,The Lodger,0,0,"Horror, Mystery, Thriller, Drama",United States of America,Merchant Pacific Corporation,False,5.136,en,2009-01-14,96,5.4,68
+238,Sex and Breakfast,0,0,"Comedy, Drama, Romance",United States of America,"CinemaLab, Brandman Productions",False,3.206,en,2007-11-29,81,5.2,19
+239,A Perfect Place,0,0,"Comedy, Crime",United States of America,Fantoma Films,False,0.6,en,2008-01-01,25,0.0,0
+240,Suspension,0,0,"Action, Drama, Fantasy, Science Fiction, Thriller",United States of America,EasyAction,False,1.135,en,2008-01-01,95,4.6,13
+241,The Curse of King Tut's Tomb,14000000,0,"Action, Adventure, Fantasy, Thriller",United States of America,"Larry Levinson Productions, Hallmark Entertainment, Silverstar Ltd.",False,2.941,en,2006-04-11,170,4.5,18
+242,The Evil Woods,0,0,Horror,United States of America,Fixed Point Films,False,0.95,en,2007-11-11,83,3.0,2
+243,Speak,1000000,0,Drama,United States of America,Speak Film Inc.,False,7.437,en,2004-01-20,89,6.8,245
+244,The Loss of Sexual Innocence,4000000,0,Drama,"United Kingdom, United States of America","Red Mullet Productions, Summit Entertainment, Newmarket Capital Group",False,3.681,en,1999-04-29,106,5.3,13
+245,Futurama: Into the Wild Green Yonder,0,0,"Animation, Comedy",United States of America,"The Curiosity Company, 20th Century Fox Television",False,8.507,en,2009-02-23,90,7.1,230
+246,Collective Soul: Home,0,0,Music,,,False,1.201,en,2006-02-07,89,4.3,2
+247,Show: A Night In The Life of Matchbox Twenty,0,0,,United States of America,,False,1.522,en,2004-05-25,220,5.3,2
+248,Mit sechzehn bin ich weg,0,0,,Germany,,False,1.4,en,2008-11-05,30,0.0,0
+249,Walking Tall: The Payback,0,0,"Crime, Adventure, Action",United States of America,,False,3.359,en,2007-02-20,88,5.7,16
+250,"The Good, The Bad, The Weird",10000000,0,"Action, Adventure, Comedy, Western",South Korea,"Grimm Pictures, CJ Entertainment, Cineclick Asia, Barunson E&A",False,7.54,ko,2008-07-16,130,7.1,321
+251,80 Minutes,0,0,"Action, Thriller, Crime",Germany,,False,2.184,en,2008-09-02,92,4.2,6
+252,WΔZ,0,0,"Crime, Drama, Horror, Thriller",United Kingdom,"Vertigo Films, UK Film Council, Northern Ireland Screen, Ingenious Media",False,6.497,en,2007-05-19,104,5.6,68
+253,Undisputed,20000000,12398628,"Action, Adventure, Drama, Thriller",United States of America,"Miramax, Amen Ra Films",False,13.675,en,2002-08-23,96,6.3,268
+254,The Contractor,0,0,"Action, Adventure, Drama, Thriller","Bulgaria, United Kingdom, United States of America","April Productions, Chaintron, RMA Productions",False,4.715,en,2007-07-10,105,5.8,57
+255,Perfect moment - L'aventure continue,0,0,Documentary,France,,False,1.4,en,2004-01-01,100,0.0,0
+256,Cargo,0,0,"Drama, Thriller","Spain, South Africa",,False,2.275,en,2005-12-26,90,5.1,13
+257,Extreme Ops,40000000,10959475,"Action, Adventure, Drama, Thriller",United States of America,"Paramount, Extreme Productions, ApolloMedia Distribution",False,5.039,pt,2002-11-27,93,4.7,44
+258,One Last Thing...,0,0,"Comedy, Crime, Drama",United States of America,2929 Productions,False,5.743,en,2005-01-01,96,5.9,27
+259,Election 2,0,0,"Drama, Crime",Hong Kong,"China Star Entertainment, Milkyway Image Company",False,6.838,en,2006-04-27,92,7.1,57
+260,Only Yesterday,0,0,"Animation, Drama, Romance",Japan,"Studio Ghibli, Studio Fuga",False,8.18,ja,1991-07-20,118,7.2,302
+261,The Three Lives of Thomasina,0,0,"Fantasy, Drama, Thriller, Science Fiction, Mystery, Family",United States of America,Walt Disney Pictures,False,2.353,en,1963-12-11,97,6.8,23
+262,Ushpizin,0,0,"Comedy, Drama",Israel,,False,2.619,en,2004-07-11,90,6.3,8
+263,Salaam Namaste,2500000,0,"Drama, Comedy, Romance",India,"Yash Raj Films, Films & Casting Temple",False,3.317,hi,2005-09-09,158,5.9,45
+264,La patinoire,0,0,Comedy,"Belgium, France, Italy",,False,0.662,fr,1998-11-01,80,7.0,1
+265,Blue Planet,0,22800000,Documentary,"Canada, United States of America",IMAX,False,2.731,en,1990-01-01,40,5.8,11
+266,The Cutting Edge 3: Chasing the Dream,0,0,"Comedy, Drama, Romance",Canada,Metro-Goldwyn-Mayer,False,6.186,en,2008-03-16,90,6.1,70
+267,Fighter Pilot: Operation Red Flag,0,0,Documentary,"United States of America, Canada","Stephen Low Productions, K2 Communications",False,2.457,en,2004-12-02,48,6.4,10
+268,Icebreaker,0,0,"Action, Adventure, Thriller",United States of America,Edgewood Entertainment,False,2.304,en,2000-01-01,90,3.7,14
+269,Korn - Live at Montreux 2004,0,0,Music,Switzerland,,False,1.4,en,2008-01-01,75,4.5,2
+270,Crank: High Voltage,20000000,34560577,"Action, Thriller, Crime",United States of America,"Lionsgate, Lakeshore Entertainment, RadicalMedia",False,11.978,en,2009-04-16,96,5.9,1462
+271,The Witch of the West Is Dead,0,0,Drama,Japan,"Asahi Shimbunsha, Nippon Shuppan Hanbai (Nippan) K.K., Asmik Ace, TV Tokyo",False,0.6,ja,2008-06-21,115,6.2,3
+272,20 Million Miles to Earth,0,0,Science Fiction,United States of America,"Morningside Productions, Columbia Pictures",False,6.026,en,1957-02-08,82,6.0,50
+273,Fear City: A Family-Style Comedy,0,0,Comedy,France,"Téléma Productions, Le Studio Canal+, M6 Films, France 3 Cinéma",False,8.376,fr,1994-03-09,93,7.6,547
+274,Manic,0,0,Drama,United States of America,,False,4.117,en,2001-01-27,100,7.1,43
+275,Endgame,22000000,0,"Crime, Drama",United Kingdom,Film Afrika Worldwide,False,2.68,en,2009-01-18,109,6.4,22
+276,Tortilla Soup,0,4574762,"Comedy, Drama, Romance",United States of America,,False,3.822,en,2001-08-21,103,5.8,19
+277,Still Waiting...,0,0,Comedy,United States of America,"Waiting II, Eden Rock Media, Heavy Duty Entertainment, Lionsgate",False,6.4,en,2009-02-17,90,4.9,40
+278,Blue Man Group: How to Be a Megastar Live!,0,0,Music,United States of America,Rhino Entertainment,False,0.94,en,2008-04-01,75,6.9,7
+279,Babysitters,0,0,Comedy,United States of America,Digital Playground,True,2.026,en,2007-09-28,131,9.2,7
+280,Turbo,0,0,"Action, Adventure, Comedy, Drama",,Level 1 Productions,False,0.917,en,2008-09-06,,0.0,0
+281,Ready,0,0,,Switzerland,Absinthe Films,False,1.4,en,2008-09-26,44,0.0,0
+282,All Day Every Day,0,0,,,,False,0.841,en,1995-01-01,,0.0,0
+283,It's Always Snowing Somewhere,0,0,"Action, Adventure",,,False,0.6,en,2008-11-01,,0.0,0
+284,Apples And Oranges,0,0,,,,False,1.4,en,2007-01-01,,0.0,0
+285,Double Decade,0,0,Documentary,,Mack Dawg Productions,False,1.4,en,2008-08-01,53,0.0,0
+286,Down With People,0,0,,,,False,0.6,en,2008-01-01,,0.0,0
+287,For Right Or Wrong,0,0,Documentary,,Burton Snowboards,False,0.628,en,2006-01-01,,0.0,0
+288,REALTIME,0,0,"Action, Adventure, Comedy, Drama, Horror",,Level 1 Productions,False,1.4,en,2007-01-01,,0.0,0
+289,The Journal,0,0,Documentary,,,False,0.6,en,2008-04-15,,0.0,0
+290,Shogun Assassin,0,0,"Adventure, Action","Japan, United States of America","Toho Company, Ltd., Baby Cart, Katsu Production Co. Ltd.",False,4.586,ja,1980-11-11,85,6.9,68
+291,Smokey and the Bandit Part 3,0,5678950,"Action, Comedy, Crime",United States of America,Universal Pictures,False,6.253,en,1983-08-12,85,4.5,75
+292,The Sound of Music,8200000,286214286,"Drama, Family, Music, Romance",United States of America,"Robert Wise Productions, Argyle Enterprises, 20th Century Fox",False,12.552,en,1965-03-02,175,7.6,1699
+293,Love Stinks,0,0,"Comedy, Romance",United States of America,,False,2.314,en,1999-09-10,94,5.3,13
+294,A Little Trip to Heaven,12000000,0,"Drama, Thriller","Iceland, United States of America","Blueeyes Productions, Pink Productions, Palomar Pictures",False,4.995,en,2005-12-26,98,5.5,35
+295,Dante 01,8000000,0,Science Fiction,France,"StudioCanal, Eskwad, Wild Bunch, CinéCinéma, Région Ile-de-France, Conseil Régional des Pays de la Loire, Canal+",False,5.31,en,2008-01-02,82,5.1,66
+296,Eldorado,0,0,"Comedy, Drama","Belgium, France",Versus Production,False,3.559,fr,2008-06-04,85,6.5,32
+297,Speechless,0,20667959,"Comedy, Romance",United States of America,Metro-Goldwyn-Mayer,False,4.648,en,1994-12-16,99,5.9,45
+298,Feast III: The Happy Finish,2000000,0,"Horror, Action, Comedy, Thriller",United States of America,"Neo Art & Logic, LivePlanet, Dimension Extreme",False,5.276,en,2009-02-17,79,5.1,57
+299,So Close,0,0,"Action, Thriller",Hong Kong,"Columbia Pictures Film Production Asia, Eastern Productions",False,5.494,cn,2002-08-22,110,6.5,65
+300,Evangelion: 1.0 You Are (Not) Alone,0,223839,"Animation, Science Fiction, Action, Drama",Japan,Studio Khara,False,9.4,ja,2007-09-01,97,7.6,238
+301,Little Monsters,7000000,793775,"Adventure, Fantasy, Comedy, Family",United States of America,,False,7.432,en,1989-08-25,102,5.8,99
+302,The Pagemaster,27000000,13670688,"Fantasy, Science Fiction, Family, Animation",United States of America,"Turner Pictures (I), 20th Century Fox",False,7.996,en,1994-11-23,80,6.4,392
+303,Fool Moon,0,0,Comedy,France,,False,0.957,en,2008-07-16,90,6.0,2
+304,Dream a Little Dream,0,0,"Fantasy, Comedy, Romance",United States of America,"Vestron Pictures, Lightning Pictures",False,4.916,en,1989-03-03,114,6.0,46
+305,Some Kind of Wonderful,0,18553948,"Drama, Romance",United States of America,"Hughes Entertainment, Paramount",False,8.817,en,1987-02-27,95,6.9,210
+306,Sixteen Candles,6500000,23686027,"Comedy, Romance",United States of America,Universal Pictures,False,21.446,en,1984-05-04,93,6.8,1059
+307,Eagles: Hell Freezes Over,0,0,"Music, Documentary",United States of America,"Image Ent., Geffen Pictures",False,2.192,en,1994-08-25,99,7.5,11
+308,Warren Miller's Cold Fusion,0,0,"Documentary, Action",,,False,0.841,en,2001-05-23,95,0.0,0
+309,Warren Miller's Storm,0,0,Documentary,,,False,1.122,en,2002-11-11,93,0.0,0
+310,Man in the Chair,0,0,"Comedy, Drama",United States of America,Elbow Grease Pictures,False,2.843,en,2007-01-27,107,6.2,9
+311,Take the Trash,1720666,0,Comedy,Denmark,Fridthjof Film,False,2.014,da,2008-08-15,80,6.8,19
+312,G,0,3020784,"Drama, Romance",United States of America,Andrew Lauren Productions (ALP),False,2.503,en,2002-05-10,96,6.8,7
+313,Illegal Tender,0,3106835,"Drama, Thriller, Crime",United States of America,,False,3.452,en,2007-08-24,108,7.1,20
+314,Another Cinderella Story,5000000,0,"Music, Comedy","Canada, United States of America","Warner Premiere, CS2 Films, Dylan Sellers Productions",False,11.411,en,2008-09-16,90,6.5,1009
+315,Phantasm II,3000000,7282851,"Action, Horror, Science Fiction, Thriller",United States of America,"Spacegate Productions, Starway International Inc., Universal Pictures",False,7.829,en,1988-07-08,97,6.3,146
+316,The Pink Panther 2,0,75871032,"Comedy, Mystery",United States of America,"Columbia Pictures, Robert Simonds Productions, Metro-Goldwyn-Mayer",False,10.639,en,2009-02-06,92,5.7,586
+317,Alice Through the Looking Glass,0,0,"Family, Fantasy",United Kingdom,"IAC Film, Projector Productions, Channel 4 Television",False,2.572,en,1998-12-26,83,5.4,29
+318,Amazing Grace,0,0,Drama,"United States of America, United Kingdom","Bristol Bay Productions, Roadside Attractions, Ingenious Media",False,6.579,en,2006-09-16,117,7.0,147
+319,"Baby Songs - ABC, 123, Colors & Shapes",0,0,Family,,,False,0.6,en,2003-06-03,57,0.0,0
+320,Barbie as The Princess & the Pauper,0,0,"Animation, Family, Comedy",Canada,,False,11.499,en,2004-09-28,85,7.3,637
+321,The Gene Generation,2500000,0,"Action, Science Fiction",United States of America,"Red Cam Studios, Ascension Pictures, Middle Link",False,4.634,en,2007-01-01,96,4.9,42
+322,Barbie in the Nutcracker,0,0,"Animation, Family",Canada,Rainmaker Studios,False,7.695,en,2001-09-30,76,6.6,560
+323,Little David Presents Bible Songs,0,0,,,,False,0.6,en,1990-01-01,,0.0,0
+324,Bibleman: Powersource,0,0,,,,False,0.6,en,1996-04-01,,0.0,0
+325,Buddy,0,0,"Adventure, Comedy, Family",United States of America,"Columbia Pictures, The Jim Henson Company, Jim Henson Pictures, Sony Pictures",False,2.491,en,1997-06-06,84,4.2,27
+326,Charlotte's Web,0,5232000,"Music, Animation, Drama, Family",United States of America,"Paramount, Hanna-Barbera Productions, Sagittarius Productions",False,8.391,en,1973-03-01,94,6.5,173
+327,Jonah: A VeggieTales Movie,0,0,"Adventure, Animation, Comedy, Family, Music",United States of America,Big Idea Productions,False,3.122,en,2002-10-04,82,6.2,35
+328,Buddy,0,0,"Romance, Drama, Comedy",Norway,Happy Endings A/S,False,2.651,no,2003-08-29,104,6.4,16
+329,"Patrik, Age 1.5",0,3250537,"Drama, Comedy",Sweden,"Filmlance International, SVT, Sonet Film, Film i Väst",False,3.061,sv,2008-09-12,103,7.0,50
+330,The Boston Strangler,0,0,"Crime, Drama, Thriller",United States of America,,False,1.458,en,2006-03-14,86,5.0,1
+331,Just Buried,0,0,"Comedy, Drama",Canada,"RGM Entertainment, Trilogy Entertainment, Standing Eight Films, Téléfilm Canada",False,3.149,en,2007-09-09,94,6.0,32
+332,Pierrepoint: The Last Hangman,0,0,Drama,"United Kingdom, United States of America","Granada, UK Film Council, National Lottery through UK Film Council",False,3.664,en,2005-12-07,98,7.4,33
+333,Full Frontal,2000000,2506446,"Comedy, Drama, Romance",United States of America,"Populist Pictures, Miramax, Monophonic Inc.",False,3.737,en,2002-08-02,96,4.9,43
+334,Monster Thursday,0,0,"Drama, Comedy",Norway,"Muz Film A/S, NRK",False,2.677,no,2004-10-15,99,4.2,8
+335,Hotel for Dogs,35000000,117000198,"Comedy, Family",United States of America,"The Donners' Company, The Montecito Picture Company",False,8.433,en,2009-01-16,100,5.9,470
+336,The Grey Zone,0,0,"Drama, War",United States of America,"The Goatsingers, Millennium Films",False,5.703,en,2001-09-13,108,6.6,82
+337,Clue,15000000,14643997,"Comedy, Thriller, Crime, Mystery",United States of America,"Debra Hill Productions, Paramount, The Guber-Peters Company, PolyGram Filmed Entertainment",False,11.397,en,1985-12-13,94,7.3,650
+338,"Mystery, Alaska",28000000,8888143,"Drama, Comedy","Canada, United States of America",Hollywood Pictures,False,5.997,en,1999-10-01,119,6.2,112
+339,Rent: Filmed Live on Broadway,0,0,"Drama, Music, Romance, TV Movie",United States of America,RadicalMedia,False,2.386,en,2008-11-21,165,8.3,28
+340,Demandez la permission aux enfants !,0,0,Comedy,France,TFM Distribution,False,3.109,fr,2007-11-08,96,5.9,31
+341,What Doesn't Kill You,0,44872,"Action, Crime, Drama",United States of America,Yari Film Group,False,6.365,en,2008-12-12,100,6.3,75
+342,Tokyo Decadence,0,795312,Drama,Japan,"Cinemabrain, Japan Video Distribution (JVD) Co. Ltd., Melsat Inc., Ryu Murakami Office",False,3.252,ja,1992-01-06,135,6.2,32
+343,Multi-Facial,3000,0,Drama,United States of America,One Race,False,2.368,en,1995-01-01,20,6.2,10
+344,A Brighter Summer Day,0,0,"Crime, Drama, Romance",Taiwan,"Yang & His Gang Filmmakers, Jane Balfour Films",False,5.538,zh,1991-07-27,237,8.2,71
+345,Batman & Mr. Freeze: SubZero,0,0,"Animation, Action, Crime, Family",United States of America,"DC Comics, Warner Bros. Animation, DC Entertainment",False,6.148,en,1998-03-17,70,6.9,169
+346,Splinter,0,0,Thriller,United States of America,"Dark Horse Entertainment, Splinter Films Ltd., Chamber Six Productions, Stonehenge Pictures Inc.",False,2.846,en,2006-08-17,90,4.9,9
+347,Air Force,0,0,"Action, Adventure, Drama, History, War",United States of America,Warner Bros. Pictures,False,2.969,en,1943-03-20,124,6.3,18
+348,Green Street Hooligans 2,8000000,0,"Crime, Drama",United States of America,OddLot Entertainment,False,7.506,en,2009-03-23,94,5.0,136
+349,The Tender Hook,0,0,"Crime, Drama, Mystery, Romance",Australia,"Mandala Films, Film Finance",False,1.856,en,2008-09-18,103,4.0,1
+350,Spion van Oranje,4000000,0,Comedy,Netherlands,,False,2.653,nl,2009-02-05,91,5.3,10
+351,Dark Blue World,5000000,0,"Action, Drama, War","France, Czech Republic, Denmark, Germany, Italy, United Kingdom","Portobello Pictures, Eurimages, Helkon Media AG, Fandango, Biograf Jan Svěrák, Česká televize, Phoenix Film Investments, Státní fond ČR pro podporu a rozvoj české kinematografie",False,4.183,cs,2001-05-17,112,6.8,32
+352,UFC 96: Jackson Vs. Jardine,762000,1800000,,United States of America,,False,2.38,en,2009-03-07,177,5.5,3
+353,Kick 'n Rush,0,0,"Drama, Comedy",Denmark,Jutlandia Film,False,1.948,da,2003-10-03,95,5.7,3
+354,500 Stenkastende Autonome Voldspsykopater Fra Helvede,0,0,,,,False,0.6,en,2007-10-12,80,0.0,0
+355,We Are the Champions,0,0,Comedy,Denmark,"Scanbox, Zeitgeist, Zentropa Entertainments",False,2.274,da,2005-03-11,80,7.8,4
+356,AFR,0,0,"Drama, Thriller",Denmark,Liberty Film,False,1.668,da,2007-04-20,83,6.3,4
+357,The Ambulance,0,0,"Thriller, Action, Drama",Denmark,Nordisk Film,False,1.575,da,2005-07-15,80,5.4,10
+358,Accused,0,0,"Thriller, Drama",Denmark,"TV 2, Nordisk Film",False,3.325,da,2005-01-28,103,6.8,18
+359,Anton,0,0,,,,False,0.933,en,1996-02-09,85,0.0,0
+360,The Inheritance,0,0,Drama,"United Kingdom, Denmark, Sweden, Norway",Zentropa Entertainments,False,2.558,da,2003-02-21,116,6.9,17
+361,One-Hand Clapping,0,0,"Drama, Comedy",Denmark,Zentropa Entertainments,False,1.239,en,2001-08-17,85,6.0,2
+362,Restless Souls,0,0,"Horror, Drama",Denmark,"Zentropa Entertainments, Wise Guy Productions, Scanbox Entertainment",False,1.449,da,2005-05-27,94,4.8,5
+363,Cortex,0,0,Thriller,France,"Canal+, Cofinova 3, France 3 Cinéma, Les films du Worso, Région Ile-de-France, Soficinéma 3, Wild Bunch",False,2.555,fr,2008-01-30,105,6.4,22
+364,Scratch,0,0,Drama,Denmark,Nimbus Film,False,2.28,da,2003-12-25,85,5.0,3
+365,Biblen,0,0,Comedy,Denmark,Nordisk Film,False,1.863,en,2008-07-29,,5.9,5
+366,The Bench,0,0,Drama,"Sweden, Denmark",Zentropa Entertainments,False,2.948,da,2000-08-26,93,7.2,16
+367,Cecilie,0,0,"Thriller, Horror, Mystery",Denmark,Nimbus Film,False,1.972,da,2007-06-01,92,5.3,5
+368,Let's Dance,0,0,Comedy,France,,False,0.856,en,2007-11-14,100,6.0,6
+369,Fear Me Not,0,0,"Drama, Thriller",Denmark,Zentropa Entertainments,False,1.612,da,2008-12-19,95,5.2,9
+370,Den sidste viking,0,0,"Action, Drama","Denmark, Sweden",Zentropa Entertainments,False,1.081,da,1997-01-17,88,5.4,4
+371,The Black Madonna,0,0,"Action, Comedy, Drama",Denmark,Nordisk Film,False,0.6,da,2007-03-09,93,5.3,4
+372,What No One Knows,0,0,"Drama, Thriller","Sweden, Denmark",Nimbus Film,False,1.666,da,2008-02-11,99,5.4,12
+373,Sunshine Barry & the Disco Worms,0,0,"Family, Animation, Comedy",Denmark,SF Studios Production,False,2.574,da,2008-09-07,79,5.6,21
+374,The Judge,0,0,Drama,Denmark,Zentropa Entertainments,False,0.919,da,2005-11-04,89,6.0,1
+375,Manslaughter,0,0,Drama,Denmark,Zentropa Entertainments,False,3.353,da,2005-08-26,100,6.1,11
+376,Kira's Reason: A Love Story,0,0,"Drama, Romance",Denmark,Nimbus Film,False,1.914,da,2001-10-26,93,4.9,5
+377,Echo,0,0,"Drama, Horror, Thriller",Denmark,Zentropa Entertainments,False,1.4,da,2007-12-07,80,6.5,4
+378,A Man Comes Home,0,0,Comedy,,Nimbus Film,False,2.977,da,2007-09-14,100,4.5,11
+379,A Soap,0,0,"Drama, Romance","Denmark, Sweden",Nimbus Film,False,1.123,da,2006-04-07,105,4.6,5
+380,The Burrowers,7000000,0,"Action, Horror, Western",United States of America,Blue Star Pictures,False,6.294,en,2008-09-09,96,5.6,81
+381,Generation Model,0,0,Documentary,,,False,0.6,en,2007-11-17,82,0.0,0
+382,Kangaroos: Faces in the Mob,0,0,Documentary,Australia,,False,0.6,en,1997-01-01,58,0.0,0
+383,The Mummy,196000,0,Horror,United States of America,Universal Pictures,False,10.77,en,1932-12-22,73,6.9,220
+384,The Trip,0,0,"Drama, Romance",,TLA Releasing,False,3.025,en,2002-11-01,95,6.6,20
+385,Death to the Supermodels,0,0,"Comedy, Horror",United States of America,Supermodel Movie LLC,False,3.949,en,2005-11-25,84,5.3,12
+386,Kung Fu Panda: Secrets of the Furious Five,0,0,"Animation, Comedy, Family",United States of America,DreamWorks Animation,False,7.43,en,2008-11-08,25,6.6,196
+387,Phantom of the Opera,1500000,0,"Music, Horror, Romance, Drama",United States of America,Universal Pictures,False,4.864,en,1943-08-27,92,5.9,55
+388,House on Haunted Hill,200000,0,"Horror, Mystery",United States of America,"William Castle Productions, Allied Artists Pictures",False,5.71,en,1959-02-17,75,6.9,191
+389,Earthstorm,0,0,"TV Movie, Action, Science Fiction, Thriller","Canada, United States of America",,False,3.813,en,2006-06-12,90,3.8,20
+390,A Moment to Remember,4200000,0,"Drama, Romance",South Korea,CJ Entertainment,False,6.912,ko,2004-11-05,115,7.6,129
+391,Dragon Tiger Gate,0,8685526,"Action, Thriller","China, Hong Kong","Shanghai Film Group, China Film Co-Production Corporation, Mandarin Films Distribution Co., Beijing Poly-bona Film Publishing Company",False,8.249,cn,2006-07-27,94,6.4,75
+392,Framed for Murder,0,0,"Crime, Mystery, Thriller",Canada,S.V. Thrilling Movies Inc.,False,1.357,en,2007-03-18,94,3.0,2
+393,Bachna Ae Haseeno,2400000,9600000,"Drama, Comedy, Romance","Australia, India, Italy, Thailand",Yash Raj Films,False,4.164,hi,2008-08-14,153,6.3,42
+394,The Zone,0,0,"Thriller, Drama",Mexico,"Morena Films, Buenaventura Producciones, Fondo de Inversión y Estímulos al Cine (FIDECINE)",False,4.609,es,2007-09-01,97,6.3,50
+395,Bait Shop,0,0,Comedy,United States of America,,False,1.88,en,2008-09-02,85,4.8,8
+396,Interiors,10000000,10400000,Drama,United States of America,United Artists,False,6.362,en,1978-08-02,93,6.9,165
+397,Cheaters,0,0,"Drama, TV Movie",United States of America,"HBO, Nitelite Entertainment, De Passe Entertainment",False,3.018,en,2000-05-20,108,6.0,22
+398,UFC: Ultimate Comebacks,0,0,,United States of America,,False,1.379,en,2008-11-18,124,0.0,0
+399,Russell Brand: Live,0,0,Comedy,United Kingdom,,False,1.152,en,2006-11-20,60,4.5,2
+400,The Bridge at Remagen,0,0,"Action, History, War",United States of America,Wolper Pictures,False,7.354,en,1969-06-25,117,6.9,60
+401,Donovan's Reef,2686000,6600000,"Adventure, Comedy, Romance",United States of America,Paramount,False,5.746,en,1963-06-12,109,6.4,56
+402,The Enemy Below,0,0,"Action, Adventure, Drama, Thriller, War",United States of America,20th Century Fox,False,4.817,en,1957-12-25,97,7.2,70
+403,The Sky Crawlers,0,0,"Action, Adventure, Animation, War",Japan,Production I.G,False,4.543,ja,2008-08-02,121,6.6,66
+404,Russell Brand: Doing Life,0,0,Comedy,United Kingdom,,False,1.236,en,2007-01-01,76,3.5,2
+405,Fishtales,14000000,9216,"Fantasy, Drama, Comedy, Romance, Family","Greece, United Kingdom","Whiskers Post Production, Arokaria, Full On Film Productions",False,1.167,en,2007-08-24,94,5.0,5
+406,See you in Vegas,0,0,Documentary,"Netherlands, United States of America",,False,2.809,en,2007-11-01,81,6.9,4
+407,Deathstalker,0,8890685,"Action, Fantasy","Argentina, United States of America","Palo Alto Productions, Aries Cinematográfica Argentina",False,3.613,en,1983-09-02,80,4.3,47
+408,Unstable Fables: 3 Pigs & a Baby,0,0,"Family, Animation",United States of America,"Flame Ventures, Prana Studios, The Jim Henson Company, The Weinstein Company",False,4.543,en,2008-01-01,78,5.2,13
+409,Faces of Death II,0,0,"Horror, Documentary",United States of America,F.O.D. Productions,False,3.429,en,1981-11-10,85,3.4,25
+410,Faces of Death III,0,0,"Horror, Documentary",United States of America,F.O.D. Productions,False,2.21,en,1985-03-10,86,3.2,16
+411,Faces of Death IV,0,0,"Horror, Documentary",United States of America,"F.O.D. Productions, K-Network",False,2.73,en,1990-11-28,89,3.5,12
+412,Barbie and the Magic of Pegasus 3-D,0,0,"Animation, Family, Romance",United States of America,Mattel,False,8.288,en,2005-10-05,85,6.7,305
+413,Duma,12000000,0,"Adventure, Drama, Family","South Africa, United States of America","Pandora Pictures, Gaylord Films, John Wells Productions, Warner Bros. Pictures",False,6.61,en,2005-04-22,100,7.1,78
+414,Verführung in 6 Gängen,0,0,"Romance, TV Movie, Comedy",Germany,,False,0.968,de,2004-01-01,85,5.0,1
+415,Kermit's Swamp Years,0,0,"Fantasy, Family, Comedy",United States of America,"Columbia TriStar Home Entertainment, The Jim Henson Company",False,2.487,en,2002-09-03,82,5.8,14
+416,Post impact,0,0,"Science Fiction, Adventure","Germany, United States of America","Tandem Productions, RTL, Unified Film Organization (UFO)",False,2.522,en,2004-01-01,90,4.3,16
+417,The Village Barbershop,0,0,"Comedy, Drama",,,False,1.4,en,2008-01-01,99,7.5,6
+418,The Square,0,0,"Crime, Drama, Thriller",Australia,"Igloo Films, New South Wales Film & Television Office, Film Depot Pty. Ltd., Blue-Tongue Films, Australian Film Finance Corporation",False,3.385,en,2008-06-15,105,6.1,41
+419,A World of Ours,0,0,"Crime, Drama, Thriller",France,"Studio 37, Chez Wam",False,1.959,fr,2008-07-16,91,5.7,6
+420,The Anniversary,1000000,0,Comedy,United States of America,,False,1.126,en,2009-01-02,,3.0,1
+421,The Pornographer,1500000,0,Drama,"Canada, France","Haut et Court, In Extremis Images, Ministère de la Culture et de la Communication, TPS Cinéma, Téléfilm Canada, Centre National de la Cinématographie",False,3.528,fr,2001-09-08,108,5.1,20
+422,Angel's Egg,0,0,"Animation, Drama, Fantasy, Horror, Mystery, Science Fiction",Japan,"Tokuma Shoten, Studio Deen",False,5.668,ja,1985-12-22,71,7.8,118
+423,Devdas,12500000,0,"Drama, Romance",India,"V.I.P. Films, Mega Bollywood Private Limited",False,7.216,hi,2002-07-11,185,7.6,155
+424,Marty,343000,3000000,"Drama, Romance",United States of America,"United Artists, Hecht-Lancaster Productions",False,7.712,en,1955-04-11,90,7.6,132
+425,Autumn Spring,0,0,"Family, Comedy, Drama",Czech Republic,"BKP Film, Buc-Film, Česká televize",False,1.861,cs,2001-09-27,95,6.8,5
+426,Starko!,0,0,Documentary,France,,False,1.093,en,2008-01-01,104,0.0,0
+427,All Roads Lead Home,0,0,"Drama, Family",United States of America,Anchor Bay Films,False,2.172,en,2008-01-01,108,5.0,9
+428,Bodyguard: A New Beginning,0,0,"Thriller, Action, Drama",United Kingdom,,False,1.69,en,2008-01-01,95,4.5,1
+429,633 Squadron,0,0,"Action, Drama, History, War","United Kingdom, United States of America",The Mirisch Corporation,False,3.559,en,1964-04-06,102,6.1,25
+430,Beer for My Horses,0,666045,"Action, Comedy",United States of America,"Show Dog Productions, B4MH Productions, CMT Films",False,3.933,en,2008-08-08,86,5.1,12
+431,A Passage to India,8000000,27187653,"Drama, Adventure, History","United Kingdom, United States of America","Columbia Pictures, EMI Films, Thorn EMI Screen Entertainment, Home Box Office",False,6.667,en,1984-12-14,163,6.9,120
+432,Fidibus,0,0,Comedy,Denmark,Fine & Mellow Productions,False,1.558,da,2006-10-13,105,5.3,8
+433,Fighter,0,0,"Action, Drama, Romance",,Nimbus Film,False,1.723,da,2007-12-14,90,5.0,9
+434,The Collector,0,0,"Comedy, Action, Romance",Denmark,ASA Film Production,False,2.341,da,2004-10-22,86,5.8,5
+435,The Candidate,0,0,Thriller,Denmark,Miso Film,False,3.601,da,2008-08-29,90,5.8,21
+436,El cantante,0,0,"History, Drama, Music",United States of America,"R-Caro Productions, Nuyorican Productions",False,3.349,en,2006-09-12,116,5.3,20
+437,Bad Eggs,0,0,"Comedy, Thriller",Australia,Million Monkeys,False,1.993,en,2003-07-24,98,5.6,6
+438,Just Add Water,0,0,"Comedy, Drama",United States of America,,False,3.629,en,2008-03-18,95,5.2,28
+439,Room Service,0,0,Comedy,United States of America,RKO Radio Pictures,False,3.303,en,1938-09-30,78,6.9,25
+440,Twins Mission,0,0,Action,Hong Kong,,False,5.298,zh,2007-02-15,99,5.1,11
+441,Beautiful Creatures,0,0,"Comedy, Crime, Drama, Thriller",United Kingdom,"DNA Films, DNA Pictures International, Arts Council of England, Snakeman Productions",False,3.086,en,2000-08-23,85,5.8,33
+442,The Borgia,0,0,Drama,Spain,Antena Aragón,False,3.39,es,2006-10-06,120,5.8,15
+443,Go Fast,0,0,"Drama, Action, Crime",France,"Sofica Europacorp, Avalanche Productions, Canal+, EuropaCorp",False,5.4,fr,2008-10-01,90,5.8,85
+444,The Shaggy D.A.,0,0,"Comedy, Family, Fantasy",United States of America,Walt Disney Productions,False,3.651,en,1976-12-17,91,5.5,32
+445,The Shaggy Dog,0,0,"Comedy, Family, Fantasy",United States of America,Walt Disney Productions,False,4.252,en,1959-03-19,104,6.0,35
+446,The Way of War,0,0,"Action, Thriller",United States of America,,False,3.253,en,2009-02-20,90,3.6,24
+447,The Three Caballeros,0,0,"Animation, Family, Music",United States of America,Walt Disney Pictures,False,8.851,en,1944-07-21,71,6.3,273
+448,The Weakness of the Bolshevik,0,0,Drama,Spain,"Canal+ España, Antena 3 Televisión",False,2.282,es,2003-10-31,95,6.9,15
+449,The Boy Who Wanted to Be a Bear,0,0,"Adventure, Animation, Family","Denmark, France","France 3 Cinéma, Les Armateurs, Dansk Tegnefilm",False,2.376,da,2002-12-18,75,7.6,10
+450,Terribly Happy,0,179943,"Drama, Thriller",Denmark,Fine & Mellow Productions,False,2.567,da,2008-07-15,90,6.5,38
+451,Chef's Special,0,0,Comedy,Spain,TLA Releasing,False,2.948,es,2008-04-11,111,5.7,41
+452,Chop Chop,0,0,Comedy,"Sweden, Denmark",Zentropa Entertainments,False,2.827,da,2001-11-02,90,5.4,7
+453,White Night,0,0,Drama,Denmark,"Angel Films Productions, Nimbus Film",False,1.845,da,2007-10-26,100,5.3,6
+454,How to Get Rid of the Others,0,0,"Comedy, Drama",Denmark,Zentropa Entertainments,False,2.474,da,2007-01-26,94,6.2,5
+455,King's Game,0,0,Thriller,"Denmark, Sweden",Nimbus Film,False,3.073,da,2004-08-10,107,7.1,21
+456,Murk,0,0,"Thriller, Drama",Denmark,Fine & Mellow Productions,False,2.996,da,2005-10-07,124,6.7,15
+457,The Christmas Miracle of Jonathan Toomey,0,0,Family,United Kingdom,,False,3.029,en,2007-07-09,91,6.5,9
+458,And It Was Denmark...,0,0,Documentary,Denmark,SF Studio,False,1.663,da,2008-05-09,107,7.3,3
+459,Rule No. 1,0,0,"Drama, Comedy",,,False,1.133,da,2003-10-31,87,5.0,1
+460,The Return of Jafar,3500000,0,"Family, Adventure, Animation, Romance",United States of America,Walt Disney Television Animation,False,14.887,en,1994-12-15,69,5.8,987
+461,Varg Veum - Fallen Angels,0,0,"Crime, Drama, Thriller","Denmark, Norway, Sweden, Germany","Miso Film, ARD/Degeto Film, TV 2, TV4, FilmFondet Fuzz, SF Norge",False,4.298,no,2008-04-04,95,6.9,9
+462,Bhoothnath,0,0,"Family, Comedy",India,BR Films International,False,3.285,hi,2008-05-09,151,6.1,55
+463,Oye Lucky! Lucky Oye!,1400000,1700000,"Action, Comedy",India,UTV Motion Pictures,False,3.414,hi,2008-11-28,126,7.1,36
+464,The Bubble,0,0,"Drama, Romance","France, Israel","Keshet Hot, Uchovsky Fox, Metro Productions, Ronen Ben-Tal Films, Feingold Productions, Israeli Film Fund",False,2.996,he,2006-06-06,114,7.6,28
+465,Dev.D,1700000,7600000,"Comedy, Drama, Romance",India,"UTV Spotboy Motion Pictures, UTV Motion Pictures, Anurag Kashyap Films",False,3.165,hi,2009-02-06,144,7.2,53
+466,Naina,500000,0,"Horror, Mystery",India,iDream Productions,False,1.611,hi,2005-05-20,103,3.4,5
+467,Phoonk,750000,2760000,"Drama, Horror, Mystery",India,"One More Thought Entertainment, Ace Movie Company",False,1.729,hi,2008-08-22,179,3.6,6
+468,Raaz: The Mystery Continues...,6250000,8000000,Horror,India,Vishesh Films,False,3.979,hi,2009-01-23,137,5.9,24
+469,Dead Leaves,0,0,"Animation, Comedy, Crime, Science Fiction",Japan,Production I.G,False,3.238,ja,2004-01-17,52,7.2,43
+470,The Legend of Billie Jean,0,3099497,"Action, Drama",United States of America,"TriStar Pictures, Delphi III Productions, The Guber-Peters Company",False,4.545,en,1985-07-19,96,6.6,84
+471,Invasion U.S.A.,0,0,"Action, Thriller",United States of America,"Cannon Group, Golan-Globus Productions",False,7.167,en,1985-09-27,107,5.2,91
+472,Provoked: A True Story,0,0,Drama,"United Kingdom, India",,False,2.706,en,2007-04-06,87,5.8,9
+473,The Cathedral,0,0,"Science Fiction, Animation",Poland,,False,3.365,en,2002-10-18,6,7.1,37
+474,Bad Biology,0,0,"Fantasy, Horror",United States of America,Bad Biology,False,5.48,en,2008-02-08,84,5.0,67
+475,Abandon,25000000,10719357,"Drama, Mystery, Thriller","Australia, United States of America","Touchstone Pictures, Paramount, Spyglass Entertainment",False,6.843,en,2002-10-14,99,4.6,79
+476,Gen 13,0,0,"Action, Animation, Science Fiction",United States of America,Wildstorm Productions,False,2.014,en,2000-10-30,73,5.7,8
+477,Cut Loose,0,0,"Drama, Comedy",Belgium,,False,1.023,nl,2008-09-17,100,3.0,2
+478,The Land Before Time: The Great Valley Adventure,0,0,"Animation, Family, Adventure",United States of America,Universal Cartoon Studios,False,9.295,en,1994-12-12,73,6.2,313
+479,Vampire Hunter D: Bloodlust,0,0,"Action, Adventure, Animation, Fantasy, Horror, Mystery, Science Fiction","Japan, United States of America",Madhouse,False,9.31,ja,2000-08-25,103,7.3,176
+480,Ben 10: Race Against Time,0,0,"Action, Family, Science Fiction",United States of America,,False,8.564,en,2008-02-11,67,4.3,84
+481,Super Rhino,0,0,"Animation, Comedy",United States of America,"Walt Disney Animation Studios, Walt Disney Pictures",False,3.784,en,2009-03-21,5,6.1,28
+482,Somersault,0,0,"Drama, Romance",Australia,"Showtime Australia, Red Carpet Productions, Fortissimo Films, New South Wales Film & Television Office, Australian Film Finance Corporation",False,3.271,en,2004-06-19,105,6.3,42
+483,Attack the Gas Station!,0,0,"Action, Comedy",South Korea,"Fun and Happiness, Cinema Service",False,5.258,ko,1999-10-02,113,6.4,58
+484,The Proposition,2000000,5048693,"Action, Adventure, Crime, Drama, Thriller, Western","Australia, United Kingdom","UK Film Council, Surefire Film Productions, Autonomous, Pictures in Paradise, Pacific Film and Television Commission, Film Consortium, National Lottery through UK Film Council",False,11.872,en,2005-10-06,104,7.2,334
+485,Blackout,0,0,"Horror, Thriller",United States of America,Morabito Picture Company,False,5.215,en,2008-05-28,85,5.4,47
+486,Carmencita,0,0,Documentary,United States of America,Edison Manufacturing Company,False,1.911,en,1894-03-14,1,5.0,27
+487,The Clown and His Dogs,0,0,Animation,France,,False,0.6,en,1892-10-27,5,4.0,1
+488,Adventureland,9500000,17164377,Comedy,United States of America,"Miramax, Sidney Kimmel Entertainment, This Is That Productions",False,9.241,en,2009-04-03,107,6.4,1303
+489,Mindhunters,27000000,21148829,"Mystery, Thriller, Crime","Finland, Netherlands, United Kingdom, United States of America","Outlaw Productions (I), Outlaw Victoria Productions Inc., Avenue Pictures Productions, Weed Road Pictures, Intermedia Films, Egmond Film & Television, Dimension Films, Mindhunters (UK) Limited, Mindhunters Productie BV, Tonna Oy",False,9.741,en,2004-05-07,106,6.5,587
+490,Hans Christian Andersen,0,0,"History, Music, Romance, Family",United States of America,Samuel Goldwyn Productions,False,2.474,en,1952-12-19,112,6.5,28
+491,Ordinary People,6000000,0,Drama,United States of America,"Paramount, Wildwood Enterprises",False,10.959,en,1980-09-19,124,7.6,253
+492,La Bamba,6500000,54215416,"Drama, Music",United States of America,"New Visions Pictures, Columbia Pictures",False,6.886,en,1987-07-24,108,6.9,235
+493,A Good Beer,0,0,Animation,,,False,0.937,en,1892-10-28,15,4.0,2
+494,100 Days with Mr. Arrogant,3200000,0,"Comedy, Romance",South Korea,,False,4.816,ko,2004-01-16,95,6.3,64
+495,Somewhere in Time,5100000,0,"Science Fiction, Drama, Fantasy, Romance",United States of America,Rastar Pictures,False,6.392,en,1980-10-02,103,7.3,193
+496,Alien Trespass,0,0,"Action, Adventure, Comedy, Science Fiction","Canada, United States of America",Rangeland Productions,False,3.981,en,2009-04-03,90,5.5,37
+497,Country of My Skull,12000000,163536,"Romance, Drama","United Kingdom, Ireland, South Africa","Chartoff Productions, Merlin Films",False,2.381,en,2004-05-04,103,7.2,14
+498,Spellbound,0,0,Documentary,United States of America,Blitz / Welch,False,4.701,en,2002-11-13,97,7.4,70
+499,El Cid,0,0,"Action, Drama, History, Romance, War","Italy, United States of America","Samuel Bronston Productions, Dear Film Produzione",False,7.406,en,1961-10-24,182,6.9,121
+500,Deliver Us from Evil,0,0,Thriller,"Denmark, Sweden, Norway","Greta Film, Thura Film, Obel Film",False,3.658,da,2009-04-03,100,6.5,23
+501,Pirates of the Great Salt Lake,0,0,"Action, Comedy",,Blueshift Entertainment,False,1.4,en,2006-01-01,86,5.0,1
+502,Cirque du Soleil: Journey of Man,0,0,"Drama, Family, Music, Fantasy",Canada,"Cirque du Soleil Images, Motion International",False,1.786,en,2000-05-05,39,5.4,8
+503,Days of Heaven,0,0,"Drama, Romance",United States of America,Paramount,False,9.001,en,1978-09-13,94,7.7,410
+504,Life or Something Like It,40000000,16872671,"Comedy, Drama, Romance","Canada, United States of America","Monarchy Enterprises S.a.r.l., Regency Enterprises, Davis Entertainment, New Regency Pictures, Epsilon Motion Pictures, Atchity Entertainment International (AEI)",False,7.799,en,2002-04-24,103,5.6,248
+505,Emma Smith: My Story,0,881787,Drama,,,False,1.053,en,2008-04-11,98,5.8,3
+506,Russian Ark,0,6723732,"Drama, Fantasy, History, Mystery","Denmark, Russia, Germany, Japan, Canada, Finland","Ministry of Culture of the Russian Federation, Hermitage Bridge Studio, The, State Hermitage Museum, Mitteldeutsche Medienförderung (MDM), WDR/Arte, Fora Film, Koppmedia, NHK, Danmarks Radio (DR), AST Studios, Mariinsky Theatre, Filmboard Berlin-Brandenburg (FBB), FilmFörderung Hamburg, YLE, Egoli Tossell Film, Die Beauftragte der Bundesregierung für Kultur und Medien",False,6.082,ru,2002-05-22,99,7.4,192
+507,The Other Side of Heaven,7000000,4720371,"Action, Adventure, Drama, Family",United States of America,3Mark Entertainment,False,3.226,en,2001-04-12,113,6.5,26
+508,Happily N'Ever After 2,0,0,Animation,"Germany, United States of America","Kickstart, BAF Berlin Animation Film",False,6.549,en,2009-03-24,75,4.5,122
+509,The Singles Ward,0,0,"Comedy, Drama, Family, Romance",United States of America,Halestorm entertainment,False,1.224,en,2002-01-30,102,6.7,7
+510,John Mayer: Any Given Thursday,0,0,Music,,,False,1.4,en,2003-02-11,120,7.8,6
+511,Protégé,0,0,"Drama, Thriller",Hong Kong,"China Film Group Corporation, MediaCorp Raintree Pictures, Artforce International, Beijing Jinyinma Movie & TV Culture Co.",False,3.547,cn,2007-04-13,106,6.6,38
+512,My Brilliant Career,0,0,"Drama, Romance",Australia,"New South Wales Film Corp., Greater Union Organisation (GUO), Margaret Fink Productions",False,2.882,en,1979-08-17,100,6.1,19
+513,Tilt: The Battle to Save Pinball,0,0,Documentary,United States of America,,False,1.96,en,2006-05-14,58,6.8,7
+514,The Kid Brother,0,0,"Comedy, Drama",United States of America,The Harold Lloyd Corporation,False,2.974,en,1927-01-17,82,7.2,29
+515,The Big Gundown,0,0,Western,"Italy, Spain","Rome Produizone Cinematografica, Tuillo DeMichelli, Produzioni Europee Associati (PEA)",False,5.299,it,1966-11-29,105,7.7,64
+516,All About Lily Chou-Chou,0,0,"Drama, Music, Crime",Japan,Rockwell Eyes,False,4.863,ja,2001-09-07,146,6.9,68
+517,Whisky Galore!,0,0,"Comedy, Crime",United Kingdom,"Ealing Studios, General Film Distributors",False,4.961,en,1949-06-16,82,7.1,48
+518,War Dance,0,0,"Documentary, Music, War",United States of America,,False,1.173,en,2007-11-09,105,7.6,7
+519,The Best Two Years,400000,1163450,"Comedy, Drama",United States of America,Halestorm entertainment,False,1.971,en,2003-10-10,112,7.7,7
+520,Woman in the Dunes,0,0,"Drama, Thriller",Japan,Teshigahara Productions,False,9.317,ja,1964-02-15,147,8.3,151
+521,No Alibi,0,0,"Crime, Drama, Mystery, Thriller","United States of America, Canada","Coolbrook Media, Motion International",False,1.618,en,2000-03-24,90,2.7,2
+522,48 Hours a Day,0,0,Comedy,France,La Mouche du Coche Films,False,2.284,fr,2008-06-04,89,4.3,4
+523,Varg Veum - Sleeping Beauty,0,0,"Crime, Thriller","Denmark, Norway, Sweden, Germany","Miso Film, FilmFondet Fuzz, SF Norge, ARD/Degeto Film, TV 2, TV4",False,2.334,no,2008-01-13,90,7.2,10
+524,Varg Veum - Bitter Flowers,0,0,"Crime, Drama, Thriller","Denmark, Norway, Sweden, Germany","SF Norge, Miso Film, ARD/Degeto Film, TV4, TV 2, FilmFondet Fuzz",False,2.134,no,2007-09-28,90,6.3,9
+525,Wushu,4000000,0,"Drama, Action",Hong Kong,,False,3.911,zh,2008-10-23,104,5.9,12
+526,Return to Never Land,20000000,109862682,"Adventure, Fantasy, Animation, Family","Australia, Canada, United States of America","Walt Disney Television Animation, Walt Disney Pictures",False,11.827,en,2002-02-14,72,6.2,769
+527,The Tale of Zatoichi,0,0,"Adventure, Action, Drama",Japan,"Daiei Motion Picture Co., Ltd.",False,4.187,ja,1962-04-18,96,7.3,50
+528,The Tale of Zatoichi Continues,0,0,"Adventure, Action",Japan,"Daiei Motion Picture Co., Ltd.",False,3.517,ja,1962-10-12,72,7.2,33
+529,Smother,8000000,0,"Comedy, Romance, Drama",United States of America,Carsey-Werner Company,False,3.304,en,2008-09-26,92,4.4,20
+530,Bonneville,0,0,"Comedy, Drama",United States of America,"SenArt Films, Drop of Water Productions",False,2.43,en,2006-09-11,93,5.7,26
+531,Kidz in da Hood,0,0,"Family, Comedy, Drama",Sweden,Gilda Film,False,1.61,sv,2006-10-27,96,4.8,6
+532,Israeli Intelligence,0,0,"Action, Comedy",Israel,,False,0.71,en,2007-01-01,40,4.3,2
+533,This Gun for Hire,512423,1000000,"Crime, Drama, Mystery, Thriller",United States of America,Paramount,False,4.701,en,1942-05-13,81,7.3,52
+534,Restless,0,0,Drama,"Belgium, Canada, Germany, France, Israel",,False,0.904,en,2008-05-29,100,5.3,2
+535,Meet the Browns,0,41939392,"Comedy, Drama, Romance",United States of America,Lions Gate Films,False,3.698,en,2008-03-21,100,6.1,43
+536,A Christmas Carol,0,0,"Drama, Fantasy",United States of America,"Turner Network Television, Hallmark Entertainment",False,4.508,en,1999-12-05,95,6.9,78
+537,The Telling,0,0,"Horror, Thriller",United States of America,"Alta Loma Entertainment, Breakout Entertainment, Chuck Williams Productions, Prometheus Entertainment",False,3.679,en,2009-04-14,84,3.8,8
+538,Sugar & Spice,11000000,13276953,"Crime, Comedy",United States of America,New Line Cinema,False,6.732,en,2001-01-24,81,6.1,109
+539,The Tracey Fragments,700000,31576,Drama,Canada,"Corvid Pictures, Téléfilm Canada, Shadow Shows",False,4.023,en,2007-02-08,77,6.0,58
+540,Muay Thai Fighter,0,0,"Action, Thriller",Thailand,"Five Star Production, Wild Side Films",False,1.613,th,2007-08-30,116,6.3,4
+541,The Namesake,12000000,20138836,Drama,"India, United States of America","Fox Searchlight Pictures, Mirabai Films",False,5.643,en,2006-09-02,122,6.8,76
+542,Don't Move,0,11837022,"Drama, Romance","United Kingdom, Italy, Spain","Cineritmo, Alquimia Cinema, Cattleya",False,7.114,it,2004-03-12,125,7.1,151
+543,James' Journey to Jerusalem,0,0,"Comedy, Drama",Israel,,False,1.4,en,2003-12-31,91,7.7,3
+544,Year Zero,0,0,Drama,Israel,,False,1.342,en,2004-06-06,131,0.0,0
+545,Five Minutes of Heaven,0,0,"Crime, Drama, Thriller","Ireland, United Kingdom","Ruby Films, BBC Films, Big Fish Films, Bord Scannán na hÉireann, Element Pictures, Irish Film Board, Northern Ireland Screen, Pathe",False,5.189,en,2009-01-19,89,6.3,89
+546,Una Película de Huevos,0,0,"Animation, Comedy",,,False,2.523,en,2006-04-21,90,6.4,19
+547,Joy Ride 2: Dead Ahead,5000000,0,"Crime, Thriller","United States of America, Canada","20th Century Fox Home Entertainment, JR Canada Productions",False,8.297,en,2008-10-07,91,5.4,100
+548,The Toolbox Murders,0,0,"Mystery, Horror, Thriller",United States of America,"Toolbox Murders Inc., Alpine Pictures, Scary Movies LLC, Toolbox Films",False,4.818,en,2004-11-12,95,5.3,72
+549,Bukowski - Born into This,0,0,Documentary,United States of America,,False,3.189,en,2003-01-18,138,7.7,25
+550,Japan Sinks,0,47636016,"Drama, Thriller, Adventure, Science Fiction",Japan,,False,2.103,ja,2006-07-15,135,5.3,13
+551,Spriggan,0,0,"Action, Animation, Science Fiction",Japan,"Studio 4°C, TBS, Bandai Visual",False,4.808,ja,1998-09-05,90,6.1,32
+552,An Evening with Kevin Smith 2: Evening Harder,0,0,"Comedy, Documentary",United States of America,,False,3.968,en,2006-11-28,239,7.1,20
+553,Coal Miner's Daughter,15000000,67182787,"Drama, Music",United States of America,Universal Pictures,False,7.148,en,1980-03-07,125,7.2,113
+554,Barcelona,3200000,0,"Comedy, Drama, Romance",United States of America,"Barcelona Films, Castle Rock Entertainment, Fine Line Features",False,5.585,en,1994-07-29,100,6.7,35
+555,Hellboy Animated: Sword of Storms,0,0,"TV Movie, Fantasy, Animation, Action, Thriller, Science Fiction",United States of America,"IDT Entertainment, Film Roman Productions",False,4.435,en,2006-10-28,73,6.2,46
+556,Texas Chainsaw Massacre: The Next Generation,600000,185898,"Comedy, Horror, Thriller",United States of America,Ultra Muchos Productions,False,9.341,en,1994-01-01,95,3.8,198
+557,Madea's Family Reunion,6000000,57231524,"Drama, Comedy, Romance",United States of America,Lions Gate Films,False,7.855,en,2006-02-24,110,6.0,98
+558,National Lampoon Presents Electric Apricot: Quest for Festeroo,0,0,Comedy,United States of America,National Lampoon Productions,False,1.363,en,2007-11-09,92,5.8,5
+559,Welcome to Mooseport,30000000,14000000,Comedy,"Germany, United States of America","Intermedia Films, Mediastream Vierte Film GmbH & Co. Vermarktungs KG, Mooseport Productions, 20th Century Fox",False,5.633,en,2004-02-24,110,5.1,80
+560,Zombie Self-Defense Force,0,0,Horror,Japan,Filmworks Movie King,False,2.048,ja,2006-04-25,76,4.9,7
+561,Action Man - Past Performance,0,0,"Action, Animation",,,False,0.6,en,1900-01-01,,7.0,1
+562,Action Man - The Outside Edge,0,0,"Action, Animation",,,False,0.691,en,1995-12-16,,4.8,2
+563,Bingo,10000000,8667684,"Action, Adventure, Comedy, Family",United States of America,TriStar Pictures,False,2.907,en,1991-08-09,90,4.9,44
+564,Five Children and It,0,0,"Adventure, Fantasy, Drama, Science Fiction, Family","United Kingdom, United States of America, France","Endgame Entertainment, Sandfairy, Capitol Films",False,6.364,en,2004-10-15,88,5.5,130
+565,Roman Polanski: Wanted and Desired,0,0,Documentary,"United Kingdom, United States of America",,False,2.396,en,2008-01-18,99,6.5,26
+566,"Blue Water, White Death",0,0,Documentary,,,False,0.96,en,1971-03-01,99,0.0,0
+567,Miami Rhapsody,6,5,"Comedy, Romance",United States of America,Hollywood Pictures,False,2.681,en,1995-01-27,95,5.5,19
+568,How to Deal,0,0,"Drama, Comedy, Romance",United States of America,"Focus Features, Golden Mean, Radar Pictures",False,6.21,en,2003-07-18,99,5.5,77
+569,The one I love,0,0,Comedy,France,Manda Productions,False,2.478,en,2009-04-22,103,4.5,15
+570,Humans,0,0,"Adventure, Thriller, Horror",France,La Fabrique 2,False,2.594,fr,2009-04-22,87,4.5,14
+571,The Gunfighter,0,0,Western,United States of America,20th Century Fox,False,4.231,en,1950-06-23,85,7.1,55
+572,Incognito,0,0,Comedy,France,"Same Player, Pathé!, SCOPE Pictures, Fortis Film Fund, Weber Investissements",False,6.063,fr,2009-04-28,94,5.6,145
+573,Dunston Checks In,16000000,0,"Adventure, Comedy, Family",United States of America,"Joe Wizan/Todd Black, 20th Century Fox",False,7.274,en,1996-01-12,88,5.2,108
+574,The Wiggles: Go Bananas,0,0,Family,Australia,The Wiggles Pty Ltd,False,1.219,en,2009-07-13,47,6.0,1
+575,Hallelujah!,0,0,Comedy,France,"EuropaCorp, Rhône-Alpes Cinéma, TF1 Films Production, CiBy 2000",False,4.731,fr,2009-04-29,91,5.8,86
+576,G.I. Joe: The Movie,0,0,"Animation, Action, Thriller, Science Fiction, Family",,Sunbow Productions,False,4.423,en,1987-08-01,93,6.3,30
+577,Summer Palace,0,0,"Drama, Romance","China, France, Germany, United Kingdom","Centre National de la Cinématographie, Flying Moon Filmproduktion GmbH, Dream Factory, Laurel Films, Norman Rosemont Productions, Rosem Films (F)",False,2.723,zh,2006-05-18,140,7.2,15
+578,The Collective,0,0,"Mystery, Thriller",,,False,1.344,en,2008-01-01,85,4.4,5
+579,The Fencing Master,0,0,"Thriller, History, Adventure",Spain,Origen Producciones Cinematograficas,False,1.4,es,1992-09-18,88,6.3,4
+580,Moon,5000000,9760104,"Science Fiction, Drama",United Kingdom,"Lunar Industries, Liberty Films UK, Xingu Films, Limelight Fund",False,16.462,en,2009-06-12,97,7.6,3146
+581,My Friend Ganesha,0,0,Family,,,False,1.17,en,2007-01-01,122,4.0,1
+582,Street Fighter Alpha - The Movie,0,0,"Action, Animation",Japan,"Group TAC, CAPCOM",False,3.945,ja,1999-12-22,100,5.7,24
+583,El Norte,0,0,"Thriller, Adventure, Drama","United Kingdom, United States of America","Independent Productions, American Playhouse, Channel Four Films",False,4.037,es,1983-10-11,141,7.3,27
+584,The Informers,18000000,382174,Drama,"Germany, United States of America",Senator Entertainment Co,False,8.095,en,2008-11-05,98,4.6,107
+585,Diggers,0,0,"Comedy, Drama",,,False,4.04,en,2006-01-01,96,6.0,18
+586,...And Justice for All,0,33300000,"Crime, Drama, Mystery, Thriller",United States of America,Columbia Pictures,False,8.83,en,1979-10-19,119,7.1,190
+587,Green Lantern: First Flight,3500000,0,"Action, Animation, Science Fiction",United States of America,"DC Comics, Warner Bros. Animation, DC Entertainment",False,7.965,en,2009-07-28,75,6.4,167
+588,Jeffrey,0,0,"Comedy, Drama, Romance",United States of America,"The Booking Office, Workin' Man Films",False,4.763,en,1995-08-18,92,6.8,27
+589,Afona,0,0,,,,True,0.6,en,1900-01-01,,0.0,0
+590,Pennies from Heaven,22000000,9171289,"Drama, Music, Romance",United States of America,"Hera Productions, SLM Production Group, Metro-Goldwyn-Mayer",False,4.847,en,1981-12-11,108,6.4,43
+591,Pride,0,0,"Adventure, Drama, Family",United Kingdom,"BBC, John Downer Productions Ltd.",False,3.773,en,2004-06-21,90,6.5,43
+592,Hellraiser: Deader,4000000,0,"Horror, Mystery, Thriller","Romania, United States of America","Dimension Films, Stan Winston Productions, Neo Art & Logic, Castel Film",False,8.727,en,2005-06-07,88,4.5,121
+593,BloodRayne: Deliverance,10000000,0,"Action, Horror, Western","Canada, Germany",Boll Kino Beteiligungs GmbH & Co. KG,False,7.496,en,2007-09-18,99,3.6,96
+594,The Twins Effect,0,0,"Action, Comedy, Horror",Hong Kong,"Emperor Multimedia Group (EMG), Million Channel Ltd.",False,5.926,cn,2003-03-08,107,5.3,55
+595,Blame It on Fidel!,0,0,"History, Drama","France, Italy",,False,3.663,fr,2006-11-29,99,7.4,21
+596,Breakin' 2: Electric Boogaloo,0,0,"Drama, Music",United States of America,"Cannon Group, TriStar Pictures, Golan-Globus Productions",False,4.961,en,1984-12-21,94,5.1,37
+597,Youngblood,0,0,"Drama, Romance",United States of America,"United Artists, The Guber-Peters Company",False,7.324,en,1986-01-31,110,6.1,95
+598,Death Warrant,4000000,16853487,Action,"Canada, United States of America","Pathé Pictures International, Cannon Group, Metro-Goldwyn-Mayer",False,8.476,en,1990-09-14,93,5.6,214
+599,Riki-Oh: The Story of Ricky,0,0,"Comedy, Action, Thriller","Hong Kong, Japan",Diagonal Pictures,False,6.882,cn,1991-10-05,92,6.8,117
+600,The Cradle,0,0,"Horror, Thriller",United States of America,,False,1.4,en,2007-07-31,92,4.0,3
+601,Arc,650000,0,"Drama, Mystery, Thriller",United States of America,,False,1.223,en,2006-10-20,113,6.0,6
+602,The Room,6000000,1800,"Drama, Romance",United States of America,"Chloe Productions, TPW Films, Wiseau-Films",False,12.003,en,2003-06-27,99,4.2,726
+603,The Man in the Moon,0,2853801,"Drama, Family, Romance",United States of America,Metro-Goldwyn-Mayer,False,6.931,en,1991-09-30,99,7.2,115
+604,Dhoom,1500000,12000000,"Action, Crime, Drama, Thriller",India,Yash Raj Films,False,4.882,hi,2004-08-27,124,6.1,92
+605,Alexandra,0,0,"War, Drama","France, Russia","Proline Film, Rezo Productions, Federal Agency for Culture and Cinematography of the Russian Federation, Centre National de la Cinématographie",False,2.468,ru,2007-06-03,95,6.2,14
+606,"That's It, That's All",0,0,Documentary,United States of America,Brain Farm,False,1.414,en,2008-01-01,63,6.5,6
+607,The Adventures of Sherlock Holmes,0,0,"Crime, Mystery, Thriller",United States of America,20th Century Fox,False,5.524,en,1939-09-01,85,7.1,55
+608,Dark Remains,0,0,Horror,United States of America,Avenet Images Productions,False,2.366,en,2005-01-01,91,4.5,11
+609,Shelter,0,0,"Drama, Romance",United States of America,GP Pictures,False,7.792,en,2007-06-16,97,7.7,226
+610,Craig Ferguson: A Wee Bit o' Revolution,0,0,Comedy,United States of America,,False,2.561,en,2009-03-22,80,6.0,6
+611,Sister Smile,0,0,Drama,"Belgium, France",Océanic Films,False,2.895,fr,2009-04-29,120,6.8,19
+612,Body and Soul,0,0,Drama,United States of America,Enterprise Productions,False,4.529,en,1947-11-09,104,6.7,42
+613,Unlawful Entry,23000000,57138719,"Crime, Thriller, Mystery","Japan, United States of America","20th Century Fox, Largo Entertainment, JVC Entertainment Networks",False,8.035,en,1992-06-26,117,6.0,111
+614,Whatever Lola wants,0,0,Drama,"Canada, France",Pathé!,False,2.358,en,2007-12-11,115,6.5,13
+615,Urban Cowboy,0,0,"Drama, Romance",United States of America,Paramount,False,5.714,en,1980-06-06,132,5.9,95
+616,UFC 2: No Way Out,0,0,Action,United States of America,Zuffa,False,1.044,en,1994-03-11,85,6.2,3
+617,Don,5000000,15000000,"Action, Drama, Thriller",India,Excel Entertainment,False,9.009,hi,2006-10-20,178,7.2,109
+618,UFC 5: Return Of The Beast,0,0,,United States of America,SEG Sports,False,1.271,en,1995-04-07,120,5.8,3
+619,UFC 6: Clash Of The Titans,0,0,,United States of America,,False,0.736,en,1995-07-14,114,6.2,3
+620,UFC 7: The Brawl In Buffalo,0,0,,United States of America,,False,0.943,en,1995-09-08,118,6.2,3
+621,UFC 8: David vs. Goliath,0,0,,"Puerto Rico, United States of America",,False,0.943,en,1996-02-16,90,5.8,3
+622,UFC 9: Motor City Madness,0,0,,United States of America,,False,0.6,en,1996-05-17,118,5.5,3
+623,UFC 10: The Tournament,0,0,,United States of America,,False,0.709,en,1996-07-12,119,6.2,3
+624,UFC 11: The Proving Ground,0,0,,United States of America,,False,0.731,en,1996-09-20,151,5.2,3
+625,UFC 12: Judgement Day,0,0,,United States of America,,False,0.6,en,1997-02-07,,5.8,3
+626,UFC 13: The Ultimate Force,0,0,,United States of America,,False,0.737,en,1997-05-30,,6.2,4
+627,UFC 14: Showdown,0,0,,United States of America,,False,0.687,en,1997-07-27,,5.3,2
+628,UFC 15: Collision Course,0,0,,United States of America,,False,1.533,en,1997-10-17,,5.8,3
+629,UFC 16: Battle In The Bayou,0,0,,United States of America,,False,1.4,en,1998-03-13,,5.5,3
+630,UFC 17: Redemption,0,0,,United States of America,,False,1.4,en,1998-05-15,,5.3,2
+631,UFC 18: Road To The Heavyweight Title,0,0,,United States of America,,False,0.6,en,1999-01-08,,5.5,3
+632,UFC 19: Young Guns,0,0,,United States of America,,False,1.301,en,1999-03-05,,5.8,3
+633,UFC 20: Battle For The Gold,0,0,,United States of America,,False,1.238,en,1999-05-07,,5.5,3
+634,UFC 21: Return Of The Champions,0,0,,United States of America,,False,0.6,en,1999-07-16,,6.0,1
+635,UFC 22: There Can Be Only One Champion,0,0,,United States of America,,False,0.727,en,1999-09-24,,6.4,4
+636,UFC 23: Ultimate Japan 2,0,0,,"Japan, United States of America",,False,1.4,en,1999-11-19,,5.2,3
+637,UFC 24: First Defense,0,0,,United States of America,,False,0.951,en,2000-03-10,,5.5,3
+638,S. Darko,4000000,4100000,"Thriller, Crime, Science Fiction, Mystery",United States of America,"Newmarket Capital Group, Adam Fields Productions, Silver Nitrate",False,6.36,en,2009-04-28,103,3.8,218
+639,UFC 26: Ultimate Field Of Dreams,0,0,,United States of America,,False,0.681,en,2000-06-09,,5.2,3
+640,UFC 27: Ultimate Bad Boyz,0,0,,United States of America,,False,0.981,en,2000-09-22,,5.8,3
+641,UFC 28: High Stakes,0,0,,United States of America,,False,1.307,en,2000-11-17,,6.3,4
+642,UFC 29: Defense of the Belts,0,0,,"Japan, United States of America",,False,0.943,en,2000-12-16,,5.8,3
+643,UFC 30: The Battle On The Boardwalk,0,0,,United States of America,,False,1.303,en,2001-02-23,,6.8,4
+644,Rooster Cogburn,0,8022000,Western,United States of America,"Universal Pictures, Hal Wallis Productions",False,6.272,en,1975-10-17,108,6.4,80
+645,Billy's Hollywood Screen Kiss,0,2020700,"Comedy, Romance",United States of America,Revolutionary Eye LLC,False,3.096,en,1998-07-24,92,6.2,18
+646,UFC 31: Locked & Loaded,0,0,,United States of America,,False,0.98,en,2001-05-04,,6.6,4
+647,UFC 32: Showdown In The Meadowlands,0,0,,United States of America,,False,0.693,en,2001-06-29,,6.2,3
+648,UFC 33: Victory In Vegas,0,0,,United States of America,,False,1.551,en,2001-09-28,,5.8,3
+649,UFC 34: High Voltage,0,0,,United States of America,,False,1.831,en,2001-11-02,,6.4,4
+650,UFC 35: Throwdown,0,0,,United States of America,,False,0.943,en,2002-01-11,,5.8,3
+651,UFC 36: Worlds Collide,0,0,,United States of America,,False,1.228,en,2002-03-22,,6.6,4
+652,UFC 37: High Impact,0,0,,United States of America,,False,0.6,en,2002-05-10,,5.5,3
+653,UFC 37.5 :As Real As It Gets,0,0,,United States of America,,False,1.518,en,2002-06-22,,6.5,3
+654,UFC 38: Brawl At The Hall,0,0,,"United Kingdom, United States of America",,False,0.681,en,2002-07-13,,5.5,3
+655,UFC 39: The Warriors Return,0,0,,United States of America,,False,1.331,en,2002-09-27,,6.0,4
+656,UFC 40: Vendetta,0,0,,United States of America,,False,0.709,en,2002-11-22,,6.2,3
+657,UFC 41: Onslaught,0,0,,United States of America,,False,0.993,en,2003-02-28,,8.0,2
+658,UFC 42: Sudden Impact,0,0,,United States of America,,False,1.522,en,2003-04-25,,4.8,3
+659,UFC 43: Meltdown,0,0,,United States of America,,False,0.949,en,2003-06-06,,6.6,4
+660,UFC 44: Undisputed,0,0,,United States of America,,False,1.176,en,2003-09-26,,6.9,4
+661,UFC 45: Revolution,0,0,,United States of America,,False,0.84,en,2003-11-21,,5.5,3
+662,UFC 47: It's On!,0,0,,United States of America,,False,1.273,en,2004-04-02,,6.8,3
+663,UFC 48: Payback,0,0,,United States of America,,False,0.984,en,2004-06-19,,5.2,3
+664,UFC 49: Unfinished Business,0,0,,United States of America,,False,1.355,en,2004-08-21,,6.5,4
+665,UFC 50: The War of 04,0,0,,United States of America,,False,1.4,en,2004-10-22,,6.2,3
+666,UFC 51: Super Saturday,0,0,,United States of America,,False,1.052,en,2005-02-05,180,6.2,3
+667,UFC 52: Couture vs. Liddell II,0,0,,United States of America,,False,1.231,en,2005-04-16,,6.8,4
+668,Brave Story,0,0,"Science Fiction, Animation, Fantasy",Japan,"Fuji Television Network, GONZO, Sky Perfect Well Think, Warner Bros. Pictures, Trans Arts, Dentsu, Warner Bros. Japan",False,4.835,ja,2006-05-22,112,6.6,36
+669,Battle Planet,0,0,"Action, Science Fiction",United States of America,Night Light Films,False,3.778,en,2008-11-02,85,3.8,12
+670,Only Clouds Move the Stars,0,0,"Family, Drama",Norway,"Norsk Film, Filmkameratene",False,2.505,no,1998-08-24,98,7.8,6
+671,The Devil's Tomb,10000000,0,"Action, Horror, Thriller, Science Fiction",United States of America,"Ice Cold Productions, Empyreal Entertainment, Ringleader Studios, Splendid Film",False,6.092,en,2009-05-26,90,4.4,82
+672,The Adventures of Tintin,130000000,371940071,"Adventure, Animation, Mystery","New Zealand, United States of America","Paramount, Columbia Pictures, WingNut Films, Amblin Entertainment, Nickelodeon Movies, Hemisphere Media Capital, The Kennedy/Marshall Company",False,14.097,en,2011-10-25,107,6.8,3311
+673,Crusty Demons 13: Unleash Hell,0,0,Action,,,False,0.6,en,2007-01-01,75,0.0,0
+674,Naruto Shippuden the Movie Bonds,0,0,"Fantasy, Animation, Action",Japan,,False,7.33,ja,2008-08-02,90,7.1,102
+675,Khamsa,0,0,Drama,France,"Mirak Films, ARTE France Cinéma, Canal+",False,1.681,fr,2008-10-08,110,6.1,13
+676,Blue Hill Avenue,0,0,"Crime, Drama",United States of America,,False,3.009,en,2001-01-01,128,7.3,15
+677,Surviving the Game,7400000,7690013,"Action, Adventure, Thriller, Crime",United States of America,New Line Cinema,False,4.982,en,1994-04-15,96,6.3,82
+678,Legends – Live At Montreux,0,0,Music,,,False,1.4,en,1997-01-01,107,4.8,2
+679,Mrs Brown,0,0,"Drama, History, Romance","Ireland, United Kingdom, United States of America","Miramax, BBC Scotland, Mobile Masterpiece Theatre, WGBH Boston",False,6.052,en,1997-07-18,105,6.9,79
+680,Deathtrap,0,0,"Comedy, Crime, Drama, Mystery, Romance, Thriller",United States of America,Warner Bros. Pictures,False,6.245,en,1982-03-19,116,6.8,89
+681,The Battle of the River Plate,0,0,"Drama, War, Action, Adventure, History",United Kingdom,The Archers,False,4.053,en,1956-10-30,119,5.8,14
+682,The Wild Parrots of Telegraph Hill,0,0,Documentary,,,False,1.966,en,2003-10-09,83,7.3,13
+683,Rough Cut,0,0,"Action, Drama",South Korea,,False,3.544,ko,2008-09-11,113,6.7,35
+684,Afterbang,0,0,,,Robot Food,False,0.6,en,2002-01-01,31,0.0,0
+685,Cowards Bend the Knee,0,0,"Drama, Romance, Fantasy",Canada,,False,1.706,en,2003-01-01,64,7.6,9
+686,The Hindenburg,15000000,0,"History, Thriller",United States of America,"The Filmakers Group, Universal Pictures",False,3.225,en,1975-12-25,125,6.4,46
+687,Spanking the Monkey,200000,0,"Comedy, Drama",United States of America,"Swelter Films, Fine Line Features, Buckeye Films",False,5.285,en,1994-01-15,106,5.9,38
+688,Big Night,0,0,Drama,United States of America,Rysher Entertainment,False,5.692,en,1996-09-20,107,7.0,86
+689,Willi und die Wunder dieser Welt,0,0,Documentary,"Australia, Canada, Germany, Algeria, Japan",,False,0.954,en,2009-03-05,78,8.3,3
+690,Midaq Alley,0,0,Drama,Mexico,"Alameda Films, Consejo Nacional para la cultura y las artes, Instituto Mexicano de Cinematografía",False,4.139,es,1995-05-05,140,6.7,18
+691,Alone With Her,1000000,10018,"Crime, Drama, Romance, Thriller",United States of America,"Pin Hole Productions LLC, The Weinstein Company",False,3.071,en,2006-04-28,78,5.6,29
+692,Beautiful Ohio,0,0,Drama,United States of America,Accomplice Films,False,1.772,en,2006-11-10,91,6.5,2
+693,Bedazzled,0,0,"Comedy, Fantasy, Romance",United Kingdom,"Stanley Donen Films, 20th Century Fox",False,4.472,en,1967-10-30,103,6.4,65
+694,Beneath Still Waters,0,0,Horror,"United Kingdom, Spain",,False,2.878,en,2005-11-02,92,4.4,15
+695,Berkeley,0,0,Drama,United States of America,Jung N Restless Productions Inc.,False,0.957,en,2005-10-08,88,7.0,1
+696,Better Than Chocolate,0,0,"Drama, Romance",Canada,"Government of British Columbia Film Incentive BC Program, British Columbia Film, CITY-TV",False,5.792,en,1999-02-14,101,6.3,40
+697,Bikini Bloodbath,0,0,Horror,,,False,0.652,en,2006-09-16,72,5.0,2
+698,Black Eagle,3000000,0,Action,United States of America,"Magus Productions, Rotecon B.V.",False,6.642,en,1988-05-01,93,4.3,83
+699,Boxing Helena,0,1796389,"Drama, Romance",United States of America,Mainline Pictures,False,7.133,en,1993-06-18,107,4.7,92
+700,Brutal Massacre: A Comedy,0,0,"Comedy, Horror",United States of America,,False,1.781,en,2008-07-22,94,4.4,11
+701,Buried Alive,0,0,"Action, Adventure, Horror, Thriller",United States of America,OddLot Entertainment,False,4.641,en,2007-02-07,94,3.6,37
+702,The Business of Being Born,0,0,Documentary,United States of America,,False,1.185,en,2008-01-01,87,7.3,14
+703,Don't Tell,0,0,Drama,Italy,"Acquimia Cinema, Alcquimia Cinema",False,3.749,es,2005-03-17,116,6.0,39
+704,Poison Ivy 2: Lily,0,0,"Drama, Romance, Thriller",United States of America,"New Line Cinema, CineTel Pictures, MG Entertainment",False,7.742,en,1996-01-16,106,4.7,57
+705,Space Station 3D,0,0,Documentary,"Canada, United States of America","National Aeronautics and Space Administration (NASA), IMAX, Lockheed Martin Corporation",False,3.442,en,2002-04-17,47,6.5,17
+706,Poison Ivy: The New Seduction,0,0,"Thriller, Romance, Drama",United States of America,"New Line Cinema, CineTel Pictures, MG Entertainment",False,3.949,en,1997-10-20,93,4.5,40
+707,Poison Ivy: The Secret Society,1999000,0,"Drama, Thriller","Canada, United States of America","Insight Film Studios, New Line Home Entertainment, CineTel Films",False,3.992,en,2008-07-27,95,4.5,18
+708,Bionicle 3: Web of Shadows,0,0,"Action, Adventure, Animation, Family, Fantasy",,Nitrogen Studios Canada,False,2.316,en,2005-01-01,75,6.2,28
+709,The Dog Trick,0,0,"Romance, Comedy, Drama",,,False,3.004,sv,2002-10-25,106,4.6,15
+710,Blue Hawaii,2000000,0,"Comedy, Music, Romance",United States of America,"Paramount, Hal Wallis Productions",False,5.305,en,1961-11-22,102,5.5,53
+711,Passage to Marseille,0,0,"Adventure, Drama, History",United States of America,Warner Bros. Pictures,False,2.425,en,1944-02-16,109,6.7,22
+712,Supervolcano,0,0,"Action, Drama, Thriller","Germany, Italy, Japan, United Kingdom, United States of America","BBC Films, Mediaset, Big Blast Productions, Legacy Filmworks, Discovery Channel, ProSieben Television, NHK",False,2.907,en,2005-03-13,120,5.8,18
+713,Star Trek: Of Gods And Men,0,0,"Action, Science Fiction",United States of America,ST Renegades,False,1.629,en,2007-12-22,87,5.2,10
+714,If You Are the One,0,0,"Drama, Comedy, Romance",China,,False,3.435,zh,2008-12-22,130,6.5,26
+715,The Twilight Saga: New Moon,50000000,709827462,"Adventure, Fantasy, Drama, Romance",United States of America,"Summit Entertainment, Temple Hill Entertainment, Maverick Films, Imprint Entertainment, Sunswept Entertainment",False,23.16,en,2009-03-15,131,5.8,5310
+716,The Proposal,40000000,317375031,"Comedy, Romance, Drama",United States of America,"Kurtzman/Orci, Touchstone Pictures, Mandeville Films",False,13.892,en,2009-06-01,108,6.9,3550
+717,The Secret Adventures of Tom Thumb,0,0,"Animation, Science Fiction",United Kingdom,"Bolex Brothers, Lumen Films, Tara",False,2.355,en,1993-12-10,61,7.3,16
+718,True True Lie,0,0,"Thriller, Drama",United Kingdom,,False,2.656,en,2006-01-01,90,4.3,8
+719,STRONG: The Movie,0,0,Documentary,,,False,0.6,en,2008-12-12,54,0.0,0
+720,Spectacular!,0,0,"Drama, Music",Canada,,False,1.823,en,2009-02-16,,6.3,32
+721,The Foreigner,16700000,0,"Action, Thriller","Poland, United States of America","Franchise Pictures, Columbia Pictures",False,8.552,en,2003-06-01,96,3.9,74
+722,Dr. Phibes Rises Again,75000,0,"Comedy, Horror, Adventure","United States of America, United Kingdom",American International Pictures (AIP),False,4.644,en,1972-07-01,89,6.3,65
+723,My Science Project,0,4122748,"Comedy, Family, Fantasy, Science Fiction",United States of America,"Touchstone Pictures, Silver Screen Partners II",False,4.435,en,1985-08-09,94,5.8,53
+724,Mythen Wunder Emotionen,0,0,,Germany,,False,0.6,en,2009-04-25,70,0.0,0
+725,Reds,32000000,40382659,"Drama, History",United States of America,"JRS Productions, Barclays Mercantile Industrial Finance",False,14.564,en,1981-12-25,195,7.3,128
+726,Castle Freak,0,0,"Thriller, Drama, Horror, Mystery",United States of America,Full Moon Entertainment,False,6.628,en,1995-08-04,95,6.2,74
+727,Black Belt Jones,0,0,"Action, Comedy",United States of America,"Sequoia Productions, Sequoin Films, Warner Bros. Pictures",False,2.69,en,1974-01-29,87,6.1,27
+728,Black Samurai,0,0,"Action, Adventure, Crime, Romance",,,False,1.178,en,1977-02-15,88,5.4,7
+729,Kiss Tomorrow Goodbye,0,0,"Thriller, Crime",United States of America,William Cagney Productions,False,2.548,en,1950-08-19,103,6.6,14
+730,The Man from Laramie,0,0,Western,United States of America,"William Goetz Productions, Columbia Pictures",False,6.255,en,1955-08-31,104,7.1,85
+731,Remote Control,0,0,Comedy,Iceland,,False,0.6,en,1992-09-09,78,6.4,6
+732,Lady and the Tramp II: Scamp's Adventure,0,0,"Romance, Animation, Family, Adventure","Australia, United States of America",Walt Disney Television Animation,False,12.459,en,2001-02-18,69,6.2,673
+733,Henry Rollins: Live in the Conversation Pit,0,0,Comedy,United States of America,,False,1.4,en,2008-01-15,153,0.0,0
+734,Downloading Nancy,3000000,0,"Drama, Thriller",United States of America,"World Premiere Entertainment, Tule River Films",False,3.979,en,2008-01-21,102,5.4,26
+735,Frogs,0,0,"Horror, Mystery",United States of America,"Peter Thomas Productions, American International Pictures (AIP)",False,4.997,en,1972-03-10,91,4.3,52
+736,Hoot,0,0,"Drama, Family",United States of America,"Walden Media, Hoot Productions LLC, The Kennedy/Marshall Company",False,4.009,en,2006-05-05,91,5.4,75
+737,Perkins' 14,0,0,"Horror, Thriller",United States of America,After Dark Films,False,4.093,en,2009-01-09,95,4.6,25
+738,Frozen Land,2000000,0,Drama,Finland,"Solar Films, YLE",False,4.316,fi,2005-01-14,127,6.9,29
+739,Journey into Amazing Caves,0,0,Documentary,United States of America,MacGillivray Freeman Films,False,1.286,en,2001-03-01,39,5.9,5
+740,Side Street,0,0,Crime,United States of America,Metro-Goldwyn-Mayer,False,2.035,en,1950-03-23,83,6.5,14
+741,One Crazy Summer,13431806,0,"Drama, Comedy, Romance, Family",United States of America,A&M Films,False,7.495,en,1986-08-08,89,6.2,88
+742,Brigadoon,0,0,"Music, Romance, Fantasy",United States of America,Metro-Goldwyn-Mayer,False,5.622,en,1954-09-08,108,6.6,59
+743,The Legend of Zelda: Retrospective,0,0,Documentary,United States of America,,False,0.6,en,2006-11-20,55,9.0,1
+744,Support Your Local Gunfighter,0,0,"Action, Comedy, Western",United States of America,,False,2.694,en,1971-05-26,91,6.5,31
+745,Godzilla vs. Biollante,5000000,0,"Horror, Science Fiction",Japan,"Toho Pictures, Inc.",False,4.599,ja,1989-12-16,105,6.2,47
+746,Arranged,0,0,"Drama, Comedy, Romance",United States of America,,False,1.26,en,2007-03-10,90,6.0,15
+747,Cyborg Soldier,0,0,"Action, Adventure, Science Fiction, Thriller","United States of America, Canada",,False,1.187,en,2008-07-10,84,3.9,7
+748,George Washington,42000,241816,Drama,United States of America,,False,4.855,en,2000-10-01,90,6.7,56
+749,The Axis of Evil Comedy Tour,0,0,Comedy,United States of America,,False,1.752,en,2007-01-01,63,7.2,7
+750,Laughter and Punishment,0,0,"Drama, Comedy",,,False,3.353,fr,2003-01-28,,5.4,40
+751,August 15th,0,0,Comedy,France,EuropaCorp,False,3.947,fr,2001-04-18,92,5.3,38
+752,The Three Kings,0,0,"Comedy, Adventure, Fantasy",France,"Renn Productions, Productions Paul Lederman, D.B. Production, ABS, Canal+, TF1 Films Production",False,5.665,fr,2001-12-12,102,5.5,138
+753,Love in the Afternoon,0,0,"Comedy, Drama, Romance",United States of America,Allied Artists Pictures,False,6.236,en,1957-06-30,130,7.2,112
+754,Jet Lag,0,0,"Comedy, Drama, Romance","France, United Kingdom",,False,3.661,fr,2002-10-30,91,5.6,54
+755,Painted Fire,0,0,"Drama, History",South Korea,,False,1.598,ko,2002-05-10,120,7.3,13
+756,If I Were a Rich Man,0,0,Comedy,France,TF1 International,False,3.309,fr,2002-11-27,105,5.7,48
+757,A Better Tomorrow II,0,0,"Action, Crime, Thriller",Hong Kong,Film Workshop,False,7.029,cn,1987-12-17,105,7.3,80
+758,Getting Played,0,0,"Comedy, Romance",United States of America,New Line Cinema,False,3.243,en,2005-12-10,81,6.3,10
+759,Days of Being Wild,0,141864,"Crime, Drama, Romance",Hong Kong,Media Asia Films,False,8.359,cn,1990-12-15,94,7.4,152
+760,Endgame: Blueprint for Global Enslavement,0,0,Documentary,United States of America,,False,2.929,en,2007-11-01,139,6.9,17
+761,UFC 98: Evans vs. Machida,0,3400000,,United States of America,,False,1.823,en,2009-05-23,173,6.8,3
+762,Black Dog,0,12,"Action, Adventure, Thriller","France, Germany, Japan, United Kingdom, United States of America",Universal Pictures,False,4.932,en,1998-05-01,88,5.3,70
+763,Truly Madly Deeply,0,0,"Fantasy, Drama, Comedy, Science Fiction, Romance",United Kingdom,"BBC, Lionheart Entertainment, Winston",False,3.163,en,1990-11-10,106,7.2,33
+764,The Young Victoria,35000000,31878891,"Drama, History, Romance","United Kingdom, United States of America",GK Films,False,12.846,en,2009-03-04,105,7.2,579
+765,Within Temptation: Black Symphony,0,0,Music,Netherlands,,False,1.4,es,2008-09-19,127,8.8,10
+766,Joshua,0,1347988,Drama,,,False,1.495,en,2002-04-19,91,7.1,10
+767,Giải cứu thần chết,0,0,,,,False,1.508,en,1900-01-01,,0.0,0
+768,The Kiss of Death,0,0,Comedy,,,False,1.4,vi,2008-01-01,93,5.8,2
+769,Happy Together,0,0,"Drama, Romance",Hong Kong,"Black Monday Film Services, Jet Tone Production, Block 2 Pictures",False,7.873,zh,1997-05-17,96,7.7,195
+770,The Nutty Professor,0,0,"Comedy, Family, Romance, Science Fiction",United States of America,"Paramount, Jerry Lewis Enterprises",False,6.382,en,1963-06-04,107,6.7,162
+771,Hour of the Wolf,0,0,"Drama, Horror",Sweden,Svensk Filmindustri,False,7.885,sv,1968-01-01,90,7.5,174
+772,Guinea Pig: Devil's Experiment,0,0,Horror,Japan,Sai Enterprise,False,3.368,ja,1985-09-04,43,4.3,39
+773,The Mailman,0,0,"Horror, Thriller",United States of America,Rolling Pictures Inc.,False,0.849,en,2004-07-13,82,0.0,0
+774,Tommy Cooper - A Feztival Of Fun With Tommy Cooper,0,0,,,,False,0.6,en,1999-09-27,,0.0,0
+775,The Cremator,0,0,"Thriller, Drama, Horror",Czech Republic,"Sebor, Filmové Studio Barrandov",False,5.0,cs,1969-03-14,100,7.8,65
+776,The Assignment,0,0,"Thriller, Action, Crime, Mystery",Canada,"Triumph Films, Program de Credits of Impuc, Super Écran, Satch-Mo, Gouvernement du Québec, Canadian Film or Video Production Tax Credit Fund (CPTC), Allegro Films, The Movie Network",False,6.555,en,1997-09-28,119,6.6,55
+777,The Country Bears,35000000,18012097,"Adventure, Comedy, Family",United States of America,Walt Disney Pictures,False,5.245,en,2002-07-26,88,4.4,47
+778,Doug Stanhope: No Refunds,0,0,Comedy,United States of America,,False,2.111,en,2007-08-03,61,7.7,11
+779,Célibataires,0,0,Comedy,France,,False,0.896,en,2006-03-01,93,0.0,0
+780,Nursery Rhymes,0,0,,,,False,0.6,en,2000-01-01,,0.0,0
+781,Jedes Jahr im April,0,0,,,,False,0.6,en,2005-02-17,,0.0,0
+782,My Tutor Friend,0,0,Comedy,South Korea,"Corea Entertainment, CJ Entertainment",False,3.153,ko,2003-01-30,110,6.6,26
+783,Too Beautiful to Lie,0,0,"Comedy, Romance",South Korea,Cinema Service,False,2.153,ko,2004-02-20,115,6.3,26
+784,The Family Way,0,0,Comedy,United Kingdom,Jambox,False,1.53,en,1966-12-18,115,7.1,7
+785,My Girlfriend Is an Agent,0,0,"Comedy, Action",South Korea,"DCG Plus, Soojak Film, Lotte Entertainment, Harimao Pictures",False,3.76,ko,2009-04-04,112,6.4,40
+786,A Stranger's Heart,0,0,"Drama, Romance",United States of America,,False,2.387,en,2007-05-05,85,4.2,5
+787,Ice Rain,0,0,"Adventure, Drama",South Korea,,False,1.61,ko,2004-01-16,105,3.3,3
+788,200 Pounds Beauty,4000000,0,"Drama, Comedy, Romance",South Korea,"KM Culture Co., Realies Pictures",False,6.539,ko,2006-12-14,120,6.4,97
+789,Everything Is Fine,0,0,Drama,Canada,GO Films,False,1.96,fr,2008-03-01,118,6.4,11
+790,Babine,0,0,"Fantasy, Drama",Canada,Cité-Amérique,False,2.419,fr,2008-11-28,112,6.2,10
+791,"It's Not Me, I Swear!",0,0,"Comedy, Drama",Canada,,False,2.761,fr,2008-09-25,110,7.3,25
+792,High Octane 3,50000,0,,,,False,1.422,en,2002-09-20,120,0.0,0
+793,Almost Love,0,0,"Drama, Comedy, Romance",South Korea,"Showbox, Popcorn films",False,1.974,ko,2006-03-26,116,6.6,10
+794,Scandal Makers,0,0,"Comedy, Drama",South Korea,"M-Line Distribution, DCG Plus, Lotte Entertainment",False,3.991,ko,2008-12-03,108,7.1,47
+795,Together,0,0,Drama,"China, South Korea",,False,2.331,zh,2002-09-10,116,7.4,30
+796,Big Wednesday,11000000,0,"Drama, Comedy",United States of America,"A-Team, Warner Bros. Pictures",False,6.018,en,1978-05-26,120,7.1,82
+797,The Lighthorsemen,0,0,"History, War",Australia,"FGH, International Film Management, Picture Show, RKO Radio Pictures, Australian Film Commission",False,3.249,en,1987-09-10,131,6.1,14
+798,Easy Money,0,0,Comedy,United States of America,Orion Pictures,False,4.632,en,1983-08-19,95,6.4,51
+799,Embrace of the Vampire,500000,0,"Horror, Thriller, Fantasy",United States of America,"Ministry of Film, The, General Media Entertainment, New Line Cinema",False,3.883,en,1995-05-30,92,4.8,49
+800,Essex Boys,0,0,"Crime, Thriller",United Kingdom,Granada Film Productions,False,3.476,en,2000-07-14,102,5.9,33
+801,Exit to Eden,0,6841570,"Comedy, Crime, Thriller",United States of America,Savoy Pictures,False,4.152,en,1994-10-14,113,4.1,40
+802,Fall Down Dead,1000000,0,"Horror, Thriller",United States of America,"Highland Myst Entertainment, New Films International",False,2.151,en,2007-07-20,94,3.5,4
+803,Suddenly,0,0,"Crime, Drama, Thriller",United States of America,Libra Productions Inc.,False,4.661,en,1954-09-17,75,6.6,43
+804,The Glorious Team Batista,0,0,"Comedy, Drama, Mystery",Japan,,False,1.168,ja,2008-02-09,120,8.0,2
+805,Hello Goodbye,0,0,"Drama, Comedy, Romance",,,False,1.4,en,2008-11-26,99,5.2,7
+806,Historia Naturae (Suita),0,0,Animation,Czech Republic,Krátký film Praha,False,2.468,cs,1967-01-01,9,6.4,7
+807,Darkman III: Die Darkman Die,0,0,"Action, Thriller, Science Fiction",United States of America,Renaissance Pictures,False,5.424,en,1996-08-20,87,4.5,52
+808,The Land Before Time III: The Time of the Great Giving,0,0,"Animation, Adventure, Family",United States of America,Universal Cartoon Studios,False,7.961,en,1995-03-16,71,6.1,208
+809,The Flat,0,0,"Comedy, Animation, Fantasy, Mystery",Czech Republic,Krátký film Praha,False,2.196,cs,1968-01-01,13,7.6,16
+810,The Garden,0,0,Comedy,"Czech Republic, Slovakia, France","In Film, Artcam International, Charlie's Bratislava",False,1.875,sk,1995-06-09,99,7.0,12
+811,The Garden,0,0,"Drama, Comedy",Czech Republic,Krátký film Praha,False,2.328,cs,1968-01-01,17,7.2,8
+812,Deep Evil,0,0,"Science Fiction, Thriller",,,False,2.297,fr,2004-06-25,90,4.3,10
+813,Picnic with Weissmann,0,0,Animation,Austria,,False,1.58,de,1968-01-02,13,6.7,10
+814,A Quiet Week in the House,0,0,Animation,Czech Republic,Krátký film Praha,False,1.658,cs,1969-01-01,20,6.5,10
+815,Rustlers' Rhapsody,0,0,"Action, Comedy, Western",,Paramount,False,2.811,en,1985-05-10,88,5.3,14
+816,Clifford's Really Big Movie,0,0,"Adventure, Animation, Family",United States of America,Big Red Dog Productions,False,5.045,ab,2004-04-23,73,5.0,16
+817,Dirty Mary Crazy Larry,0,0,"Action, Adventure, Crime",United States of America,"Academy Pictures Corporation, 20th Century Fox",False,4.649,en,1974-05-17,93,6.7,46
+818,Care Bears: Big Wish Movie,0,0,"Animation, Comedy, Family",,Lions Gate Family Entertainment,False,1.267,en,2005-01-01,75,4.3,3
+819,Don Juan,0,0,Animation,"Czech Republic, Czechoslovakia",Krátký film Praha,False,1.196,cs,1969-01-01,31,9.0,2
+820,The Ossuary,0,0,"Animation, Documentary","Czech Republic, Czechoslovakia",Krátký film Praha,False,1.705,cs,1970-01-01,10,7.4,9
+821,Jabberwocky,0,0,"Fantasy, Animation",Czech Republic,Krátký film Praha,False,2.13,cs,1971-01-01,14,6.9,13
+822,Bhool Bhulaiyaa,0,0,"Comedy, Horror, Thriller",India,T-Series,False,5.642,hi,2007-10-12,151,6.3,61
+823,Azur & Asmar: The Princes' Quest,0,0,"Animation, Family","Belgium, France, Italy, Spain",Nord-Ouest Films,False,5.967,fr,2006-10-25,99,7.7,271
+824,AC/DC: Live at Donington,0,0,Music,,Leidseplein Presse,False,1.945,en,1992-10-27,118,8.1,17
+825,When Nietzsche Wept,0,0,"Drama, Romance","Bulgaria, United States of America",,False,2.875,en,2007-08-02,105,6.4,25
+826,Leonardo's Diary,0,0,Animation,"Czech Republic, Italy","Krátký film Praha, Jiří Trnka Studio, Corona Cinematografica",False,1.603,cs,1972-01-01,12,6.7,3
+827,Castle of Otranto,0,0,Animation,Czech Republic,Krátký film Praha,False,1.051,cs,1977-01-01,17,7.0,4
+828,The Sasquatch Gang,0,0,"Comedy, Family",United States of America,Trigger Street Productions,False,4.301,en,2006-01-01,84,5.3,20
+829,The Fall of the House of Usher,0,0,"Mystery, Animation, Horror",Czech Republic,Krátký film Praha,False,2.464,cs,1980-01-01,15,6.1,7
+830,Dimensions of Dialogue,0,0,Animation,Czech Republic,Krátký film Praha,False,3.751,cs,1983-01-01,12,7.8,62
+831,Manly Games,0,0,"Animation, Comedy",Czech Republic,Krátký film Praha,False,2.371,cs,1988-01-01,17,6.8,11
+832,The Conclave,4000000,0,"Drama, History","Canada, Germany","Alexander Sextus, Saltire Entertainment, Studio Hamburg International Production",False,0.972,en,2006-10-07,100,6.8,9
+833,Pearl Jam: Single Video Theory,0,0,Music,,,False,0.861,en,1998-08-04,45,7.3,5
+834,UFC 99: The Comeback,0,1300000,,United States of America,,False,0.735,en,2009-06-13,180,5.5,3
+835,All Dogs Go to Heaven 2,0,8620678,"Romance, Animation, Family, Adventure, Fantasy",United States of America,Metro-Goldwyn-Mayer,False,9.009,en,1996-03-29,82,5.5,111
+836,Otakus in Love,0,0,"Drama, Romance, Comedy",,,False,1.406,ja,2004-10-20,114,5.8,4
+837,Noodle Boxer,0,0,Comedy,Thailand,,False,0.634,en,2007-11-30,95,0.0,0
+838,The Yearling,0,0,"Drama, Family",United States of America,Metro-Goldwyn-Mayer,False,2.797,en,1946-12-18,128,6.6,40
+839,The Bad News Bears in Breaking Training,0,19104350,"Comedy, Family",United States of America,Paramount,False,2.978,en,1977-07-08,100,6.1,20
+840,The New Adventures of Pippi Longstocking,5000000,3569939,"Fantasy, Adventure, Family","Sweden, United States of America",Columbia Pictures,False,2.823,en,1988-07-06,100,5.8,32
+841,Light It Up,0,0,"Drama, Thriller",United States of America,,False,2.998,en,1999-11-04,99,6.6,14
+842,Valley Girl,350000,17343596,"Comedy, Romance",United States of America,"Atlantic Entertainment Group, Valley 9000",False,5.95,en,1983-04-08,99,6.2,88
+843,The London Nobody Knows,0,0,Documentary,United Kingdom,,False,1.4,en,1967-01-01,53,5.9,4
+844,Down,15000000,163169,"Action, Horror, Mystery, Thriller","Netherlands, United States of America",First Floor Features,False,3.71,en,2001-05-11,111,4.3,45
+845,Dead Fish,0,0,"Thriller, Adventure, Action, Comedy",United Kingdom,Orange Pictures,False,4.07,en,2005-10-11,94,5.9,22
+846,Ikigami: The Ultimate Limit,0,0,Drama,Japan,,False,1.03,ja,2008-09-26,133,7.2,10
+847,Once Bitten,3200000,10000000,"Horror, Comedy, Romance",United States of America,Night Light Films,False,6.439,en,1985-11-15,94,5.4,126
+848,Pure Luck,17010000,24941969,"Comedy, Crime, Mystery",United States of America,"Universal Pictures, Sean Daniel Company, Silver Lion Films",False,5.218,en,1991-08-09,96,5.5,52
+849,Rest Stop: Don't Look Back,0,0,Horror,United States of America,Raw Feed,False,4.253,en,2008-09-30,89,5.0,36
+850,The Duellists,900000,0,"Drama, War",United Kingdom,Enigma Productions,False,5.727,en,1977-08-31,100,7.5,192
+851,Lost in Plainview,0,0,Thriller,,,False,0.6,en,2005-01-01,91,6.0,1
+852,Blithe Spirit,0,0,"Comedy, Fantasy",United Kingdom,"Noel Coward-Cineguild, Two Cities Films",False,3.269,en,1945-05-14,96,6.9,39
+853,A Love Story,0,0,"Drama, Romance",Philippines,Star Cinema – ABS-CBN Film Productions,False,0.629,en,2007-08-15,,8.0,1
+854,Minghags,750000,0,Comedy,United States of America,Bam Margera Productions,False,1.538,en,2009-01-01,96,5.5,2
+855,A Midsummer Night's Dream,0,0,"Fantasy, Comedy, Science Fiction, Romance",United States of America,Warner Bros. Pictures,False,3.392,en,1935-10-09,143,6.5,14
+856,The Affair of the Necklace,0,0,"Drama, History",United States of America,Alcon Entertainment,False,4.079,en,2001-11-20,118,5.8,46
+857,UFC 101: Declaration,0,3550000,,United States of America,,False,1.96,en,2009-08-08,180,7.1,4
+858,Phoebe in Wonderland,0,73,Drama,United States of America,Silverwood Films,False,5.598,en,2008-02-07,100,7.3,76
+859,No Direction Home: Bob Dylan,2000000,0,"Documentary, Music","Japan, United Kingdom, United States of America",,False,4.015,en,2005-07-21,208,7.7,56
+860,Strays,0,0,Drama,United States of America,One Race,False,3.399,en,1997-01-18,105,4.6,17
+861,Johnson Family Vacation,12000000,31179516,"Comedy, Family",United States of America,"Fox Searchlight Pictures, Hallway Pictures, A Bird and a Bear Entertainment, Catch Productions",False,4.771,en,2004-04-07,97,4.6,60
+862,Vulgar,120000,14904,"Drama, Horror, Thriller, Crime",United States of America,"Chango Productions, Shongo Filmworks Ltd., View Askew Productions",False,2.882,en,2002-04-26,87,5.2,25
+863,Delta Force 2: The Colombian Connection,0,6698361,Action,United States of America,"Golan-Globus Productions, Cannon Group, Metro-Goldwyn-Mayer",False,6.713,en,1990-08-24,111,5.2,75
+864,LadyBugs,0,0,"Comedy, Family",United States of America,Paramount,False,3.79,en,1992-03-27,90,5.4,66
+865,Metallica: The Videos 1989-2004,0,0,Music,United States of America,Warner Bros. Pictures,False,1.582,en,2006-12-04,141,8.3,4
+866,Above the Rim,0,0,"Crime, Drama",United States of America,New Line Cinema,False,6.207,en,1994-03-23,96,6.9,70
+867,Sordid Lives,0,1079726,Comedy,United States of America,"Daly-Harris Productions, Davis Entertainment Classics, Sordid Lives LLC",False,3.984,en,2000-05-25,111,7.0,23
+868,A Virgin Among the Living Dead,0,0,Horror,"Belgium, France, Italy, Liechtenstein","Comptoir Français du Film Production (CFFP), Prodif Ets., J.K. Films, Brux International Pictures",False,4.459,fr,1973-11-15,79,4.7,17
+869,Back to Bataan,0,0,"Drama, Action, War",United States of America,RKO Radio Pictures,False,4.27,en,1945-05-30,95,6.1,24
+870,Behind Me,0,0,Drama,Canada,"Estfilmindustri, Les Films S%C3%A9ville",False,1.303,en,2008-09-05,87,6.0,3
+871,Just About Love?,1750000,0,"Comedy, Drama",France,,False,1.673,fr,2007-06-13,82,5.3,16
+872,Frenchmen,0,0,"Comedy, Romance",France,"Bac Films, Région Ile-de-France, Canal+, France 2 Cinéma",False,5.244,fr,2003-04-02,100,6.5,96
+873,Those Happy Days,0,0,"Comedy, Family",France,"Quad Productions, M6 Films, La Petite Reine, SND",False,6.955,en,2006-06-28,103,7.4,521
+874,As You Like It,0,0,"Comedy, Drama, Romance","United Kingdom, United States of America",Shakespeare Film Company,False,3.041,en,2006-01-01,127,5.9,31
+875,Iron Maiden: Flight 666,0,0,"Documentary, Music","United Kingdom, United States of America, Canada",Banger Films,False,4.101,en,2009-04-21,112,8.3,49
+876,Round Da Way,12500000,0,"Animation, Comedy",France,"Millimages, Studio 37, France 2 Cinéma, Toon's and Tales, Toons'N'Tales",False,5.651,fr,2009-06-17,96,6.9,106
+877,Dido: Live At Brixton Academy,0,0,Music,,,False,1.4,en,2004-08-14,91,6.3,3
+878,Breaker! Breaker!,0,0,"Action, Adventure, Crime, Thriller",United States of America,"Paragon Films, American International Pictures (AIP)",False,3.175,en,1977-04-01,86,4.5,33
+879,The Long Weekend,0,0,"Comedy, Romance",Canada,Brightlight Pictures,False,4.079,en,2005-08-05,85,5.6,42
+880,Une  approche positive du comportement des perroquets,0,0,,Canada,,False,0.6,en,2009-05-10,,0.0,0
+881,The End of Suburbia: Oil Depletion and the Collapse of the American Dream,0,0,Documentary,Canada,The Electric Wallpaper Company,False,1.96,en,2004-01-12,78,7.1,15
+882,Endless Love,0,32492674,"Romance, Drama",United States of America,Universal Pictures,False,6.191,en,1981-07-17,116,5.4,65
+883,Guns 'N' Roses - On Film,0,0,,,,False,0.6,en,2008-01-28,110,0.0,0
+884,Asylum,22000000,0,"Horror, Science Fiction",United States of America,"Mad Scientist Productions, Hyde Park Films",False,4.935,en,2008-03-20,93,3.8,37
+885,Let It Ride,0,0,Comedy,United States of America,Paramount,False,2.985,en,1989-08-18,90,7.0,38
+886,Night and the City,0,0,"Drama, Thriller",United Kingdom,20th Century Fox,False,7.39,en,1950-04-01,95,7.4,83
+887,Juliet of the Spirits,0,78550,"Comedy, Drama, Fantasy","Italy, France","Francoriz Production, Rizzoli Film",False,6.039,it,1965-10-22,148,7.4,93
+888,Knock on Wood,0,0,"Comedy, Crime, Adventure","France, Mexico","Conacite Uno, Fideline Films, Gaumont International",False,10.932,fr,1981-03-01,81,7.1,256
+889,Blind Fury,0,2692037,"Action, Thriller",United States of America,"Interscope Communications, TriStar Pictures",False,8.018,en,1989-08-17,86,6.4,167
+890,Even Money,0,0,"Crime, Drama","Germany, United States of America",Yari Film Group,False,3.765,en,2006-03-01,113,5.7,26
+891,Water,0,0,"Adventure, Comedy",United Kingdom,,False,2.427,en,1985-01-01,94,5.8,15
+892,"The 1,000 Eyes of Dr. Mabuse",0,0,"Mystery, Crime, Thriller, Horror","France, Germany, Italy","Critérion Film, Central Cinema Company Film (CCC), CEI Incom",False,3.387,de,1960-09-13,99,6.8,28
+893,The Return of Dr. Mabuse,0,0,"Crime, Thriller","Italy, Germany, France","SpA Cinematografica, Central Cinema Company Film (CCC), Critérion Film",False,1.608,de,1961-01-01,85,6.7,3
+894,The Death Ray of Dr. Mabuse,0,0,"Crime, Thriller","Italy, Germany, France","Central Cinema Company Film (CCC), Franco London Films, Critérion Film",False,1.454,de,1964-09-17,87,8.0,1
+895,The Big Bus,0,0,"Action, Comedy",United States of America,Paramount,False,3.167,en,1976-06-23,88,5.5,39
+896,Hellzapoppin',0,0,"Comedy, Music",United States of America,"Mayfair Productions Inc., Universal Pictures",False,2.237,en,1941-12-26,84,6.8,22
+897,After the Fox,0,0,"Crime, Comedy",United States of America,"Nancy Enterprises Inc. (I), Cinecitta Italiana Stabilimenti Cinematografici, Compagnia Cinematografica Montoro (CCM)",False,4.077,en,1966-01-01,108,6.1,27
+898,"Nicht Fummeln, Liebling",0,0,Comedy,Germany,Cinenova Filmproduktion GmbH,False,0.84,de,1970-01-09,87,0.0,0
+899,Goal! III: Taking On The World,0,0,Drama,,,False,4.789,en,2009-01-01,91,3.7,79
+900,The Pride of the Yankees,0,0,"Drama, Family",United States of America,Samuel Goldwyn Productions,False,4.555,en,1942-07-14,128,7.7,57
+901,The Collective,0,0,,,,False,1.173,en,2004-01-01,70,4.5,2
+902,The Return of Swamp Thing,10000000,0,"Horror, Science Fiction",United States of America,"Lightyear Entertainment, DC Entertainment, DC Comics",False,6.077,en,1989-05-11,84,4.9,54
+903,Diggstown,17000000,4836637,"Comedy, Drama",United States of America,"Eclectic Films, Metro-Goldwyn-Mayer",False,4.642,en,1992-08-14,98,6.8,49
+904,Seasons,0,0,,Canada,,False,0.985,en,2008-05-01,60,6.5,3
+905,The Man Who Challenged the Devil,0,0,"Comedy, Drama",Brazil,Warner Bros. Pictures,False,3.675,pt,2007-09-28,106,6.9,33
+906,Roam,0,0,,,,False,1.96,en,2006-01-01,70,4.8,2
+907,The Crew,0,0,"Action, Comedy",United States of America,Touchstone Pictures,False,2.113,en,2000-08-21,88,5.7,15
+908,East Side Story,0,0,"Drama, Comedy, Romance",,,False,3.128,en,2006-01-01,88,5.8,12
+909,Zift,796442,0,"Thriller, Crime, Drama",Bulgaria,"Miramar Film, Bulgarian National Television, Bulgarian National Film Center",False,2.338,bg,2008-06-27,92,5.2,14
+910,The Real Cancun,0,0,Documentary,United States of America,,False,2.135,en,2003-04-23,96,3.1,10
+911,The Second Arrival,4529850,0,Science Fiction,"Canada, United States of America","Rootbeer Films, Taurus 7 Film Corporation",False,3.915,en,1998-11-06,101,3.6,35
+912,Before the Rain,0,763847,"Drama, War","United Kingdom, Macedonia, France","British Screen Productions, PolyGram Audiovisuel",False,4.684,en,1994-06-09,113,7.7,66
+913,Legendary Weapons of China,0,0,"Action, Comedy",Hong Kong,Shaw Brothers,False,4.057,zh,1982-01-21,109,6.9,18
+914,Going Overboard,0,0,Comedy,United States of America,,False,5.309,en,1989-05-11,99,2.6,64
+915,Graveyard Shift,10500000,11582891,"Drama, Horror","Japan, United States of America","Paramount, Graveyard Productions, JVC Entertainment Networks",False,6.448,en,1990-10-26,89,4.9,93
+916,Dancehall Queen,0,0,Drama,Jamaica,"Palm Pictures, Island Jamaica Films, Hawk's Nest Productions",False,0.824,en,1997-10-10,98,6.6,7
+917,The Land Before Time IV: Journey Through the Mists,0,0,"Family, Animation, Adventure",United States of America,Universal Cartoon Studios,False,9.533,en,1996-12-10,74,5.9,188
+918,The Land Before Time V: The Mysterious Island,0,0,"Family, Animation, Adventure",United States of America,Universal Cartoon Studios,False,8.956,en,1997-09-12,74,5.9,180
+919,House Of 9,6000000,0,"Thriller, Drama, Horror, Mystery","Germany, France, United Kingdom, Romania",Defender Production,False,5.463,en,2005-01-01,86,5.0,90
+920,Second In Command,0,0,Action,"Romania, United States of America","Pueblo Film Group, Castel Film, Clubdeal, Micro Fusion 2004-15, Motion Picture Corporation of America",False,5.561,en,2006-05-02,91,4.9,59
+921,Nightmare Alley,0,0,Drama,United States of America,20th Century Fox,False,5.833,en,1947-10-09,110,7.3,47
+922,Mystery Street,0,0,"Crime, Drama",United States of America,Metro-Goldwyn-Mayer,False,2.53,en,1950-07-27,93,6.7,23
+923,Sudden Fear,0,0,"Drama, Thriller",United States of America,"RKO Radio Pictures, Joseph Kaufmann Productions",False,4.632,en,1952-08-01,110,7.4,45
+924,Diary of a Nymphomaniac,0,0,"Drama, Romance",Spain,"Filmax, Canonigo Films",False,7.73,es,2008-10-14,102,5.8,134
+925,Dolemite,0,0,"Action, Comedy, Crime",United States of America,Comedian Intl Enterprise Productions (C.I.E.),False,2.312,en,1975-04-26,90,6.2,26
+926,The Cowboy Way,0,0,"Western, Action, Comedy",United States of America,"Imagine Entertainment, Universal Pictures",False,5.449,en,1994-06-03,102,5.5,63
+927,Anja og Viktor - I medgang og modgang,0,0,Comedy,Denmark,Regner Grasten Film,False,1.254,da,2008-09-12,100,4.8,2
+928,Four Bags Full,0,0,"Drama, Comedy","France, Italy","Continental Produzione, Franco London Films",False,6.512,fr,1956-10-26,80,7.2,102
+929,A Different Loyalty,13000000,0,"Drama, Action, Thriller, Mystery, Romance","Canada, Malta, United Kingdom, United States of America",Forum Films,False,2.94,en,2004-05-16,96,5.2,12
+930,Sällskapsresan II - Snowroller,0,8646157,Comedy,"United Kingdom, Sweden","Smart Egg Pictures, Svensk Filmindustri, Svenska Filminstitutet, Sonet Film, Viking Film",False,4.139,sv,1985-10-04,91,5.2,28
+931,The Derby Stallion,750000,4000000,"Drama, Family",United States of America,,False,2.228,en,2005-07-04,98,5.6,22
+932,The Last Battle,0,0,"Science Fiction, Thriller",France,Les Films du Loup,False,4.357,fr,1983-04-06,90,6.5,64
+933,Night of the Living Dead,4200000,5835247,Horror,United States of America,"21st Century Film Corporation, Columbia Pictures",False,10.336,en,1990-10-18,88,6.7,380
+934,The Parent Trap,0,0,"Comedy, Family",United States of America,Walt Disney Pictures,False,7.246,en,1961-06-12,129,7.1,161
+935,Paris by Night 89: In Korea,0,0,Music,,,False,1.4,en,2007-06-30,,4.3,2
+936,Excellent Cadavers,0,0,"Drama, Thriller",,,False,0.6,en,1999-01-01,86,7.0,3
+937,Mercenaries of the Rio Grande,0,0,"Adventure, Western","France, Germany, Italy, Serbia","Serena, Central Cinema Company Film (CCC), Avala Film, Franco London Films",False,3.185,de,1965-03-04,101,6.3,9
+938,Pyramid of the Sun God,0,0,"Adventure, Western","France, Germany, Italy, Serbia","Central Cinema Company Film (CCC), Franco London Films, Serena, Avala Film",False,1.945,de,1965-04-17,98,5.8,8
+939,The Wild Men of Kurdistan,0,0,Adventure,"Germany, Spain","Central Cinema Company Film (CCC), Balcázar Producciones Cinematográficas",False,2.998,de,1965-09-28,103,6.0,11
+940,Mum & Dad,170000,0,"Horror, Thriller",United Kingdom,"2am Films, EM Media, Film London",False,7.008,en,2008-08-22,84,5.9,72
+941,Kingdom of the Silver Lion,0,0,Adventure,"Germany, Spain","Central Cinema Company Film (CCC), Balcázar Producciones Cinematográficas",False,2.565,de,1965-12-31,95,5.2,8
+942,Rampage at Apache Wells,0,0,"Adventure, Western","Germany, Croatia","Jadran Film, Rialto Film Preben-Philipsen",False,3.87,de,1965-08-25,89,6.1,21
+943,Shadows and Fog,14000000,2735731,"Thriller, Comedy",United States of America,Orion Pictures,False,6.082,en,1991-12-05,85,6.8,153
+944,Underclassman,0,0,"Action, Comedy",United States of America,Miramax,False,5.042,en,2005-09-02,95,5.1,47
+945,Copper Mountain,0,0,"Comedy, Romance",United States of America,Rose & Ruby Productions,False,3.217,en,1983-01-01,60,3.0,13
+946,Stella's oorlog,0,0,,Netherlands,,False,0.778,nl,2009-02-19,90,5.7,3
+947,Father of Four: Never Gives Up!,0,0,"Comedy, Family",Denmark,"Easy Film, ASA Film Production, Scanbox Entertainment",False,1.108,da,2005-01-10,87,4.6,4
+948,Nasty Brats,0,0,"Comedy, Family",Denmark,Crone Film Produktion A/S,False,1.242,da,2003-10-10,85,6.0,1
+949,Pistoleros,0,0,"Action, Comedy",Denmark,"TLA Releasing, Cut1Movie",False,1.165,da,2007-02-01,92,5.0,1
+950,The Retreat,0,0,Horror,United States of America,"Freetown Entertainment, Mainline Releasing, Charity Island Pictures",False,3.009,en,2005-10-28,90,3.7,12
+951,Faites entrer l'accusé,0,0,,,,False,0.6,en,2000-06-06,,0.0,0
+952,Blue Chips,0,0,Drama,United States of America,Paramount,False,5.149,en,1994-02-18,108,6.1,72
+953,Captain Pantoja and the Special Services,0,0,"Comedy, Drama","Spain, Peru","Tornasol Films, America Producciones, Inca Films S.A.",False,2.346,es,1999-01-01,137,6.4,20
+954,Dolan's Cadillac,10000000,0,"Drama, Thriller",United States of America,"Minds Eye Entertainment, Footprint Investments, Prescience",False,4.222,en,2009-10-23,81,5.8,65
+955,Van Wilder: Freshman Year,0,0,Comedy,United States of America,"Tapestry Films, Paramount Home Entertainment",False,8.248,en,2009-06-02,100,5.4,185
+956,The In-Laws,9000000,38200000,"Action, Adventure, Comedy, Mystery",United States of America,Warner Bros. Pictures,False,4.983,en,1979-06-15,103,7.0,42
+957,10 Attitudes,0,0,"Drama, Comedy, Romance",,Ariztical Entertainment,False,1.874,en,2001-01-01,87,6.0,2
+958,Ninja Cheerleaders,0,0,"Action, Comedy",United States of America,"Mercurybar Productions, NCS Productions",False,3.721,en,2008-05-10,81,3.8,19
+959,100 Days Before the Command,0,0,Drama,"Russia, Soviet Union",Gorky Film Studios,False,0.924,en,1991-02-01,71,5.9,8
+960,In the Loop,0,6149791,Comedy,"United Kingdom, United States of America","Aramid Entertainment Fund, BBC Films",False,9.674,en,2009-01-22,106,7.1,309
+961,Beer Wars,0,0,Documentary,United States of America,,False,3.182,en,2009-04-16,89,5.8,8
+962,The Ringer,0,0,Mystery,United Kingdom,London Film Productions,False,1.4,en,1952-11-24,78,6.0,1
+963,"I Love You, Beth Cooper",18000000,15345201,"Comedy, Romance","Canada, United States of America","Fox Atomic, 1492 Pictures, Bece Canada Productions, Dune Entertainment III, Ingenious Media",False,9.807,en,2009-07-10,102,5.3,388
+964,Kiss the Bride,0,0,"Drama, Comedy, Romance",United States of America,,False,2.841,en,2007-01-01,100,5.4,19
+965,Nerdcore Rising,0,0,Documentary,,,False,2.348,en,2008-09-03,80,6.7,6
+966,The Interview,0,0,Drama,Australia,Pointblank Pictures,False,4.205,en,1998-03-03,104,7.0,71
+967,The Players Club,0,0,"Comedy, Drama",United States of America,New Line Cinema,False,4.074,en,1998-04-08,104,6.5,30
+968,Rampage: The Hillside Strangler Murders,1000000,0,"Drama, Thriller, Crime",United States of America,"Nightstalker LLC, Silver Nitrate Pictures, Silver Nitrate",False,2.737,en,2006-01-10,85,4.6,4
+969,Breast Men,0,0,"TV Movie, Drama, Comedy",United States of America,HBO,False,3.431,en,1997-12-13,95,5.7,29
+970,Grey Gardens,12000000,0,"Drama, History, TV Movie",United States of America,"Specialty Films, Locomotive, HBO Films, Et Cetera Films",False,3.065,en,2009-04-18,104,6.9,66
+971,State's Evidence,0,0,Drama,United States of America,"Kyskeya Entertainment, C4 Pictures, Cush Productions",False,2.524,en,2006-11-07,89,5.7,9
+972,The War,0,16,Drama,United States of America,Universal Pictures,False,5.778,en,1994-11-04,126,6.7,74
+973,"Andrew Jackson: Good, Evil & The Presidency",0,0,History,,,False,1.093,en,2007-06-01,120,0.0,0
+974,What Goes Up,0,0,Drama,United States of America,"Tree Kings Productions, Station3, Insight Film Studios, Nasser Entertainment Group",False,2.543,en,2009-05-29,104,5.2,18
+975,Bury Me Behind the Baseboard,0,1136883,Drama,Russia,,False,2.645,ru,2009-03-20,110,6.3,13
+976,Fist of the North Star,0,18000000,"Action, Animation, Drama, Science Fiction, Thriller",Japan,"Shueisha, Toei Animation",False,5.8,ja,1986-03-08,110,7.3,73
