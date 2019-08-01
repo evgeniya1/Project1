@@ -1,0 +1,632 @@
+,title,budget,revenue,genres,production_countries,production_companies,adult,popularity,original_language,release_date,runtime,vote_average,vote_count
+0,Presto farà giorno,0,0,,,,False,1.176,it,2014-03-20,,0.0,0
+1,Strovengah - Amor Torto,0,0,Horror,Brazil,Cávideo,False,0.844,pt,2011-01-21,89,0.0,0
+2,IceDream The Iceberg Project,0,0,Documentary,,"Kwanza, Dassault Systèmes",False,0.6,fr,2010-01-01,,0.0,0
+3,Certified,0,0,"Horror, Drama",United States of America,,False,0.684,en,2011-01-23,9,6.3,3
+4,The Second Wife,0,0,Drama,Egypt,,False,0.6,ar,1967-10-14,105,5.7,3
+5,La mentira,0,0,Drama,,,False,0.6,en,1952-10-08,97,0.0,0
+6,Everywhen,9092,0,"Thriller, Science Fiction",Norway,Jarandandjens,False,3.078,en,2013-01-28,70,2.9,8
+7,You and I,0,0,"Drama, Romance",Spain,,False,1.023,es,2014-03-20,53,5.7,6
+8,Making the Rules,0,0,"Drama, Romance",,,False,1.135,en,2014-05-06,78,0.0,0
+9,Louis L'Amour's Down the Long Hills,0,0,"TV Movie, Western",United States of America,Finnegan/Pinchuk Productions,False,1.511,en,1986-11-15,85,3.5,1
+10,3:6 Until Sunrise,0,0,,,,False,0.6,en,2013-03-29,15,0.0,0
+11,Raya and Sakina,0,0,"Crime, Drama",Egypt,,False,0.87,ar,1953-02-23,105,6.0,1
+12,The Annunciation,0,0,,,,False,0.6,en,2011-01-01,,0.0,0
+13,Dante,25000,0,"Mystery, Adventure, Drama","Italy, United States of America, Canada",,False,1.204,en,2014-04-15,65,0.5,3
+14,Greetings to Europe,0,0,,,,False,0.6,en,2012-11-24,,0.0,0
+15,Whom Should We Shoot?,0,0,"Drama, Thriller",Egypt,,False,0.6,en,1975-12-08,91,5.0,1
+16,The Saracens,0,0,"Action, Adventure","Italy, Slovenia","Walmar Cinematografica, Triglav Film",False,0.6,it,1963-06-20,89,0.0,0
+17,The King's Pirate,0,0,Adventure,United States of America,Universal Pictures,False,0.6,en,1967-07-20,100,8.0,1
+18,Adventurer of Tortuga,0,0,Adventure,,,False,1.201,it,1965-08-12,97,4.0,1
+19,Vera - Der schwere Weg der Erkenntnis,0,0,Drama,Germany,"DEFA, Fernsehen der DDR",False,0.6,de,1989-01-29,244,0.0,0
+20,Forest of Crocodiles,49479,0,Documentary,,,False,0.6,en,2009-12-02,52,0.0,0
+21,Scar Tissue,0,0,,United States of America,,False,0.6,en,1979-01-01,12,0.0,0
+22,The Amorous Corporal,0,0,Adventure,France,Édition et Diffusion Cinématographique,False,1.527,en,1958-04-24,87,0.0,0
+23,Lo sparviero dei Caraibi,0,0,Adventure,,,False,1.102,en,1964-04-04,115,0.0,0
+24,Forbidden Love,0,0,"Romance, Drama",Germany,DEFA,False,1.896,de,1990-04-19,86,7.0,2
+25,Pirates of Blood Island,0,0,Adventure,"Italy, Spain","Duca Internazionale, Carthago Coop. Cinematográfica",False,2.311,es,1972-05-13,,5.2,5
+26,Tiger of the Seven Seas,0,0,Adventure,"France, Italy",Euro International Film (EIA),False,0.899,en,1962-12-23,90,5.8,2
+27,After All These Years,0,0,Documentary,Spain,"Ariane Films, Aiete Films S.A.",False,1.306,es,1994-01-01,84,4.9,4
+28,L'uomo mascherato contro i pirati,0,0,,,,False,0.841,en,1964-07-11,105,0.0,0
+29,The Moonraker,0,0,"Action, Adventure",,,False,1.361,en,1958-08-02,82,6.3,3
+30,El corsario negro,0,0,,Mexico,Clasa Films S.A. de C.U.,False,0.84,en,1944-08-24,100,0.0,0
+31,I moschettieri del mare,0,0,Adventure,,,False,0.6,en,1962-11-28,101,0.0,0
+32,Zeit der Störche,0,0,"Romance, Drama",Germany,DEFA,False,0.62,de,1971-09-02,90,4.0,1
+33,Pirate of the Lost Sea,0,0,"Comedy, Family, Adventure",Thailand,Sahamongkol Film International,False,0.84,th,2008-03-06,,0.0,0
+34,Gitmo,0,0,,,,False,0.727,en,2005-11-04,82,6.0,4
+35,Sansone contro i pirati,0,0,Adventure,,,False,0.841,it,1963-07-19,89,0.0,0
+36,Zwei leere Stühle,0,0,Drama,Germany,DEFA,False,1.4,de,1987-05-26,,0.0,0
+37,Fifteen Year Old Captain,0,0,,,,False,0.951,es,1974-07-07,88,0.0,0
+38,Fire-Followers,0,0,,,,False,0.6,en,2013-03-01,49,0.0,0
+39,The Chilean Elvis,0,0,,,,False,0.6,en,,11,0.0,0
+40,Born Dead,0,0,,,,False,0.6,en,,,0.0,0
+41,Apocalyptic,0,0,"Horror, Drama",Australia,Splendid Film,False,2.301,en,2013-11-22,84,4.8,18
+42,Warrior of Light,0,0,Documentary,Germany,Hyena Films,False,1.091,de,2001-09-13,91,0.0,0
+43,Lest We Forget,0,0,"Action, War",United States of America,Whitestone Motion Pictures,False,0.6,en,2009-06-23,7,0.0,0
+44,Another Love Story,0,0,"Drama, Romance",,,False,1.4,es,1986-06-12,90,5.5,2
+45,HannaHannaH,0,0,Comedy,Netherlands,"CoBo Fonds, Zoo Pictures, Stimuleringsfonds Nederlandse Culturele Omroepproducties, Rotterdams Fonds voor de Film en Audiovisuele Media, Ministerie van OC en W",False,0.84,en,2007-05-13,77,0.0,0
+46,Ochtendzwemmers,0,0,,,,False,1.4,en,2001-04-08,90,8.0,1
+47,Im Jahre Schnee,0,0,Documentary,,,False,0.6,de,,,0.0,0
+48,The Pimp and His Trophies,0,0,Documentary,,,False,1.4,de,2014-03-01,21,0.0,0
+49,Riding My Tiger (A Cinéma Very Vérité),0,0,Documentary,,,False,1.099,id,2014-10-20,40,0.0,0
+50,Prodavets igrushek,0,0,"Romance, Comedy",Russia,Natsionalnoe Kino,False,0.6,ru,2013-01-07,90,0.0,0
+51,Ya budu ryadom,0,0,Romance,,,False,0.6,en,2014-02-02,90,0.0,0
+52,Unreal Love,0,0,"Romance, Comedy",Russia,DreamTeam Media,False,1.98,ru,2014-02-13,85,3.0,3
+53,Ujti chtoby ostatsa,0,0,Romance,,,False,0.6,en,2013-12-21,92,0.0,0
+54,"Oasis - Live at River Plate Stadium, Argentina, 03.05.2009",0,0,Music,,,False,1.093,en,2009-03-05,111,0.0,0
+55,Васильки для Василисы,0,0,Romance,,,False,0.6,ru,2012-06-23,92,0.0,0
+56,Under the Greenwood Tree,0,0,,,,False,0.6,en,1929-09-05,100,0.0,0
+57,"Привет, Киндер!",0,0,"Romance, Comedy",,,False,0.6,ru,2009-10-24,100,0.0,0
+58,Карусель,0,0,Romance,Russia,Кинокомпания «Русское»,False,0.6,ru,2010-10-17,90,0.0,0
+59,La vita altrui,0,0,,,,False,1.091,en,2000-08-25,94,0.0,0
+60,The Day After the Fair,0,0,,United Kingdom,BBC,False,0.6,en,1986-01-01,,0.0,0
+61,Мужчина в доме,0,0,"Romance, Comedy",,,False,0.656,ru,2009-01-01,80,0.0,0
+62,Ebn Ezz,0,0,Comedy,Egypt,,False,0.6,ar,2007-04-01,100,3.2,3
+63,Dare,0,0,Horror,,,False,0.627,en,2013-10-31,3,4.0,1
+64,Ramsbottom Rides Again,0,0,"Western, Comedy",,,False,0.805,en,1956-04-30,92,0.0,0
+65,Emerentia,0,0,,,,False,0.6,en,2013-12-29,,0.0,0
+66,Afterparty,0,0,Drama,,,False,0.6,en,2013-12-05,85,0.0,0
+67,Gunfight at OQ Corral,0,0,Western,France,Europrodis,False,1.097,fr,1974-01-01,75,0.0,0
+68,"Fear, INC",0,0,,,,False,0.6,en,2013-12-30,4,7.0,1
+69,Relevo para un pistolero,0,0,,,,False,1.4,es,1965-10-06,95,0.0,0
+70,Pani Vizhum Nilavu,0,0,"Drama, Romance",,,False,0.838,en,2014-03-21,,0.0,0
+71,The Seventh Bullet,0,0,"Adventure, War",Uzbekistan,Uzbekfilm,False,0.664,ru,1973-04-30,79,5.0,1
+72,Tres dólares de plomo,0,0,Western,,,False,0.6,en,1964-01-01,99,0.0,0
+73,Oru Modhal Oru Kadhal,0,0,,,,False,0.6,ta,2014-03-14,,4.0,1
+74,Trini,0,0,"Western, War",Germany,DEFA,False,0.626,de,1977-08-01,86,0.0,0
+75,Un dollaro di fifa,0,0,"Western, Comedy",,,False,0.962,it,1960-01-01,90,6.5,1
+76,Cheyenne Takes Over,0,0,Western,United States of America,Producers Releasing Corporation (PRC),False,0.877,en,1947-12-17,58,0.0,0
+77,Family Killer,0,0,Crime,Italy,Aquila Cinematografica,False,0.661,it,1973-02-23,95,5.5,1
+78,Blood Story,0,0,Drama,Italy,Expertise United Film,False,0.919,it,1972-05-09,96,0.0,0
+79,La patrulla,0,0,"Drama, War",,,False,0.6,es,1954-09-05,99,5.0,1
+80,Nailed Lips,0,0,Crime,"France, Italy","United Pictures, Sofracima",False,0.6,it,1970-02-12,79,0.0,0
+81,Sawed-Off Shotgun,0,0,"Crime, Drama",Italy,"Silva Film, Schilton Cinematografica",False,0.894,it,1977-08-05,86,5.5,1
+82,Fear In The City,0,0,,,,False,0.876,it,1981-01-01,88,0.0,0
+83,Casa dell'amore... la polizia interviene,0,0,Thriller,,,False,0.84,en,1978-10-08,85,4.0,1
+84,C'era una volta un gangster,0,0,,,,False,0.6,en,1969-06-07,78,0.0,0
+85,Bootleggers,0,0,Crime,Italy,B.R.C. Produzione S.r.l.,False,1.4,en,1969-03-06,92,0.0,0
+86,Commandments for a Gangster,0,0,Crime,"Italy, Serbia","Avala Film, Prodi Cinematografica",False,0.841,it,1968-05-21,96,0.0,0
+87,Ninaivil Nindraval,0,0,,India,Sree Sabari Movies,False,0.6,en,2014-01-31,,0.0,0
+88,Rakenrol,0,0,,,,False,0.6,en,2011-07-23,113,0.0,0
+89,"Actores, S.A.",0,0,Comedy,Mexico,Corazon Films,False,0.632,en,2013-11-15,95,6.0,1
+90,Crush Proof,0,0,"Drama, Crime",,,False,1.127,en,1998-06-04,91,0.0,0
+91,Due Magnum .38 per una città di carogne,0,0,"Action, Crime",Italy,,False,0.914,en,1975-10-02,,0.0,0
+92,Doc Mcstuffins: A Little Cuddle Goes A Long Way,0,0,"Family, Animation",United States of America,Walt Disney Studios Home Entertainment,False,1.179,en,2014-03-17,115,0.0,0
+93,Own the Night - Tactical Training for Citizens Vol.1,0,0,Documentary,United States of America,,False,0.6,en,2013-06-01,106,0.0,0
+94,Mafia Connection,0,0,Crime,Italy,,False,0.6,it,1970-04-23,99,0.0,0
+95,Jesus People,0,0,Comedy,,,False,1.027,en,2013-12-19,90,5.0,2
+96,Rearview,0,0,,,,False,1.097,en,2013-12-01,83,0.0,0
+97,El clan de los Nazarenos,0,0,"Crime, Drama","Spain, Italy","Scale Film, Films Triunfo S.A.",False,0.6,es,1975-08-12,95,0.0,0
+98,The Malagasy Way,0,0,Documentary,,,False,0.628,en,2014-03-30,84,5.0,1
+99,Mugshot,0,0,Documentary,,,False,0.6,en,2014-04-28,52,0.0,0
+100,Kami,0,0,,,,False,0.686,en,2014-03-18,13,5.0,1
+101,Fatal Fix,0,0,"Drama, Crime",,,False,1.176,it,1980-03-14,,4.0,1
+102,Gli amici degli amici hanno saputo,0,0,"Drama, Crime",Italy,Nexus Film,False,0.6,it,1973-02-08,105,4.0,1
+103,Guapparia,0,0,,,,False,0.6,en,1984-01-01,86,0.0,0
+104,"Hold-Up, instantánea de una corrupción",0,0,,"Italy, Spain, France",,False,0.654,es,1974-08-02,99,0.0,0
+105,Il picciotto,0,0,,,,False,0.667,en,1973-10-06,,5.0,1
+106,Il seme di Caino,0,0,,,,False,1.4,en,1972-04-19,73,0.0,0
+107,Jack Johnson at iTunes Festival 2013,0,0,Music,,,False,0.6,en,2014-01-28,,0.0,0
+108,Silence the Witness,0,0,"Drama, Action, Crime",Italy,Cineproduzioni Daunia 70,False,0.873,it,1974-05-15,100,7.0,1
+109,Chronicle of a Homicide,0,0,"Crime, Drama",,,False,1.168,it,1972-02-04,99,6.0,2
+110,Hello Stranger,0,0,Documentary,Switzerland,,False,0.6,en,2012-03-24,46,0.0,0
+111,Could It Happen Here?,0,0,Crime,Italy,Una Cinecooperativa,False,0.84,en,1977-11-24,95,0.0,0
+112,The Hit-and-Run Family,0,0,,Japan,"Kitty Films, Suntory Co., Ltd.",False,0.844,en,1992-12-19,100,0.0,0
+113,The Warning,0,0,Crime,,,False,0.661,it,1980-08-15,108,5.5,1
+114,L'altra faccia del padrino,0,0,,,,False,0.6,en,1973-05-03,,2.0,1
+115,Kadhal Solla Aasai,0,0,,India,,False,0.628,en,2014-03-14,,5.0,1
+116,The Climber,0,0,Thriller,Italy,Laser Films,False,0.6,it,1975-02-18,102,0.0,0
+117,The Godfather's Friend,0,0,"Thriller, Action, Crime, Drama","Italy, Turkey",F.A.R.,False,0.804,it,1972-12-24,90,0.0,0
+118,L'arma,0,0,"Drama, Crime",,,False,0.6,en,1978-09-07,83,6.5,1
+119,The Criminals Attack. The Police Respond,0,0,"Crime, Action",,,False,0.6,it,1977-08-23,95,6.5,1
+120,Drop City,0,0,,,,False,0.845,en,2012-01-16,82,0.0,0
+121,Lo sgarbo,0,0,"Drama, Crime",,,False,0.6,it,1975-01-01,105,0.0,0
+122,999,0,0,,,,False,0.6,en,2013-12-27,3,0.0,0
+123,The Big Family,0,0,"Drama, Crime",Italy,"Flora Film, National",False,0.87,it,1973-03-03,90,5.0,1
+124,Lady Dynamite,0,0,,,,False,0.84,en,1973-01-01,95,0.0,0
+125,La pagella,0,0,Crime,,,False,0.874,it,1980-01-01,90,5.5,1
+126,The Police Serve the Citizens?,0,0,"Action, Crime","France, Italy","PECF, Capital Films",False,1.242,it,1973-01-01,96,6.7,3
+127,La tua vita per mio figlio,0,0,,,,False,0.6,en,1980-01-01,88,0.0,0
+128,Stateline Motel,0,0,"Drama, Crime",Italy,"FRAL Cinematografica, Alpherat S.p.a.",False,0.702,it,1973-09-14,106,5.3,3
+129,Archive 361,0,0,,,,False,0.6,en,2013-12-30,3,0.0,0
+130,Invaders from the Deep,0,0,"Animation, Science Fiction",United Kingdom,ITC Entertainment,False,0.631,en,1981-01-01,,0.0,0
+131,Abominio,0,0,,,,False,0.6,en,,,0.0,0
+132,Colossal,0,0,,Philippines,,False,0.916,en,2012-12-06,86,8.0,2
+133,Double Down,0,0,"Action, Drama, Thriller",United States of America,Neil Breen Films,False,1.891,en,2005-11-05,93,4.3,12
+134,The Mafia Triangle,0,0,"Drama, Crime",,,False,0.661,en,1981-04-03,95,6.0,1
+135,Play Ball with Babe Ruth,0,0,Documentary,,,False,0.84,en,,,0.0,0
+136,Taglish,0,0,Drama,Philippines,"Tito & Tita, Barong Tagalog",False,0.6,en,2012-12-06,70,0.0,0
+137,The Cold Deck,0,0,"Western, Action, Drama",United States of America,Triangle Film Corporation,False,1.47,en,1917-10-31,65,0.0,0
+138,Canon (Fidelidad al límite),0,0,Drama,,,False,2.408,en,2014-03-21,108,4.6,4
+139,The Dance of Memory,0,0,Documentary,Mexico,,False,1.098,en,2014-03-23,80,0.0,0
+140,Uncut,0,0,"Comedy, Drama, Documentary",,,False,0.901,en,1997-03-23,92,4.0,2
+141,One 11 and 103,0,0,"Music, Documentary",,,False,0.84,en,1992-01-01,,0.0,0
+142,Beat the Band,0,0,Music,United States of America,RKO Radio Pictures,False,1.121,en,1947-02-19,67,4.0,1
+143,Todo Todo Teros,0,0,"Action, Documentary",Philippines,,False,0.6,en,2006-08-18,110,5.3,2
+144,Years When I Was a Child Outside,0,0,Documentary,Philippines,,False,0.6,en,2008-08-20,100,0.0,0
+145,Private Number,0,0,"Drama, Romance",United States of America,20th Century Fox,False,1.737,en,1936-06-04,80,7.0,1
+146,Refrains Happen Like Revolutions in a Song,0,0,"Documentary, Drama",Philippines,Peliculas Los Otros,False,0.656,tl,2010-07-12,120,0.0,0
+147,Rockooper Ruja,0,0,"Music, Comedy, Drama",Estonia,"Kinema OÜ, Vanemuine",False,0.629,et,2008-12-01,160,0.0,0
+148,Old School vs. New School,0,0,,,,False,1.346,en,2012-08-30,,0.0,0
+149,Hypocrisy - Live & Clips,0,0,Music,,Nuclear Blast,False,1.4,en,2001-04-17,90,0.0,0
+150,The Empty Acre,0,0,"Horror, Drama",United States of America,,False,0.873,en,2007-08-14,104,4.0,1
+151,"Juruna, o Espírito da Floresta",0,0,Documentary,"Brazil, Netherlands",,False,0.6,pt,2008-01-01,,0.0,0
+152,She Loved a Fireman,0,0,"Drama, Action",United States of America,Warner Bros. Pictures,False,0.84,en,1937-12-18,58,6.0,1
+153,Ambilkan Bulan,0,0,Drama,Indonesia,Falcon Pictures Corporation,False,0.991,en,2012-06-28,90,5.5,1
+154,Subterfuge,0,0,Thriller,United Kingdom,"Intertel, Commonwealth United Entertainment",False,1.341,en,1968-12-12,89,0.0,0
+155,Les vieux calibres,0,0,Comedy,France,"TV5 Monde, France 3 Cinéma",False,0.6,fr,2013-04-30,90,5.0,1
+156,Flowers of the Sky,300,0,Drama,Sri Lanka,,False,0.6,si,2008-01-01,90,0.0,0
+157,Apollonian Story,0,0,Documentary,Israel,,False,0.626,en,2013-03-24,69,6.0,1
+158,Karma - Enigma of Death,0,0,"Horror, Mystery",Brazil,,False,0.7,pt,1984-01-01,,10.0,1
+159,O Barbeiro Que Se Vira,0,0,Comedy,Brazil,Cinedistri,False,0.841,pt,1958-01-01,88,0.0,0
+160,"Mala, amore e morte",0,0,"Crime, Mystery",Italy,New Daunia,False,0.873,it,1975-01-01,90,4.0,1
+161,Luna En Leo,0,0,,Argentina,,False,1.301,pt,2013-12-13,,0.0,0
+162,"Napoli... la camorra sfida, la città risponde",0,0,"Drama, Crime",,,False,0.6,en,1979-01-01,90,5.0,2
+163,Napoli: i 5 della squadra speciale,0,0,Crime,,,False,0.6,en,1979-01-01,92,0.0,0
+164,Nel segno del leone,0,0,,,,False,0.6,en,1981-01-01,,0.0,0
+165,Teletubbies: Dance with the Teletubbies,0,0,Family,,,False,0.6,da,1998-01-01,,1.0,1
+166,Sonhando com Milhões,0,0,Comedy,Brazil,"Cinelândia Filmes, Cinedistri",False,0.6,pt,1963-05-13,,0.0,0
+167,Death Hunt,0,0,Crime,Italy,Morgana Films,False,1.09,en,1977-10-20,93,0.0,0
+168,Lamarca,0,0,"Drama, History",Brazil,,False,1.4,pt,1994-05-01,130,5.8,2
+169,Don't Shoot on Children,0,0,"Drama, Action, Crime",,,False,0.87,en,1978-12-22,95,4.5,1
+170,The High Wall,0,0,"Romance, Drama",Czech Republic,Filmové Studio Barrandov,False,0.877,cs,1964-06-19,71,0.0,0
+171,Onore e guapparia,0,0,,,,False,1.12,en,1977-01-01,92,5.0,1
+172,Pistoleiro Bossa Nova,0,0,Comedy,Brazil,Herbert Richers,False,1.4,pt,1959-01-01,111,0.0,0
+173,Why They Kill Themselves,0,0,Drama,,,False,1.457,it,1976-03-29,92,0.0,0
+174,Silvery Wind,0,0,"Drama, History","Czech Republic, Slovakia",Studio Umeleckých Filmu Praha,False,1.121,cs,1954-01-01,98,5.0,1
+175,L'homme de ma vie,0,0,"Romance, Comedy",France,Optima Productions,False,0.6,fr,1992-06-03,103,0.0,0
+176,Legend of Love,0,0,Fantasy,"Bulgaria, Czech Republic",Boyana Film,False,0.665,bg,1957-08-09,82,0.0,0
+177,The Dimension Travelers,0,0,Drama,Japan,"Tsuburaya Productions, Bandai Visual, Kadokawa Shoten Publishing",False,1.341,en,1998-01-01,94,0.0,0
+178,Os Nazistas na Argentina,0,0,Documentary,Brazil,,False,0.6,pt,2014-01-01,,0.0,0
+179,Anderland,0,0,Drama,,,False,0.6,nl,2003-09-26,,0.0,0
+180,Il Papa e Fidel,0,0,Documentary,Brazil,,False,0.6,es,1998-01-01,,0.0,0
+181,Al di là delle frontiere,0,0,Drama,Italy,Rizzoli Audiovisivi,False,1.4,it,2004-05-02,,5.0,1
+182,Gary Gulman: Boyish Man,0,0,Comedy,United States of America,Special Interest Productions,False,0.6,en,2005-06-01,90,0.0,0
+183,Saturn's Eyes,0,0,Documentary,Brazil,,False,0.6,pt,,,0.0,0
+184,John Ford & Monument Valley,0,0,Documentary,,,False,1.14,en,2013-03-05,54,0.0,0
+185,Wallander 09 - Täckmanteln,0,0,"Action, Thriller, Mystery",Sweden,Svensk Filmindustri,False,1.362,sv,2006-07-19,,6.0,5
+186,Where Words Fail,0,0,"Drama, Music",Argentina,Artistas Argentinos Asociados (AAA),False,0.6,es,1946-04-25,75,0.0,0
+187,Wallander - The Secret,200000,500000,"Crime, Thriller","Germany, Sweden","Svensk Filmindustri, ARD/Degeto Film",False,1.552,en,2006-11-10,90,6.0,3
+188,Pattaakathi Bairavan,0,0,Drama,,,False,1.4,en,1979-10-19,,0.0,0
+189,Punniya Boomi,0,0,Drama,,,False,0.6,en,1978-05-15,,0.0,0
+190,D.U.D.A! Werner Pirchner,0,0,"Documentary, Music",Austria,Wildruf Film,False,1.173,de,2014-03-26,84,0.0,0
+191,General Chakravarthi,0,0,Drama,,,False,0.6,en,1978-06-16,,0.0,0
+192,Las inocentes,0,0,,,,False,0.65,es,1986-01-01,87,6.3,2
+193,Vaazhkai Alaigal,0,0,Drama,,,False,1.4,en,1978-04-13,,0.0,0
+194,Thyagam,0,0,Drama,,,False,1.21,en,1978-03-03,,0.0,0
+195,Les contes de La Fontaine,0,0,Comedy,,,False,1.024,fr,1980-10-22,,0.0,0
+196,Pilot Premnath,0,0,Drama,,,False,0.6,en,1978-10-29,,0.0,0
+197,Give,0,0,"Thriller, Drama",,,False,0.673,en,2014-04-15,14,0.0,0
+198,Amadera no jôji: Gokuraku sex,0,0,,,,False,0.6,en,1998-01-09,59,0.0,0
+199,Hot Nights of the Decameron,0,0,Comedy,Italy,,False,0.912,it,1972-08-04,90,5.5,1
+200,Zwanzig Mädchen und die Pauker: Heute steht die Penne kopf,0,0,Comedy,Germany,"Terra-Filmkunst, Allianz Filmproduktion",False,0.6,de,1971-02-25,,0.0,0
+201,Les chatouilleuses,0,0,"Western, Comedy",France,Comptoir Français du Film Production (CFFP),False,1.266,fr,1975-07-29,100,4.3,3
+202,Auch ich war nur ein mittelmäßiger Schüler,0,0,Comedy,,,False,0.623,de,1974-10-24,,4.0,1
+203,Saraswathi Sabatham,0,0,Fantasy,,,False,1.127,en,1966-09-03,,0.0,0
+204,Fal,0,0,,Hungary,,False,0.846,hu,2013-01-01,11,0.0,0
+205,The Secret Carrier,0,0,Comedy,Germany,,False,0.848,de,1975-06-29,,0.0,0
+206,Deepam,0,0,Drama,,,False,0.6,en,1977-01-25,,0.0,0
+207,Annan Oru Koyil,0,0,Family,,,False,1.4,en,1977-11-09,,0.0,0
+208,Future Primative,0,0,,,,False,0.6,en,1985-05-29,51,0.0,0
+209,Unakkaga Naan,0,0,Drama,,,False,1.4,en,1976-12-11,,0.0,0
+210,Grahapravesam,0,0,Drama,,,False,1.34,en,1976-03-17,,0.0,0
+211,Thangaikkaaga,0,0,Drama,,,False,1.09,en,1971-02-06,,0.0,0
+212,Viis varpaista,0,0,Animation,Finland,,False,0.6,fi,2013-01-01,8,0.0,0
+213,Rojavin Raja,0,0,Drama,,,False,1.34,ta,1976-12-24,,0.0,0
+214,Uthaman,0,0,Music,,,False,0.6,ta,1976-05-01,,0.0,0
+215,Baksa Badal,0,0,,India,,False,1.381,bn,1970-01-02,,0.0,0
+216,Pattikkada Pattanama,0,0,Drama,,,False,0.6,en,1972-05-06,,0.0,0
+217,Gnana Oli,0,0,Drama,,,False,0.679,en,1972-03-10,158,8.0,1
+218,The Girl from Carthage,0,0,Drama,Tunisia,,False,1.135,fr,1924-01-02,8,0.0,0
+219,Todomundo,0,0,Documentary,,,False,0.6,pt,1980-05-01,35,0.0,0
+220,Kuam rak krang sutai,0,0,,,,False,0.6,en,1975-01-02,,0.0,0
+221,Khon Jorn,0,0,,,,False,0.6,th,1999-01-02,,0.0,0
+222,The Mad Fox,0,0,Drama,Japan,"Toei Company, Ltd.",False,0.6,ja,1962-01-02,109,7.0,1
+223,The Magic Face,0,0,"War, History, Drama",,,False,0.6,en,1951-08-13,88,0.0,0
+224,The Moises Padilla Story,0,0,,Philippines,,False,0.83,en,1961-01-02,,0.0,0
+225,Kashmir Kadhali,0,0,Romance,,,False,0.6,en,1983-09-06,,0.0,0
+226,This Side of Heaven,0,0,Drama,United States of America,Metro-Goldwyn-Mayer,False,1.198,en,1934-02-02,77,6.5,2
+227,Needhi,0,0,Drama,,,False,0.84,en,1972-12-06,,0.0,0
+228,Moondru Dheivangal,0,0,Drama,,,False,0.62,ta,1971-08-14,,6.0,1
+229,Galatta Kalyanam,0,0,Comedy,India,,False,0.624,ta,1968-04-12,148,3.0,1
+230,Uncle Moses,0,0,"Romance, Drama",,,False,1.4,en,1932-01-02,88,0.0,0
+231,Enga Oor Raja,0,0,Drama,,,False,0.6,en,1968-10-21,,0.0,0
+232,En Thambi,0,0,Drama,,,False,0.6,en,1968-06-07,163,0.0,0
+233,Thirumaal Perumai,0,0,Fantasy,,,False,0.6,en,1968-02-16,135,0.0,0
+234,Iru Malargal,0,0,Drama,,,False,1.371,ta,1967-10-31,171,6.0,1
+235,Thiruvarutchelvar,0,0,Fantasy,India,,False,0.635,en,1967-07-28,,0.0,0
+236,Uyarndha Manidhan,0,0,Drama,,,False,0.871,en,1967-11-28,,8.0,1
+237,Kandhan Karunai,0,0,Fantasy,,,False,3.269,ta,1967-01-01,150,5.0,1
+238,Thangai,0,0,Drama,,,False,0.625,en,1967-05-19,,4.0,1
+239,Motor Sundaram Pillai,0,0,Drama,,,False,2.45,ta,1966-01-25,160,5.0,1
+240,The Greatest Knight - William the Marshal,0,0,Documentary,,,False,0.6,en,2014-03-26,60,4.3,2
+241,Selvam,0,0,Drama,,,False,0.627,en,1966-11-10,,0.0,0
+242,Mahakavi Kalidas,0,0,Fantasy,India,,False,0.6,en,1966-08-19,143,0.0,0
+243,Warriors of the Discotheque,0,0,Documentary,United States of America,JFA Films,False,1.351,en,2015-08-17,91,0.0,0
+244,Pachai Vilakku,0,0,"Romance, Drama, Family",India,Vel Pictures,False,0.985,ta,1964-04-02,155,5.5,2
+245,Children of Pleasure,0,0,"Comedy, Music, Romance",United States of America,Metro-Goldwyn-Mayer,False,1.045,en,1930-04-26,70,4.0,1
+246,Navarathiri,0,0,Drama,,Sri Vijayalakshmi Pictures,False,0.841,ta,1964-11-03,164,0.0,0
+247,Vetrikku Oruvan,0,0,Drama,,,False,0.6,en,1979-12-07,,0.0,0
+248,Kungumam,0,0,Drama,,,False,0.6,en,1963-08-01,,0.0,0
+249,Arivaali,0,0,Drama,India,,False,0.841,ta,1963-02-28,127,0.0,0
+250,Age of Demons,0,0,,,,False,0.6,en,1992-01-01,75,0.0,0
+251,I Love Muppets,0,0,"Comedy, Family",United Kingdom,BBC,False,1.023,en,2002-03-31,60,6.5,4
+252,Kleiner Schwindel am Wolfgangsee,0,0,Comedy,,,False,1.4,de,1949-11-11,,2.0,1
+253,Eva erbt das Paradies,0,0,Comedy,,,False,0.841,de,1951-09-19,,0.0,0
+254,Annai Illam,0,0,Drama,,,False,0.624,en,1963-11-14,,5.0,1
+255,Kulamagal Raadhai,0,0,Drama,,,False,1.4,en,1962-12-31,,0.0,0
+256,Iruvar Ullam,0,0,Drama,India,Prasad Studios,False,0.805,en,1963-03-29,165,0.0,0
+257,Der Obersteiger,0,0,Comedy,,,False,0.6,de,1952-01-01,,0.0,0
+258,Kaiserwalzer,0,0,,,,False,1.239,de,1953-07-23,,4.5,2
+259,Attack of the Hideopoid,0,0,,,,False,0.6,en,1990-01-01,83,0.0,0
+260,Kappal Ottiya Thamizhan,0,0,History,,,False,0.6,en,1961-01-31,,0.0,0
+261,Nitchaya Thamboolam,0,0,Drama,,,False,0.6,en,1961-02-08,,0.0,0
+262,Dangerous Paradise,0,0,"Crime, Drama, Music, Romance",United States of America,Paramount,False,0.6,en,1930-02-13,58,0.0,0
+263,Der Vetter aus Dingsda,0,0,Comedy,Germany,Central-Europa Film,False,0.6,de,1953-11-26,,3.0,1
+264,Die süßesten Früchte,0,0,,,,False,0.6,de,1954-02-05,,0.0,0
+265,David Harum,0,0,Comedy,United States of America,20th Century Fox,False,0.6,en,1934-03-02,83,0.0,0
+266,Paavamannippu,0,0,Drama,,,False,1.4,en,1960-03-31,,8.0,1
+267,Irumbu Thirai,0,0,Drama,,,False,1.124,en,1960-09-01,,8.0,1
+268,Padikkadha Medhai,0,0,Drama,India,,False,1.179,ta,1960-06-25,164,7.0,1
+269,Deiva Piravi,0,0,Drama,,,False,0.6,en,1960-04-12,,8.0,1
+270,Thangapadumai,0,0,Drama,,,False,1.348,en,1959-01-10,184,0.0,0
+271,Uthama Puthiran,0,0,Drama,India,Venus Pictures,False,1.121,ta,1958-02-07,157,8.0,1
+272,Veerapandiya Kattabomman,0,0,History,India,,False,1.271,ta,1959-05-16,201,5.0,2
+273,Große Starparade,0,0,,,,False,0.627,de,1954-10-11,,0.0,0
+274,"Ja, so ist das mit der Liebe",0,0,Comedy,,,False,1.126,de,1955-02-11,,6.0,1
+275,Lullaby,0,0,Drama,United States of America,"Avenue Picture, Metalwork Pictures",False,4.728,en,2014-06-13,117,6.0,34
+276,Affluenza,0,0,"Drama, Romance",United States of America,"M.E.G.A. Films, Lookbook Films",False,3.031,en,2014-07-11,85,4.9,11
+277,Paalum Pazhamum,0,0,Drama,India,Saravana Films,False,0.6,ta,1961-09-09,185,7.0,1
+278,Kathavarayan,0,0,Drama,,,False,1.132,en,1958-03-27,,0.0,0
+279,Sabaash Meena,0,0,Drama,,,False,0.655,en,1958-03-27,,0.0,0
+280,Pudhaiyal,0,0,Drama,,,False,1.091,en,1957-03-27,,0.0,0
+281,The Third One,0,0,"Drama, Romance",Argentina,Twins Latin Films,False,7.88,es,2014-03-27,72,6.0,17
+282,Nocturna,0,0,"Drama, Horror",Portugal,,False,1.094,pt,2010-03-28,6,0.0,0
+283,Thangamalai Ragasiyam,0,0,Drama,India,,False,0.84,ta,1957-06-29,,7.0,1
+284,Baagyavathi,0,0,Drama,,,False,0.6,en,1957-12-27,,0.0,0
+285,Kalyanam Panniyum Brammachari,0,0,Comedy,,,False,0.665,ta,1954-07-01,149,0.0,0
+286,Koondukkili,0,0,Drama,India,RR Pictures,False,0.6,en,1954-03-31,,4.0,1
+287,Andha Naal,0,0,"Thriller, Crime, Mystery",India,AVM Productions,False,1.121,ta,1954-03-31,130,8.0,1
+288,Touched by Love,0,0,Drama,United States of America,Rastar Films,False,0.954,en,1980-10-31,95,5.0,2
+289,Poongothai,0,0,Drama,,,False,0.628,ta,1953-03-31,171,0.0,0
+290,Anbu,0,0,Drama,India,,False,0.6,ta,1953-02-28,,0.0,0
+291,Thirumbi Paar,0,0,Drama,,,False,0.665,ta,1953-03-31,,0.0,0
+292,Libanesa Loira,7500,0,Drama,,,False,0.667,pt,2008-10-03,,0.0,0
+293,Manohara,0,0,"Action, Drama",,,False,0.655,ta,1954-03-03,199,0.0,0
+294,Malai Nattu Mangai,0,0,Drama,,,False,1.451,en,1974-02-09,,0.0,0
+295,Curse of the Blood,0,0,Horror,Japan,"Shochiku Co., Ltd.",False,0.681,ja,1968-05-30,88,7.0,3
+296,Devi Shri Kaumariamman,0,0,Drama,,,False,0.626,en,1974-11-12,,0.0,0
+297,Kattilla Thottilla,0,0,Drama,,,False,1.09,en,1973-09-28,,0.0,0
+298,Thirumalai Daivam,0,0,Drama,,,False,0.6,ta,1972-12-31,,0.0,0
+299,School Master,0,0,Drama,,,False,0.6,ta,1973-11-29,,0.0,0
+300,The World of Liberace,0,0,"TV Movie, Music, Documentary",United Kingdom,BBC,False,1.09,en,1972-01-02,74,0.0,0
+301,Found,0,0,Fantasy,United Kingdom,Feelgood Fiction,False,0.92,en,2013-05-02,15,0.0,0
+302,Thaai Ullam,0,0,Drama,,,False,0.6,ta,1952-02-08,,0.0,0
+303,Kalyanam Panni Paar,0,0,Drama,,,False,0.841,ta,1952-08-15,,0.0,0
+304,Adiperaku,0,0,Drama,,,False,1.341,en,1951-12-31,,0.0,0
+305,Miss Malini,0,0,Drama,,,False,1.4,en,1947-09-26,,0.0,0
+306,Bloodline,0,0,Horror,United States of America,Radius Productions,False,0.6,en,2004-07-02,96,0.0,0
+307,Sergeant Matlovich vs. the U.S. Air Force,0,0,"TV Movie, Drama",United States of America,Tomorrow Entertainment,False,0.84,en,1978-08-21,100,0.0,0
+308,Naam Iruvar Namakku Iruvar,0,0,"Comedy, Drama",India,B. S. Arts,False,0.706,ta,1998-01-13,,7.0,1
+309,Metukudi,0,0,"Romance, Drama, Comedy",India,Ganga Gowri Productions,False,0.677,en,1996-09-01,,0.0,0
+310,Hello Mister Zamindar,0,0,Drama,,,False,1.091,ta,1965-05-01,,0.0,0
+311,13 kleine Esel und der Sonnenhof,0,0,Comedy,Germany,Real-Film GmbH,False,0.626,de,1958-10-31,,3.0,1
+312,Mysteryland 2002,0,0,Music,,,False,0.6,en,2002-08-24,,0.0,0
+313,Agam Puram,0,0,"Action, Drama",India,T Creations,False,0.84,ta,2010-12-09,,0.0,0
+314,Ayyanar,0,0,"Action, Drama",India,Shree Raaja Lakshmi Films,False,1.255,ta,2010-12-09,,5.0,2
+315,Kullanari Koottam,0,0,Romance,,,False,0.6,ta,2011-03-25,,0.0,0
+316,Melvin Purvis G-Man,0,0,"TV Movie, Crime, Drama",United States of America,"American International Pictures (AIP), Dan Curtis Productions",False,0.777,en,1974-04-09,74,0.0,0
+317,Alice In Chains: Rock In Rio 2013,0,0,Music,,,False,0.673,en,2013-09-19,,0.0,0
+318,Avenged Sevenfold: Rock In Rio 2013,0,0,Music,,,False,1.4,en,2013-09-22,,0.0,0
+319,Matchbox Twenty: Rock In Rio 2013,0,0,Music,,,False,0.6,en,2013-09-20,,0.0,0
+320,Rob Zombie: Rock In Rio 2013,0,0,Music,,,False,0.6,en,2013-09-19,,0.0,0
+321,The Photographer,0,0,Drama,"Chile, Spain","Orbis Producciones, In Vitro",False,1.092,es,2003-06-06,100,0.0,0
+322,Ratt: Monsters of Rock 2013,0,0,Music,,,False,0.6,en,2013-10-20,,0.0,0
+323,Postscript,0,0,Drama,Russia,Mosfilm,False,0.6,ru,1983-11-21,98,5.0,2
+324,The Engagement of Anna,0,0,,,Dinos Katsouridis,False,1.231,el,1972-09-29,82,6.0,3
+325,Everyman,0,0,Drama,Netherlands,,False,0.6,nl,1975-12-18,94,6.5,2
+326,The Story of Paul,0,0,Drama,,,False,1.12,fr,1975-10-15,81,5.0,1
+327,24 Stunden aus dem Leben einer Frau,0,0,Drama,Germany,,False,0.662,de,1931-10-11,,9.0,1
+328,Fifty-Fifty,0,0,"Mystery, Adventure","Russia, Soviet Union",Mosfilm,False,1.4,ru,1972-06-06,88,5.0,1
+329,Princess Diana: The Mourning After,0,0,Documentary,United Kingdom,Channel 4 Television,False,0.687,en,2013-08-01,50,6.2,3
+330,Something in Between,0,0,"Romance, Drama",Yugoslavia,"Radio Televizija Srbije, Centar film",False,0.6,sr,1983-01-01,105,0.0,0
+331,The Day After,0,0,,,,False,0.6,ko,2009-03-12,88,0.0,0
+332,Stone Sour: Live In Club Nokia,0,0,Music,,,False,1.4,en,2013-02-13,,0.0,0
+333,AP and AK,0,0,,,,False,0.6,en,2013-01-01,95,0.0,0
+334,MP3: una película de rock descargable,0,0,"Drama, Music, Romance",Chile,"Sonar FM, PK2Digitales",False,0.6,es,2010-12-01,,0.0,0
+335,Stevie Nicks & Lady Antebellum: CMT Crossroads,0,0,,,,False,0.6,en,2013-09-13,,0.0,0
+336,Tenacious D: Rock'n'Heim Festival,0,0,,,,False,0.6,en,2013-08-17,,0.0,0
+337,Sussi,0,0,Drama,Chile,"Arca LTDA., Anabese Films, ZDF",False,0.84,es,1988-05-23,,0.0,0
+338,Heritage,0,0,,,,False,0.6,en,1935-05-08,2,5.0,1
+339,The Shiinomi School,0,0,Drama,Japan,Shintoho Company,False,0.805,ja,1955-06-28,100,0.0,0
+340,Ghost Stories,0,0,,,,False,0.6,en,2013-11-03,38,0.0,0
+341,Pro Wrestlers vs Zombies,230000,0,"Horror, Action, Comedy",United States of America,Principalities Of Darkness,False,1.711,en,2014-03-28,90,4.3,4
+342,As Seen by the Rest,0,0,"Romance, Drama, Thriller",India,,False,0.82,kn,2014-03-28,154,7.0,6
+343,Snow Leopard: Beyond the Myth,0,0,Documentary,,,False,1.4,en,2008-01-04,,0.0,0
+344,Rowdy,0,0,"Action, Romance",India,24 Frames Factory,False,0.754,te,2014-04-04,114,5.7,3
+345,The Misanthrope,0,0,,,,False,0.842,en,2007-01-01,55,0.0,0
+346,Salaam Kashmier,0,0,"Action, Drama",India,Varnachithra Bigscreen,False,1.598,ml,2014-02-13,132,3.2,5
+347,Oyster Girl,0,0,Drama,Taiwan,,False,0.701,zh,1963-01-01,98,5.0,1
+348,Can't Stop the Water,0,0,,,,False,0.891,en,2013-10-13,30,0.0,0
+349,Betibú,0,0,Crime,Argentina,"Tornasol Films, Haddock Films, Instituto Nacional de Cine y Artes Audiovisuales, Televisión Federal (Telefe)",False,2.614,es,2014-04-10,100,5.9,16
+350,The Dawn of Sound: How Movies Learned to Talk,0,0,"Documentary, History",,,False,0.6,en,2007-01-01,85,7.0,1
+351,La vuelta de El Coyote,0,248623,"Western, Adventure",Spain,"Vía Digital, Enrique Cerezo P.C., Gonafilm, Antena 3 Televisión",False,0.6,es,1998-07-21,100,0.0,0
+352,Sirius,0,0,"Drama, War",Czech Republic,KF Praha - Filmové studio Gottwaldov,False,0.6,cs,1975-11-01,50,0.0,0
+353,Apollo Wives,0,0,Documentary,United Kingdom,,False,0.6,en,2009-01-01,50,0.0,0
+354,Península de Valdés,0,0,Documentary,Argentina,,False,0.6,es,1998-01-01,,0.0,0
+355,El asesinato de Trotsky,0,0,Documentary,Argentina,,False,0.6,es,2007-08-20,,0.0,0
+356,Insurgent,110000000,295238201,"Action, Adventure, Science Fiction, Thriller",United States of America,"Summit Entertainment, Red Wagon Entertainment, Mandeville Films, NeoReel, Lionsgate",False,26.214,en,2015-03-18,119,6.3,6893
+357,Dust,0,0,Drama,"Austria, Luxembourg",KGP Kranzelbinder Gabriele Production,False,0.955,en,2009-10-13,91,6.0,2
+358,Follow the Leader,0,0,"Comedy, Music, Romance",United States of America,Paramount,False,0.84,en,1930-12-06,76,7.5,1
+359,Destino anunciado,0,0,,Argentina,,False,0.6,es,2013-10-24,,0.0,0
+360,The Bodyguard,0,0,"Action, Western",Soviet Union,Tajikfilm,False,1.4,ru,1979-01-01,90,3.5,2
+361,Estancias Patagónicas,0,0,Documentary,Argentina,,False,0.6,es,1999-01-01,,0.0,0
+362,Чёрный пёс Петербург,0,0,Music,Russia,,False,0.6,ru,1992-12-11,,0.0,0
+363,Triptych,0,0,Drama,Uzbekistan,Uzbekfilm,False,0.662,ru,1977-12-31,76,5.0,1
+364,Bandidos legendarios de México,0,0,,Argentina,,False,1.4,es,,,0.0,0
+365,The Byrd Who Flew Alone: The Triumphs and Tragedy of Gene Clark,0,0,"Documentary, Music",United Kingdom,"Four Suns Productions, Marshall Darling Productions",False,0.6,en,2013-11-01,110,7.0,2
+366,A Família de Elizabeth Teixeira,0,0,Documentary,Brazil,Videofilmes,False,1.098,pt,2014-03-29,65,0.0,0
+367,Sobreviventes de Galileia,0,0,Documentary,Brazil,Videofilmes,False,0.848,pt,2014-03-29,27,0.0,0
+368,Poison,0,0,"Thriller, Mystery","Canada, Germany, United States of America","Quality Films Entertainment, BLT Productions",False,1.379,en,2000-04-04,93,1.0,1
+369,Prosecutor,0,0,Documentary,Canada,White Pine Pictures,False,0.6,en,2010-10-22,94,0.0,0
+370,Four Love Stories,0,0,,,,False,0.6,en,1947-04-01,112,0.0,0
+371,Abgehauen,0,0,"TV Movie, Drama",Germany,,False,0.663,de,1998-06-03,,6.0,1
+372,Draegerman Courage,0,0,Drama,United States of America,Warner Bros. Pictures,False,0.695,en,1937-05-15,58,6.5,2
+373,Samurai: Detrás del filo,0,0,Documentary,Canada,,False,0.84,es,,,0.0,0
+374,Evening Calm,0,0,,,,False,0.84,en,1957-04-01,,0.0,0
+375,"It's Three Strikes, Charlie Brown",0,0,"Animation, Comedy",,,False,0.6,en,1986-01-01,43,0.0,0
+376,51 Degrees North,0,0,"Thriller, Science Fiction, Drama, Mystery",,,False,0.928,en,2015-06-30,,3.5,2
+377,Automata,7000000,0,"Thriller, Science Fiction",Spain,"Green Moon Productions, Nu Boyana Viburno",False,20.519,en,2014-10-09,110,5.7,972
+378,Rebel Flight to Cuba,0,0,"Thriller, Adventure",Germany,Central Cinema Company Film (CCC),False,0.627,de,1959-01-01,,0.0,0
+379,Двое в степи,0,0,,,,False,0.876,ru,,,0.0,0
+380,Thambikottai,0,0,Drama,,,False,1.331,en,2011-02-10,,5.5,1
+381,Mission: Destroy Love,0,0,"Comedy, Romance",Malaysia,,False,0.706,ms,2014-02-20,97,6.0,1
+382,Nagaravadhu,0,0,Drama,,,False,0.6,ml,2001-01-31,,0.0,0
+383,Donald Duck's Christmas Favourites,0,0,"Animation, Family, Comedy",United States of America,Walt Disney Animation Studios,False,3.693,en,2012-11-13,72,5.3,5
+384,Thoondil,0,0,"Romance, Drama, Thriller",,,False,1.997,ta,2008-02-21,,0.0,0
+385,Aanmai Thavarael,0,0,Thriller,,,False,1.421,ta,2011-06-03,135,0.0,0
+386,Weekend Love,0,0,Romance,India,,False,1.348,te,2014-04-14,,0.0,0
+387,Indiralohathil Na Azhagappan,0,0,Comedy,,,False,3.038,en,2008-01-31,,0.0,0
+388,Mayanginen Thayanginen,0,0,Drama,,,False,0.632,ta,2012-06-01,,0.0,0
+389,Mathiya Chennai,0,0,Action,,,False,0.844,ta,2009-11-26,,0.0,0
+390,Malayan,0,0,Drama,,,False,0.6,en,2009-07-24,,0.0,0
+391,Narthagi,0,0,Drama,,,False,0.882,ta,2011-05-14,,0.0,0
+392,Amerikas Südwesten,0,0,Documentary,,,False,0.6,de,2013-01-21,,0.0,0
+393,Pattalam,0,0,Drama,,,False,0.843,ta,2009-03-27,,0.0,0
+394,Murattu Kaalai,0,0,Romance,,Ayngaran International,False,0.675,ta,2012-06-15,,5.0,1
+395,Mahaan Kanakku,0,0,Comedy,,,False,1.15,ta,2011-12-29,149,0.0,0
+396,Iyakkam,0,0,Drama,,,False,0.6,en,2008-04-25,,0.0,0
+397,Irandu Mugam,0,0,Comedy,,,False,0.6,en,2010-09-03,,0.0,0
+398,Verão Coincidente,0,0,,,,False,1.4,pt,1963-05-03,13,0.0,0
+399,Keeripulla,0,0,Romance,,,False,0.626,ta,2013-03-29,,4.5,1
+400,Tomorrow We Disappear,0,0,Documentary,,,False,0.6,en,2014-04-19,80,5.0,1
+401,Kings of the Wind & Electric Queens,0,0,Documentary,,,False,0.6,fr,2014-04-30,56,0.0,0
+402,Kalyug,0,0,Documentary,,,False,1.097,en,2013-10-28,74,0.0,0
+403,Kaattu Puli,0,0,Thriller,,,False,0.916,ta,2012-02-16,,3.5,1
+404,Degrees of Blindness,0,0,,,,False,0.664,en,1988-01-01,19,0.0,0
+405,Trzy kobiety,0,0,Drama,,,False,0.841,pl,1957-05-06,89,0.0,0
+406,Prog Rock Britannia,0,0,"Documentary, Music",United Kingdom,BBC,False,1.053,en,2009-01-02,89,8.0,3
+407,Festivals Britannia,0,0,Documentary,,,False,0.6,en,,90,0.0,0
+408,Road to St. Tropez,0,0,Comedy,"France, United Kingdom",Script and Play,False,0.624,en,1966-03-01,31,4.0,1
+409,Pop Charts Britannia: 60 Years of the Top 10,0,0,Documentary,,,False,0.6,en,2012-11-16,90,7.0,1
+410,Appavi,0,0,Drama,,,False,0.6,en,2011-04-01,,0.0,0
+411,Abschiedsvorstellung,0,0,,,,False,0.894,de,1986-03-17,,0.0,0
+412,Bullets Don't Come Back,0,0,Western,Greece,Finos Film,False,0.871,el,1967-09-01,116,5.0,1
+413,Thithikkum Ilamai,0,0,Romance,,,False,0.6,en,2008-05-30,,0.0,0
+414,Hu-Man,0,0,"Drama, Science Fiction",France,"Filmologies, Romantique Films, Office de Radiodiffusion Télévision Française (ORTF), Institut National de l'Audiovisuel (INA)",False,1.258,fr,1975-10-01,93,0.0,0
+415,Kei To The City,0,0,Documentary,,,False,1.4,en,2014-02-26,62,6.2,3
+416,Грех,0,0,,,,False,0.84,ru,2007-03-16,,0.0,0
+417,No Body Is Perfect,0,0,Documentary,,,False,0.6,en,2006-08-05,82,0.0,0
+418,Spirits,0,0,"Thriller, Horror",,,False,0.862,vi,2004-05-07,120,5.6,5
+419,Bigfoot: The Definitive Guide,0,0,,,,False,0.6,en,2011-05-05,120,0.0,0
+420,The Hip-Hop Fellow,0,0,,,,False,0.6,en,2014-04-05,78,0.0,0
+421,The Belly Dancer and the Politician,0,0,,,,False,0.6,en,1990-04-05,,6.5,1
+422,A Death in Canaan,0,0,"TV Movie, Drama",United States of America,"Warner Bros. Television, Chris/Rose Productions",False,0.695,en,1978-03-01,125,6.5,2
+423,"Young Joe, the Forgotten Kennedy",0,0,"TV Movie, Drama",,,False,0.6,en,1977-09-18,100,0.0,0
+424,Eleanor and Franklin: The White House Years,0,0,"Drama, TV Movie",United States of America,,False,0.6,en,1977-03-13,180,8.0,2
+425,Harry S. Truman: Plain Speaking,0,0,"Drama, TV Movie",United States of America,WQED,False,0.6,en,1976-10-06,,0.0,0
+426,Fear on Trial,0,0,"Drama, TV Movie",United States of America,"CBS Television Studios, Alan Landsburg Productions",False,1.124,en,1975-10-02,100,9.0,1
+427,Zohra,0,0,,Tunisia,,False,0.6,en,1922-01-01,9,4.0,1
+428,Closet Children,0,0,Drama,,,False,0.822,en,1977-10-12,105,5.0,1
+429,Ninja Kids!!! Summer Mission Impossible,0,0,"Action, Comedy",Japan,Amuse Soft Entertainment,False,0.6,en,2013-07-06,90,0.0,0
+430,Back to Roots,0,0,,,,False,0.621,en,1995-05-11,106,5.0,1
+431,Hades,0,0,Drama,Germany,,False,0.6,de,1995-04-01,,0.0,0
+432,A Play for a Passenger,0,0,Drama,Russia,ARK-Film,False,0.699,ru,1995-02-09,103,1.0,1
+433,Sh'Chur,0,0,Drama,Israel,Mecklberg Media Group,False,0.65,he,1994-01-02,98,6.5,2
+434,Alles auf Anfang,0,0,Comedy,Germany,,False,0.661,de,1994-05-26,90,3.0,1
+435,Der Blaue,0,0,Drama,Germany,Journal-Film Klaus Volkenborn KG,False,1.23,de,1994-02-21,96,4.5,3
+436,Shelter of the Wings,0,0,Drama,India,Gope Movies,False,0.6,bn,1994-04-01,97,5.0,1
+437,The Window Over the Way,0,0,,,,False,1.4,es,,,0.0,0
+438,The Winner in You,0,0,,,,False,1.4,de,2013-06-23,60,0.0,0
+439,Noah,0,0,"Adventure, Documentary",,,False,1.092,en,2004-01-01,6,0.0,0
+440,Verfluchte Beute,0,0,Thriller,"Germany, Austria","Pro7, ProSieben Television",False,0.6,de,2004-04-01,,0.0,0
+441,Leonardo - Autoritratto di un genio,0,0,,,,False,0.6,it,2013-04-06,,0.0,0
+442,Bitter Sweet,0,0,"Drama, Romance, Music",United Kingdom,"British & Dominions Film Corporation, Herbert Wilcox Productions",False,0.6,en,1933-08-21,93,0.0,0
+443,Aschenputtel,0,0,"Comedy, Family, Fantasy",Germany,Fritz Genschow Films,False,0.662,de,1955-09-03,,7.0,1
+444,Victoria the Great,0,0,"Drama, History",United Kingdom,Herbert Wilcox Productions,False,0.84,en,1937-09-01,112,5.0,1
+445,Sixty Glorious Years,0,0,History,United Kingdom,,False,1.211,en,1938-11-18,95,0.0,0
+446,The Story of Musicals,0,0,,,,False,0.6,en,2012-01-01,,0.0,0
+447,The Last Goon Show of All,0,0,,,,False,0.84,en,1972-05-10,59,0.0,0
+448,Zero,0,0,"Horror, Action",United Kingdom,,False,0.627,en,2014-01-11,23,9.5,1
+449,The Fools on the Hill,0,0,,,,False,0.84,en,1986-10-27,99,0.0,0
+450,Evergreen,0,0,"Fantasy, Science Fiction",Greece,Tetragonismeno Tetragono,False,0.655,en,2012-04-06,14,7.0,2
+451,A Moment in Time,0,0,,,,False,0.84,en,1979-09-04,120,0.0,0
+452,The Good Companions,0,0,"Music, Comedy, Romance",United Kingdom,Associated British Picture Corporation,False,0.841,en,1957-04-22,104,0.0,0
+453,The Beachcomber,0,0,"Drama, Romance, Comedy","South Georgia and the South Sandwich Islands, Sri Lanka, United Kingdom",,False,0.6,en,1954-08-10,82,8.0,2
+454,Auf der Sonnenseite,0,0,"Music, Comedy, Romance",Germany,DEFA,False,0.627,de,1962-01-04,101,0.0,0
+455,Our Summer in Provence,0,0,"Comedy, Drama",France,"Légende Films, Gaumont, France 2 Cinéma",False,13.345,fr,2014-04-02,105,6.6,162
+456,Eric Clapton - Live on Basel,0,0,Music,"Switzerland, Germany",ZDF,False,0.884,de,2013-11-01,,0.0,0
+457,Who Pays The Ferryman?,0,0,,,,False,0.6,en,1977-01-01,400,0.0,0
+458,Jhoothi,0,0,"Drama, Comedy",India,,False,0.6,hi,1985-09-23,,5.0,1
+459,Propaganda,0,0,,,,False,1.098,en,2014-04-03,61,0.0,0
+460,7/64: Leda and the Swan,0,0,,Austria,,False,0.981,de,1964-01-01,3,6.7,3
+461,Thanks for Everything,0,0,Comedy,United States of America,20th Century Fox,False,0.721,en,1938-12-23,70,0.0,0
+462,38/79: Sentimental Punk,0,0,Documentary,Austria,,False,0.985,de,1979-01-01,5,5.0,2
+463,"Auf Wiedersehn, Franziska",0,0,"Drama, Romance",,Terra-Filmkunst,False,0.6,de,1941-04-24,,0.0,0
+464,Idhuthanda Sattam,0,0,,,,False,0.62,en,1992-05-29,,4.0,1
+465,Soaking Wet,0,0,,,,True,0.6,en,2013-10-08,,0.0,0
+466,Doin' Time in the Homo No Mo' Halfway House,0,0,"Comedy, Documentary",United States of America,,False,0.6,en,2008-01-01,,0.0,0
+467,36/78: Rischart,0,0,,Austria,,False,0.625,de,1978-01-01,3,6.0,1
+468,The Denunciation,0,0,Drama,Germany,,False,0.84,de,1993-05-06,,0.0,0
+469,DP My Wife With Me,0,0,,United States of America,Reality Junkies,True,0.626,en,2013-04-17,,8.0,1
+470,Couch Surf,0,0,Comedy,Hungary,FilmTeam,False,0.84,hu,2014-03-06,,0.0,0
+471,Whoops,0,0,,,,False,0.6,hu,1993-02-12,,0.0,0
+472,Dead in the Water,0,0,Horror,,,False,0.6,en,2006-01-01,85,5.5,2
+473,Jungle Beat,90000,0,Animation,South Africa,,False,0.6,en,2004-04-06,,0.0,0
+474,Scooby-Doo! and the Werewolves,0,0,,,,False,0.6,en,2012-10-23,,7.0,1
+475,UK Wife Swappers,0,0,,,,True,0.6,en,2004-08-26,,0.0,0
+476,The Betrayed,0,0,,,,False,0.6,nl,1992-05-10,,0.0,0
+477,Taryanche Bait,0,0,,India,,False,1.344,en,2011-04-11,100,0.0,0
+478,Screw My Wife Please! # 63: And Give Her A Creampie,0,0,,,,True,0.6,en,2008-05-07,,0.0,0
+479,The Conjugal Bed,0,0,Comedy,Romania,Alpha (II),False,0.65,ro,1993-05-12,102,6.5,2
+480,Drunk Sex Orgy: Crazier By The Dozen,0,0,,,,True,1.209,en,2012-04-20,,10.0,1
+481,El largo invierno,0,0,"War, Drama",Spain,,False,1.24,en,1992-02-15,,6.0,1
+482,Big Rascal,0,0,,,,False,0.6,zh,1979-01-01,89,0.0,0
+483,La Influencia,675,0,Drama,"Spain, Mexico","Mantarraya Producciones, No Dream Cinema, Alokatu S.L.",False,0.824,es,2007-05-24,83,5.0,1
+484,Irish Eyes,0,0,"Action, Drama, Crime",United States of America,"Shoreline Entertainment, Shooting Spree Films",False,0.99,en,2004-07-22,112,3.8,2
+485,Fast Fists,0,0,,,,False,1.09,en,1973-08-02,86,0.0,0
+486,Teletubbies: Silly Songs and Funny Dances,0,0,,,,False,0.624,en,2002-01-01,,1.0,1
+487,Dressed to Kill,0,0,"Comedy, Crime",United States of America,Fox Film Corporation,False,1.395,en,1928-03-17,70,0.0,0
+488,Teletubbies: Baby Animals,0,0,,,,False,0.6,en,1998-01-01,,0.0,0
+489,"Crouching Tiger, Hidden Dragon: Sword of Destiny",20000000,0,"Action, Adventure, Drama",China,"The Weinstein Company, Yucaipa Films, Pegasus Taihe Entertainment",False,9.307,en,2016-02-18,103,5.9,305
+490,Aufruhr im Schlaraffenland,0,0,,,,False,0.6,de,1957-09-14,,0.0,0
+491,Secret to Her,0,0,"Romance, Comedy, Action",South Korea,Triumph Films,False,0.986,ko,2008-04-09,90,3.5,2
+492,Snake's Fang,0,0,,,,False,0.672,en,1990-01-02,105,5.0,1
+493,Erfolg,0,0,Drama,Germany,,False,0.664,de,1991-02-28,,0.0,0
+494,Quiet Days in August,0,0,,,,False,0.6,el,1995-09-23,,5.0,1
+495,Bankomatt,0,0,,,,False,0.6,en,1989-02-13,,0.0,0
+496,Hope and Pain,0,0,,,,False,0.6,ja,1988-08-06,,9.0,2
+497,Fallada - letztes Kapitel,0,0,"History, Drama",Germany,DEFA,False,0.87,de,1988-05-11,101,5.0,1
+498,"Histoires d'Amérique: Food, Family and Philosophy",0,0,,,,False,0.654,en,1989-10-04,92,0.0,0
+499,Ave Maria,0,0,Drama,Germany,Divina-Film,False,0.697,de,1953-09-07,93,7.0,1
+500,1952: Ivan and Aleksandra,0,0,Drama,Bulgaria,,False,0.6,bg,1989-12-27,,0.0,0
+501,The Forgotten Imperial Army,0,0,,,,False,0.823,en,1963-08-16,25,7.0,1
+502,Pestalozzis Berg,0,0,Drama,"Germany, Italy, Switzerland","Praesens-Film AG, Stella Film, Ellepi Films, DEFA",False,1.201,de,1989-03-17,119,0.0,0
+503,Send Regards to Mannetjies Roux,650000,0,Drama,South Africa,,False,1.422,af,2013-12-13,92,0.0,0
+504,Story of San Michele,0,0,"History, Drama",,,False,0.655,de,1962-09-27,,0.0,0
+505,Méfiez-vous des blondes,0,0,,,,False,0.6,fr,1950-11-24,,0.0,0
+506,Das Bad auf der Tenne,0,0,Comedy,Germany,Tobis Filmkunst,False,0.6,de,1943-07-30,88,10.0,2
+507,Thomas & Friends: Schoolhouse Delivery,0,0,"Family, Animation","United Kingdom, United States of America","Hit Entertainment, Lionsgate",False,1.4,en,2012-07-10,49,5.3,2
+508,Days to Remember,0,0,"Romance, Drama","Germany, Serbia, Montenegro","Von Vietinghoff Filmproduktion, Zeta Film, Art Film 80",False,0.6,de,1987-02-27,95,0.0,0
+509,The Dawn,0,0,,,,False,0.6,en,1986-01-01,,10.0,1
+510,My First Two Hundred Years,0,0,,Hungary,,False,0.6,en,1985-02-28,,0.0,0
+511,Flight North,0,0,Drama,"Finland, Germany",,False,0.654,en,1986-02-01,122,0.0,0
+512,Gilsoddeum,0,0,,,,False,0.6,ko,1986-04-05,105,6.0,2
+513,Hideouts,0,0,"War, Drama","Germany, Austria",Bayerischer Rundfunk,False,0.6,de,1986-01-01,100,0.0,0
+514,"My Darling, My Darling",0,0,"Drama, Family","Bulgaria, Hungary",Boyana Film,False,0.6,bg,1986-02-03,107,0.0,0
+515,Teo the Redhead,0,0,,,,False,0.6,es,1986-02-09,,0.0,0
+516,Love Me!,0,0,Drama,Sweden,"Svenska Filminstitutet, Svensk Filmindustri, Esselte Video, Filmstallet, SVT",False,0.6,sv,1986-02-28,126,5.0,1
+517,Parallel Space: Inter-View,0,0,,Austria,,False,0.84,en,1992-01-01,18,0.0,0
+518,Ernest Goes to Splash Mountain,0,0,"Comedy, TV Movie",,,False,1.904,en,1989-07-07,21,5.1,5
+519,The Lady Consents,0,0,Drama,United States of America,RKO Radio Pictures,False,1.241,en,1936-02-07,76,6.0,1
+520,Paris Bound,0,0,"Drama, Romance",United States of America,Pathé Exchange,False,0.6,en,1929-08-03,73,4.0,2
+521,You Can't Beat the Law,0,0,"Crime, Drama",United States of America,Monogram Pictures,False,1.732,en,1943-01-29,61,5.5,2
+522,Drop Me a Cat,0,0,,Taiwan,,False,0.6,zh,2003-03-15,94,6.0,1
+523,The Wrestler,0,0,Drama,Turkey,,False,0.904,tr,1984-01-02,98,4.5,2
+524,The Descent of the White Leopard,0,0,"Fantasy, History","Soviet Union, Kyrgyz Republic",Kyrgyzfilm,False,0.6,ru,1984-12-01,134,5.0,1
+525,A Fairy Tale Wedding,0,0,Comedy,Italy,"BLS Südtirol Alto Adige, Italian International Film, Rai Cinema, 01 Distribution",False,6.839,it,2014-04-10,91,5.7,93
+526,Conny und Peter machen Musik,0,0,"Music, Comedy",Germany,"Roxy Film, Melodie Film",False,1.121,de,1960-08-11,87,5.0,1
+527,Sadness and Beauty,0,0,Drama,,,False,1.377,en,1985-08-28,100,0.0,0
+528,Der Czardas-König,0,0,,,,False,0.6,de,1959-11-20,,0.0,0
+529,Quattro bravi ragazzi,0,0,,,,False,0.6,it,1993-07-12,,6.6,4
+530,The Whistle-Blower,0,0,"Drama, Thriller, Crime",United Kingdom,,False,1.127,es,2001-04-14,160,0.0,0
+531,Cyankali,0,0,Drama,Germany,Atlantis-Film GmbH,False,0.987,de,1930-05-22,89,7.0,1
+532,The Last Railway,0,0,"Crime, Thriller",Serbia,Udruženje Filmskih Umetnika Srbije,False,0.6,sr,1956-01-01,84,4.0,3
+533,Common People,0,0,"Comedy, Romance",United Kingdom,,False,0.6,en,2013-03-01,89,0.0,0
+534,El clavo de oro,0,0,"Comedy, Drama",Spain,Paso a Paso films,False,0.634,es,2014-01-01,,0.0,0
+535,Ordo,0,0,Drama,"Canada, France, Portugal",Gemini Films,False,0.95,fr,2004-09-15,115,5.0,1
+536,In Search of James Bond with Jonathan Ross,0,0,Documentary,United Kingdom,London Weekend Television (LWT),False,2.008,en,1995-12-10,60,2.0,1
+537,Masala,0,0,"Action, Comedy, Drama",,,False,1.127,te,2013-10-23,140,6.5,1
+538,Latest News,0,0,Comedy,Sweden,Studio Lagnö AB,False,0.651,sv,1997-03-07,3,7.5,2
+539,One Night Downtown,0,0,Drama,,,False,0.6,sv,1999-01-29,3,4.0,1
+540,"Farewell, Herr Schwarz",0,0,Documentary,,,False,0.6,de,2014-04-10,96,8.0,1
+541,American Bomber,0,0,"Action, Drama, Thriller",United States of America,,False,1.4,en,2006-08-08,80,4.5,2
+542,The Silly Bastard Next to the Bed,0,0,Documentary,,,False,0.6,en,2014-04-05,11,0.0,0
+543,Angelina Ballerina: Love to Dance,0,0,"Animation, Family",,,False,0.6,en,2010-01-04,61,0.0,0
+544,Disneys sjov med ekstremsport,0,0,,United States of America,"Walt Disney Television Animation, Buena Vista Pictures",False,0.6,da,2005-06-05,,0.0,0
+545,Ghost: Rock in Rio 2013,0,0,Music,,,False,0.6,en,2013-09-19,55,0.0,0
+546,Best of Anne Roumanoff : On ne nous dit pas tout,0,0,Comedy,,,False,0.6,fr,2008-10-08,,0.0,0
+547,Girivalam,0,0,"Romance, Thriller, Drama",India,Variety Frames,False,0.878,ta,2005-05-20,137,0.0,0
+548,Thirudan Police,0,0,"Comedy, Family, Romance",India,"Kenanya Films, Capital Film Works",False,0.6,ta,2014-11-14,136,3.8,2
+549,Sathriya vamsam,0,0,Romance,,,False,0.889,en,2012-10-19,,0.0,0
+550,The In-Between,0,0,,,,False,0.6,en,2010-06-01,10,0.0,0
+551,Frozen Roads,0,0,Drama,Canada,,False,0.6,en,2012-06-26,18,0.0,0
+552,A Patriotic Man,2300000,0,"Drama, Comedy","Finland, Croatia",Future Films,False,1.744,fi,2013-12-04,97,6.0,4
+553,Yagavarayinum Naa Kaakka,0,0,"Romance, Action",,,False,2.126,ta,2015-06-26,151,6.1,4
+554,Lessons in Dissent,0,0,Documentary,"Hong Kong, United Kingdom",,False,1.098,en,2014-03-29,98,0.0,0
+555,Freak,0,0,Drama,,,False,0.654,en,,18,0.0,0
+556,Cervantes from the Small Town,0,0,"Comedy, Fantasy",Croatia,"Jadran Film, Croatia Film, FRZ Servantes",False,1.02,hr,1982-02-02,106,5.3,2
+557,Bang Bang Alley,0,0,Crime,Philippines,Curve Entertainment,False,1.098,en,2014-04-09,110,0.0,0
+558,Tamilselvanum Thaniyar Anjalum,0,0,"Romance, Action",India,Photon Kathaas,False,0.6,ta,2016-08-05,112,5.0,2
+559,Ennamo Nadakkudhu,0,0,Thriller,India,,False,0.742,ta,2014-04-25,127,7.5,2
+560,Polytechnic,900000,1200000,"Comedy, Romance",India,K N M & Percy Pictures,False,1.189,ml,2014-04-09,150,4.2,5
+561,Time and the More It Changes,0,0,Documentary,,,False,0.6,en,1972-05-14,50,0.0,0
+562,Thirumanam Enum Nikkah,0,0,Romance,India,Aascar Films,False,2.272,ta,2014-07-24,133,4.7,3
+563,Hitler's Hitparade,0,0,Documentary,Germany,,False,0.6,en,2005-10-01,76,0.0,0
+564,Da stimmt was nicht,0,0,,,,False,0.627,de,1934-10-08,,0.0,0
+565,That's Sexploitation!,0,0,Documentary,,,False,1.025,en,2013-06-25,136,6.3,4
+566,Uyirile Kalanthathu,0,0,"Romance, Action",India,,False,0.667,ta,2000-09-23,149,4.0,1
+567,Warrior Assassin,0,0,Action,"United States of America, China",,False,0.937,zh,2013-11-22,132,3.7,3
+568,Image of Image – Seeing,0,0,,Japan,Electronic Arts Intermix,False,0.6,en,1973-04-10,11,0.0,0
+569,Dora the Explorer: Dora Saves the Mermaids,0,0,"Animation, Family, Adventure",,,False,0.6,en,2007-07-07,43,5.0,1
+570,The Cockpit,0,0,"Animation, History, War",Japan,"Jacom, Visual 80, Madhouse",False,0.857,ja,1993-10-23,69,6.5,2
+571,The Recognition Construction: Hyojyutsu (Against Application or Mimesis),0,0,,Japan,Electronic Arts Intermix,False,0.6,en,1975-04-10,20,0.0,0
+572,Love's Debris,0,0,"Music, Documentary",,"MC4 Productions, Imalyre, VTCOM France Telecom, Schlemmer Film, La Sept-Arte, France Supervison, Fondation France Telecom, Black Forest Films, Westdeutscher Rundfunk",False,0.6,en,1996-11-07,130,10.0,1
+573,Revenge of the Mysterons from Mars,0,0,"Science Fiction, Action, Family",United Kingdom,ITC Entertainment,False,1.607,en,1981-01-01,91,0.0,0
+574,SST: Death Flight,0,0,"Thriller, TV Movie, Drama, Action",United States of America,ABC Circle Films,False,3.368,en,1977-02-25,89,3.8,3
+575,Mighty Jack,0,0,,,,False,0.952,en,1987-01-01,90,1.5,2
+576,Into the Pit: The Shocking Story of Deadpit.com,0,0,Documentary,United States of America,,False,0.843,en,2009-08-09,95,0.0,0
+577,Bhoothnath Returns,0,0,"Comedy, Drama, Horror, Fantasy",India,T-Series,False,1.332,hi,2014-04-11,152,6.0,30
+578,Superdome,0,0,"Crime, Drama",United States of America,ABC Circle Films,False,0.982,en,1978-01-09,100,2.5,2
+579,My Hometown,0,0,Drama,South Korea,,False,0.6,ko,1976-01-31,105,0.0,0
+580,A Little Touch Of Schmilsson In The Night,0,0,Music,,,False,1.176,en,1973-04-11,40,0.0,0
+581,"Au Siècle De Maupassant, Contes Et Nouvelles Du Xixe",0,0,,France,,False,1.129,pt,2009-03-10,,0.0,0
+582,Fruto Proibido,0,0,,Brazil,,False,0.6,pt,1976-01-01,,0.0,0
+583,Best Man,0,0,,,,False,0.6,en,,6,0.0,0
+584,Solo,0,0,,Brazil,,False,0.6,pt,2009-01-01,,0.0,0
+585,Comfy,0,0,Animation,United Kingdom,Aardman Animations,False,1.341,en,2000-06-01,2,0.0,0
+586,Joke's On You,0,0,,,,False,0.6,en,,9,6.0,1
+587,Pecado na Sacristia,0,0,,Brazil,,False,0.664,pt,1975-01-01,,0.0,0
+588,Any Given Wednesday,0,0,Comedy,United States of America,Broken Twig Productions Inc.,False,0.693,en,2000-02-02,2,6.3,3
+589,O Mulherengo,0,0,,Brazil,,False,0.826,pt,1976-01-01,,0.0,0
+590,The Man You Had in Mind,0,0,,,TLA Releasing,False,0.6,en,2006-06-10,95,0.0,0
+591,Eu Não Conhecia Tururu,0,0,,Brazil,,False,0.6,es,2000-08-04,,0.0,0
+592,Where Were We...,0,0,Comedy,United Kingdom,"Rubberducks, Rubberductions, Trickster Productions",False,0.6,en,2002-06-01,3,0.0,0
+593,Der letzte Patriarch,0,0,"TV Movie, Drama",Germany,"UFA Filmproduktion GmbH, ARD/Degeto Film",False,0.6,de,2010-09-10,,0.0,0
+594,Five Ways John Wayne Didn't Die,0,0,Comedy,United Kingdom,MIDA,False,0.6,en,2002-06-01,10,0.0,0
+595,20-N: Los últimos días de Franco,0,0,"History, Drama",Spain,,False,0.6,es,2008-11-20,,5.0,1
+596,Rhubarb and Roses,0,0,"Comedy, Drama",United Kingdom,Screen West Midlands,False,0.841,en,2002-11-18,10,0.0,0
+597,Augsburger Puppenkiste - Drei Dschungeldetektive,0,0,,,,False,0.84,de,1991-01-01,,0.0,0
+598,Conspiracy '58,20000,0,"Comedy, Documentary, Drama",Sweden,STAVRO,False,0.949,en,2002-05-28,28,6.0,2
+599,Indian Uprising,0,0,Western,United States of America,Edward Small Productions,False,1.321,en,1952-01-02,72,5.5,4
+600,Put Your Coat On,0,0,Drama,United Kingdom,Hurricane Film,False,0.6,en,2002-06-01,7,0.0,0
+601,Augsburger Puppenkiste - Neues von der Katze mit Hut,0,0,,,,False,0.6,de,1983-01-01,,0.0,0
+602,A Ninja Pays Half My Rent,0,0,Comedy,United States of America,Black Gold Films,False,0.91,en,2003-03-08,5,7.0,2
+603,Augsburger Puppenkiste - Katze mit Hut,0,0,,,,False,0.6,de,1982-01-01,,0.0,0
+604,On the Loose,10000,0,Drama,United Kingdom,,False,0.628,en,2004-06-08,8,0.0,0
+605,Kvinnokraft,0,0,Comedy,Sweden,"Filmpool Jämtland, Studio Langnö AB",False,0.6,en,2004-05-14,4,0.0,0
+606,Sur la trace des Celtes,0,0,Documentary,France,"ARTE, CNRS Images, Gedeon Programmes",False,0.6,fr,2003-01-01,,0.0,0
+607,Double Dip or: How Four Discs of Pearl Harbor Ruined My Life,250,0,Comedy,United States of America,Ragtag Productions,False,1.4,en,2005-10-01,10,0.0,0
+608,All Quiet Now,0,0,"Animation, Comedy",Sweden,Sandberg Animation,False,0.804,en,2006-11-18,7,6.3,4
+609,Ricky Gervais Meets... Larry David,0,0,Documentary,United Kingdom,Objective Media Group,False,0.902,en,2006-01-05,55,6.0,2
+610,Salawati,0,0,,,,False,0.6,en,2008-10-09,82,0.0,0
+611,365 Without 377,0,0,"Documentary, History","Italy, India",,False,1.095,en,2011-05-01,53,0.0,0
+612,Wizard's Way,0,0,,,,False,0.6,en,2014-01-19,76,0.0,0
+613,Davon träumen alle Mädchen,0,0,Comedy,Germany,"Arca-Filmproduktion GmbH, Hans Oppenheimer Film",False,0.871,de,1961-08-31,,10.0,1
+614,Sixth Happiness,0,0,Drama,,,False,0.627,en,1997-10-04,97,0.0,0
+615,Dream Town,0,0,,,,False,0.6,en,2014-04-04,77,0.0,0
+616,Your Caresses,0,0,"Romance, Drama",Germany,"Stella Films, Peter Schamoni Film, Rinco Film",False,1.96,de,1969-11-06,92,3.5,1
+617,Snide and Prejudice,0,0,Drama,United States of America,"FOCUSfilm Entertainment, Bombastic Pictures",False,0.874,de,1997-05-11,119,0.0,0
+618,The Wild And The Naked,0,0,Drama,United States of America,Marsho Pictures Corp.,False,1.575,en,1962-11-21,68,5.0,1
+619,Thirunelveli,0,0,Drama,,,False,0.627,en,2000-01-14,,0.0,0
+620,The Sixth of June at Dawn,0,0,"Documentary, War",France,,False,1.4,fr,1946-11-14,41,6.0,3
+621,Even with My Eyes Open,0,0,,,,False,0.6,en,2011-04-11,54,0.0,0
+622,Secrets of Madame Wong,0,0,"Action, Thriller",Soviet Union,Kazakhfilm Studios,False,0.658,ru,1986-06-09,91,4.0,2
+623,Frauchen und die Deiwelsmilch,0,0,"TV Movie, Comedy, Crime",Germany,"ARD/Degeto Film, Südwestrundfunk",False,0.628,de,2014-04-10,89,5.0,1
+624,Valse royale,0,0,Comedy,France,Universum Film (UFA),False,0.915,en,1936-01-03,95,0.0,0
+625,Anvil - Live at Rockpalast,0,0,Music,,,False,0.845,en,2011-07-10,93,0.0,0
+626,Çürük - The Pink Report,0,0,Documentary,Germany,,False,0.6,en,2011-04-15,75,0.0,0
+627,Peter Cetera - Live Salt Lake City,0,0,Music,United States of America,,False,0.6,en,2004-04-14,,0.0,0
+628,John Leguizamo: Ghetto Klown,0,0,Comedy,United States of America,Silver Lining Entertainment (II),False,1.439,en,2014-04-05,93,7.7,3
+629,Gangster,1300000,0,Action,India,Aan Mega Media,False,1.4,ml,2014-04-11,150,3.6,4
+630,Love Sins,0,0,,,,False,0.876,it,1987-01-30,107,0.0,0
